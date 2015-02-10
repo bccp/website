@@ -1,0 +1,10 @@
+# compiled config
+*.py[cod]
+
+# emacs files
+*~
+
+# generated
+cache
+output
+.doit.db
