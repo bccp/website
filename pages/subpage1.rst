@@ -2,10 +2,10 @@
 .. description: 
 .. tags: 
 .. date: 2014/02/08 12:19:51
-.. title: Subpage 1
-.. slug: subpage1
+.. title: Research
+.. slug: research
 
-Subpage 1
+Research
 ---------
 
-Some text!
+Talk about the Research in BCCP
