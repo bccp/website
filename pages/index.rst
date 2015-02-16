@@ -3,9 +3,10 @@
 .. slug: index
 .. hidetitle: true
 
-The homepage of the Berkeley Center for Cosmological Physics.
-
 .. slides::
 
    /galleries/frontpage/ExpansionOftheCosmos2.jpg
    /galleries/frontpage/orangepie.jpg
+
+
+The homepage of the Berkeley Center for Cosmological Physics.
