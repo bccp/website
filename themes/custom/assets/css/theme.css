@@ -1,16 +1,5 @@
-/* copied from bootstrap3 theme and modfied. */
-
 body {
     margin-top: 60px;
-    background: #f9f9f9;
-}
-
-ul {
-    padding-left: 1.5em;
-}
-
-.container {
-    max-width: 750px;
 }
 
 #container {
@@ -25,14 +14,12 @@ ul {
     width: 150px;
 }
 
-/*
 img {
     max-width: 90%;
 }
-*/
 
 .postbox {
-/*    border-bottom: 2px solid darkgrey; */
+    border-bottom: 2px solid darkgrey;
     margin-bottom: 12px;
 }
 
@@ -40,7 +27,7 @@ img {
     text-align: right;
 }
 
-#addthisbox {margin-bottom: 0px;}
+#addthisbox {margin-bottom: 12px;}
 
 td.label {
     /* Issue #290 */
@@ -90,38 +77,14 @@ ul.bricks > li {
     margin: 3px;
 }
 
-.at300b {
+.at300b, .stMainServices, .stButton, .stButton_gradient {
     box-sizing: content-box;
 }
 
-
 pre, pre code {
-  padding: 10px;
-  box-shadow: 0 0 10px rgba(0,0,0,.1);
-  overflow: auto;
-  word-wrap: normal;
-  white-space: pre;
-}
-
-tt {
-  padding: 3px;
-  margin: 0 3px;
-  box-shadow: 0 0 10px rgba(0,0,0,.1);
-}
-
-pre, pre.code, tt {
-  color: #222;
-  background-color: #fff;
-  /*font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;*/
-  /*font-size: 14px;*/
-  border: 0;
-  border-radius: 2px;
-  -moz-border-radius: 2px;
-  -webkit-border-radius: 2px;
-}
-
-pre.literal-block, pre.code {
-  margin: 1em 0em;
+    white-space: pre;
+    word-wrap: normal;
+    overflow: auto;
 }
 
 article.post-micro {
@@ -129,76 +92,85 @@ article.post-micro {
     font-size: 1.5em;
 }
 
-/* fix anchors for headers */
-h1, h2, h3 {
-    margin-top: -60px;
-    padding-top: 60px;
+.image-block {
+    display: inline-block;
 }
 
-h4, h5, h6 {
-    margin-top: -50px;
-    padding-top: 60px;
+.flowr_row {
+    width: 100%;
+}
+
+.tags {
+    padding-left: 0;
+    margin-left: -5px;
+    list-style: none;
+    text-align: center;
+
+}
+
+.tags > li {
+    display: inline-block;
+    min-width: 10px;
+    padding: 3px 7px;
+    font-size: 12px;
+    font-weight: bold;
+    line-height: 1;
+    color: #fff;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    background-color: #999;
+    border-radius: 10px;
+}
+
+.tags > li a {
+    color: #fff;
+}
+
+.metadata p:before,
+.postlist .listdate:before {
+    content: " — ";
+}
+
+.metadata p:first-of-type:before {
+    content: "";
+}
+
+.metadata p {
+    display: inline;
+}
+
+.posttranslations h3 {
+    display: inline;
+    font-size: 1em;
+    font-weight: bold;
+}
+
+.posttranslations h3:last-child {
+    display: none;
+}
+
+.entry-content {
+    margin-top: 1em;
+}
+
+.navbar-brand {
+    padding: 0 15px;
+}
+
+.navbar-brand #blog-title {
+    padding: 15px 0;
+    display: inline-block;
+}
+
+.navbar-brand #logo {
+    max-width: 100%;
+}
+
+.navbar-brand>img {
+    display: inline;
 }
 
 .row {
-    margin-left: 0px;
-    margin-right: 0px;
-}
-
-@media (min-width: 768px) {
-  .navbar-nav.navbar-right:last-child {
-      margin-right: 0px;
-  }
-}
-
-/* In posts, reduce space between title and <hr> */
-hr {
-    margin-top: 11px;
-    margin-bottom: 11px;
-}
-.postbox h1 {
-    margin-bottom: -17px;
-}
-
-/* In post titles, make entire timestamp stay together */
-time.published {
-    white-space: pre;
-}
-
-/* bootstrap tables are crappy for some reason. */
-table {
-    font-size: inherit;
-}
-td, th {
-    padding: 5px;
-    vertical-align: top;
-}
-
-footer {
-    text-align: center;
-}
-
-/* social icons on index page */
-.profile {
-    padding-left: 0px;
-    padding-bottom: 50px;  /* hack to stop text from wrapping weirdly */
-    float: left;
-    width: inherit;
-}
-.profile ul {
-    margin-top: 15px;
-    font-size: 21px;
-    padding-left: 0px;
-    font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 300;
-    list-style-type: none;
-}
-.profile ul img {
-    width: 24px;
-    height: 24px;
-    vertical-align: sub;
-}
-
-hr.docutils {
-    width: 100%
+    margin: 0;
 }
