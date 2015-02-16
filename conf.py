@@ -113,6 +113,7 @@ NAVIGATION_LINKS = {
 
 POSTS = (
     ("posts/*.rst", "news", "post.tmpl"),
+    ("posts/*.md", "news", "post.tmpl"),
 )
 PAGES = (
     ("pages/*.rst", "", "story.tmpl"),
