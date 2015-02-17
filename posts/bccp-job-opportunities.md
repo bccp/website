@@ -31,8 +31,10 @@ Please refer potential referees, including when letters are provided via a
 third party (i.e., dossier service or career center), to the UC Berkeley
 statement of confidentiality: <http://apo.chance.berkeley.edu/evalltr.html>.
 UC Berkeley is an equal opportunity/affirmative action employer. Benefits are
-included. ********************************************************************
-********************* **Cosmology Data-Science Fellow positions at all levels
+included. 
+
+
+**Cosmology Data-Science Fellow positions at all levels
 from post-doctoral through more senior scientist available in new “Cosmology
 Data Science Initiative” at Berkeley Center for Cosmological Physics.** The
 Berkeley Center for Cosmological Physics (BCCP) at UC Berkeley is pioneering a
@@ -81,15 +83,15 @@ experience, ideally in cosmology, as well as strong interest and experience in
 data science approaches. Additional qualifications: Must have received PhD or
 equivalent by start of appointment. To apply, submit a copy of your curriculum
 vitae, bibliography, and statement of cosmology and data science research
-interests to: **[https://aprecruit.berkeley.edu/apply/JPF00562.
-](https://aprecruit.berkeley.edu/apply/JPF00562.%C2%A0)** To receive full
+interests to: [https://aprecruit.berkeley.edu/apply/JPF00562.
+](https://aprecruit.berkeley.edu/apply/JPF00562.%C2%A0) To receive full
 consideration please send the material by December 1, 2014, but later
 applications may also be considered until all the positions are filled.  At
 least 3 letters of reference should also be submitted by the same date.  For
 further inquiries, contact BCCP directors Uros Seljak at
-**[useljak@berkeley.edu**](mailto:useljak@berkeley.edu), Oliver Zahn at
-**[zahn@berkeley.edu**](mailto:zahn@berkeley.edu) and Saul Perlmutter at
-**[saul@lbl.gov**](mailto:saul@lbl.gov). For inquiries of an administrative
+[useljak@berkeley.edu](mailto:useljak@berkeley.edu), Oliver Zahn at
+[zahn@berkeley.edu](mailto:zahn@berkeley.edu) and Saul Perlmutter at
+[saul@lbl.gov](mailto:saul@lbl.gov). For inquiries of an administrative
 nature, contact Melissa Barclay at mbarclay@berkeley.edu. Salary and Benefits:
 Salary will be commensurate with experience. For information on UC Postdoc
 benefits, please visit: <http://www.garnett-powers.com/postdoc/index.htm>. UC
