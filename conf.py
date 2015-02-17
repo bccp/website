@@ -64,6 +64,7 @@ TRANSLATIONS = {
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ('/', 'Home'),
+        ('/pages', 'Pages'),
         ('/research', 'Research'),
         ('/people', 'People'),
         ('/software', 'Software'),
@@ -112,7 +113,7 @@ NAVIGATION_LINKS = {
 
 POSTS = (
     ("posts/*.rst", "news", "post.tmpl"),
-    ("posts/*.md", "news", "post.tmpl"),
+#    ("posts/*.md", "news", "post.tmpl"),
 )
 PAGES = (
     ("pages/*.rst", "", "story.tmpl"),
