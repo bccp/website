@@ -64,10 +64,9 @@ TRANSLATIONS = {
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ('/', 'Home'),
-        ((
-            ('/research', 'Research'),
-            ('/people', 'People'),
-            ('/software', 'Software')), 'About'),
+        ('/research', 'Research'),
+        ('/people', 'People'),
+        ('/software', 'Software'),
         ('/news', 'News'),
 #        ('/categories/index.html', 'Tags'),
 #        ('/rss.xml', 'RSS'),
