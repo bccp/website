@@ -5,8 +5,9 @@
 
 .. slides::
    
-   /galleries/frontpage/ExpansionOftheCosmos2.jpg
-   /galleries/frontpage/orangepie.jpg
+   /galleries/frontpage/cosmic_web.jpg
+   /galleries/frontpage/planck.jpg
+   /galleries/frontpage/sn1994D.jpg
 
 
 Cosmology is the study of the universe as a whole since its
