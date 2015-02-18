@@ -1,5 +1,5 @@
 .. title: Berkeley Center for Cosmological Physics Partner Fund
-.. slug: berkeley-center-for-cosmological-physics-heroic-partner-fund
+.. slug: support
 .. date: 2012-11-07 23:46:53
 .. tags: 
 .. description: 

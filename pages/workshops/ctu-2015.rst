@@ -1,0 +1,28 @@
+.. title: Computing the Universe (CtU2015) Symposium & Cosmo Hack Week, Jan 12-16, 2015
+.. slug: ctu-2015
+.. date: 2014-10-24 20:16:28
+.. tags: 
+.. description: 
+.. hidetitle: true
+
+|CtU2015|
+
+From Jan 12-16, 2015 we will host our new annual "Computing the
+Universe" symposium and workshop, dedicated to bringing new solutions
+to some of the most pressing data analysis challenges in Cosmology and
+Computational Astrophysics.
+
+Mornings will feature review talks on cosmology-specific data science
+topics as well as recent astrophysical data releases, and “cosmo data
+hacks” in the afternoons, where we will apply new methods and
+streamline existing ones to analyze these data sets in a highly
+hands-on fashion.
+
+Berkeley features mild weather with significant sunshine during
+January.  There will be an excursion to the beach or to SF (in case of
+less than optimal weather).
+
+There will be no registration fee and we are making reservations for
+housing at LBL guest house and nearby hotels.
+
+.. |CtU2015| image:: /images/CtU2015.jpg

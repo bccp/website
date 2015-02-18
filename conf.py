@@ -64,11 +64,15 @@ TRANSLATIONS = {
 # You should provide a key-value pair for each used language.
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ('/', 'Home'),
         ('/research', 'Research'),
         ('/people', 'People'),
+        ('/visitors', 'Visitors'),
+        ('/jobs', 'Jobs'),
+        ('/workshops', 'Workshops'),
         ('/software', 'Software'),
+        ('/support', 'Support BCCP'),
         ('/news', 'News'),
+        ('/events', 'This Week')
 #        ('/categories/index.html', 'Tags'),
 #        ('/rss.xml', 'RSS'),
         
@@ -123,7 +127,7 @@ PAGES = (
 # One or more folders containing files to be copied as-is into the output.
 # The format is a dictionary of "source" "relative destination".
 # Default is:
-FILES_FOLDERS = {'images': 'images' }
+FILES_FOLDERS = {'images': 'images'}
 # Which means copy 'files' into 'output'
 
 # A mapping of languages to file-extensions that represent that language.
@@ -342,7 +346,7 @@ LICENSE = ""
 CONTENT_FOOTER = """<hr>
 Contents &copy; {date}  <a href="mailto:{email}">{author}</a> | 
 Powered by <a href="http://getnikola.com" rel="nofollow">Nikola</a> | 
-Theme is <a href="http://bootswatch.com/cosmo/">Cosmo</a>"""
+Theme is <a href="http://bootswatch.com/paper/">Paper</a>"""
 CONTENT_FOOTER = CONTENT_FOOTER.format(email=BLOG_EMAIL,
                                        author=BLOG_AUTHOR,
                                        date=time.gmtime().tm_year)

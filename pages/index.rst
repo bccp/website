@@ -1,14 +1,14 @@
 .. title: Index
 .. slug: index
 .. date: 2012-11-08 00:06:06
-.. hidetitle: true
+.. hidetitle: false
+.. title: Berkeley Center for Cosmological Physics
 
 .. slides::
    
    /galleries/frontpage/cosmic_web.jpg
    /galleries/frontpage/planck.jpg
    /galleries/frontpage/sn1994D.jpg
-
 
 Cosmology is the study of the universe as a whole since its
 inception. BCCP is focused on understanding the origin and evolution of
