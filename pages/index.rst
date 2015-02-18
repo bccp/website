@@ -3,8 +3,14 @@
 .. date: 2012-11-08 00:06:06
 .. hidetitle: true
 
+.. slides::
+   
+   /galleries/frontpage/ExpansionOftheCosmos2.jpg
+   /galleries/frontpage/orangepie.jpg
+
+
 Cosmology is the study of the universe as a whole since its
-inception. BCCP is focused on understanding the origin and evolution of
+inception. BCCP is focused on understanding the origin and evolution of
 the universe through a series of programs to define the observations,
 experiments, concepts, and simulations needed to answer the fundamental
 questions in cosmology. Combining experimentation, computation, and
