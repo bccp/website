@@ -7,7 +7,7 @@ import time
 
 # Data about this site
 BLOG_AUTHOR = "BCCP"
-BLOG_TITLE = "BCCP"
+BLOG_TITLE = ""
 # This is the main URL for your site. It will be used
 # in a prominent link
 SITE_URL = "http://bccp.berkeley.edu/"
@@ -16,6 +16,7 @@ SITE_URL = "http://bccp.berkeley.edu/"
 # BASE_URL = "http://getnikola.com/"
 BLOG_EMAIL = "bccp@bccp.berkeley.edu"
 BLOG_DESCRIPTION = "Berkeley Center for Cosmological Physics"
+LOGO_URL = "/images/bccp_logo_54.jpg"
 
 # Nikola is multilingual!
 #
@@ -64,7 +65,6 @@ TRANSLATIONS = {
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ('/', 'Home'),
-        ('/pages', 'Pages'),
         ('/research', 'Research'),
         ('/people', 'People'),
         ('/software', 'Software'),
@@ -123,7 +123,7 @@ PAGES = (
 # One or more folders containing files to be copied as-is into the output.
 # The format is a dictionary of "source" "relative destination".
 # Default is:
-# FILES_FOLDERS = {'files': '' }
+FILES_FOLDERS = {'images': 'images' }
 # Which means copy 'files' into 'output'
 
 # A mapping of languages to file-extensions that represent that language.
@@ -465,10 +465,10 @@ PRETTY_URLS = True
 # """
 
 # Hide link to source for the posts?
-# HIDE_SOURCELINK = False
+HIDE_SOURCELINK = True
 # Copy the source files for your pages?
 # Setting it to False implies HIDE_SOURCELINK = True
-# COPY_SOURCES = True
+COPY_SOURCES = False
 
 # Modify the number of Post per Index Page
 # Defaults to 10
