@@ -72,7 +72,7 @@
 
 
 .. _`Oliver Zahn`: /people/oliver-zahn
-.. _`George Smoot`: /people/professor-george-smoot
+.. _`George Smoot`: /people/george-smoot
 .. _`Adrian Liu`: /people/adrian-liu
 .. _`Hee-Jong Seo`: /people/hee-jong-seo
 .. _`Anze Slosar`: /people/anze-slosar

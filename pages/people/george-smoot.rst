@@ -1,5 +1,5 @@
-.. title: Professor George Smoot
-.. slug: professor-george-smoot
+.. title: George Smoot
+.. slug: george-smoot
 .. date: 2012-11-27 00:23:29
 .. tags: 
 .. description: 
