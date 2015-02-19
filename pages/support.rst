@@ -41,4 +41,4 @@ For more information, contact \ `BCCP Administrative Officer Melissa Barclay <m
 
 Email: mbarclay@berkeley.edu
 
-.. |image0| image:: http://bccp.berkeley.edu/new/wp-content/uploads/2012/11/endow.jpg
+.. |image0| image:: /images/support/endow.jpg
