@@ -17,5 +17,5 @@ years ago, according to Oliver Zahn, a postdoctoral fellow at the
 Berkeley Center for Cosmological Physics (BCCP) at the University of
 California, Berkeley, who led the data analysis.
 
-.. |image0| image:: http://bccp.berkeley.edu/new/wp-content/uploads/2012/10/SPTsky350.jpg
-   :target: http://bccp.berkeley.edu/new/wp-content/uploads/2012/10/SPTsky350.jpg
+.. |image0| image:: /images/scientists-measure-the-reionization-of-the-early-universe/SPTsky350.jpg
+   :target: /images/scientists-measure-the-reionization-of-the-early-universe/SPTsky350.jpg
