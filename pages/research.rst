@@ -42,7 +42,7 @@ include:
 
 -  `PolarBeaR <http://bolo.berkeley.edu/polarbear/>`__ - Polarization of
    Background Radiation
--  `Planck Mission <http://bccp.berkeley.edu/o/planck.html>`__
+-  `Planck Mission </images/research/planck.html>`__
 -  `South Pole Telescope <http://pole.uchicago.edu/>`__
 -  `APEX-SZ <http://bolo.berkeley.edu/apexsz/instrument.html>`__
 -  `BICEP <http://cosmology.berkeley.edu/group/swlh/bicep/index.html>`__ -
@@ -51,7 +51,7 @@ include:
    Interferometer
 -  `ACBAR <http://cosmology.berkeley.edu/group/swlh/acbar/>`__ -
    Arcminute Cosmology Bolometer Array Receiver
--  `GEM <http://bccp.berkeley.edu/o/gem/index.html>`__ - Galactic
+-  `GEM </images/research/index.html>`__ - Galactic
    Emission Mapping Project
 
 **Dark Energy**
@@ -92,7 +92,7 @@ Dark Energy investigations:
 -  `BOSS <http://www.sdss3.org/cosmology.php>`__ - Baryon Oscillation
    Spectroscopic Survey
 -  `Gravitational
-   Lensing <http://bccp.berkeley.edu/o/Weak_lensing/weak_theory2.html>`__
+   Lensing </images/research/weak_theory2.html>`__
 -  `Baryon Acoustic
    Oscillations <http://astro.berkeley.edu/~mwhite/bao/>`__
 -  `Planck Mission <http://bccp.lbl.gov/planck.html>`__
@@ -113,7 +113,7 @@ in the \ `cosmic microwave
 background <http://en.wikipedia.org/wiki/Cosmic_microwave_background_radiation>`__ and
 plays a central role in the modeling of structure formation and galaxy
 evolution (shown in this \ `NASA ESA
-image <http://bccp.berkeley.edu/o/Images/darkmattermap.jpg>`__).
+image </images/research/darkmattermap.jpg>`__).
 
 We have four lines of evidence for dark matter in cosmology: the
 formation of large scale structure in the length of time since
@@ -140,7 +140,7 @@ Dark Matter investigations:
 
 -  `Euclid <http://bccp.lbl.gov/planck.html>`__ - Dark energy satellite
 -  `Gravitational
-   Lensing <http://bccp.berkeley.edu/o/Weak_lensing/weak_theory2.html>`__
+   Lensing </images/research/weak_theory2.html>`__
 -  `BOSS <http://www.sdss3.org/cosmology.php>`__ - Baryon Oscillation
    Spectroscopic Survey
 -  `BigBOSS <http://bigboss.lbl.gov/>`__ - The Ground-Based Stage IV
@@ -220,7 +220,7 @@ Galaxy and Distant Object Observations:
 -  `Matter-Antimatter <http://bccp.lbl.gov/matter_anti.html>`__
 -  `Extra Dimensions <http://bccp.lbl.gov/dimensions.html>`__
 -  `Other Relics <http://bccp.lbl.gov/relics.html>`__
--  `Cosmic Strings <http://bccp.berkeley.edu/o/cosmicstrings.html>`__
+-  `Cosmic Strings </images/research/cosmicstrings.html>`__
 
  
 
@@ -236,7 +236,7 @@ the clustering of nearby galaxies, we can detect the imprint of the
 sound waves that were “frozen in” as the cosmic plasma of the early
 universe cooled — the same acoustic phenomena that produced the
 anisotropies we see in the \ `Cosmic Microwave Background
-(CMB) <http://bccp.berkeley.edu/o/cmb.html>`__. By comparing the
+(CMB) </images/research/cmb.html>`__. By comparing the
 structure in the CMB with the distribution of galaxies in the near
 universe, we obtain a measurement of the properties of dark energy
 causing the recent cosmic acceleration. This gives a new window on the
@@ -255,7 +255,7 @@ Background Radiation)**
 BCCP scientists are at the forefront of CMB instrumentation
 developments. We have instruments running on several cutting-edge
 experiments, including the \ `Planck
-satellite <http://bccp.berkeley.edu/o/planck.html>`__ and the \ `South
+satellite </images/research/planck.html>`__ and the \ `South
 Pole Telescope <http://pole.uchicago.edu/>`__, which is currently
 collecting the best data of small angular scale anisotropies. The Planck
 satellite was launched on May 14, 2009.  BCCP Director George Smoot has
@@ -359,7 +359,7 @@ generally.
 **Former Projects**
 
 **`COBE - COsmic Background
-Explorer <http://bccp.berkeley.edu/o/cobehome.html>`__**
+Explorer </images/research/cobehome.html>`__**
 
 George Smoot and John Mather won the \ `2006 Nobel prize in
 physics <http://nobelprize.org/nobel_prizes/physics/laureates/2006/index.html>`__ "for
@@ -383,11 +383,11 @@ Radiometers) to map the cosmic microwave background radiation, and FIRAS
 (Far-InfraRed Absolute Spectrophotometer) to compare the spectrum of the
 cosmic microwave background radiation with that from a precise
 blackbody. Read more about the
-mission \ `here <http://bccp.berkeley.edu/o/cobehome.html>`__.
+mission \ `here </images/research/cobehome.html>`__.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-`**MAXIPOL** <http://bccp.berkeley.edu/o/maxipol.html>`__
+`**MAXIPOL** </images/research/maxipol.html>`__
 
 |image11|
 
@@ -404,28 +404,28 @@ Astrophysics. The purpose of MAX, MAXIMA and BOOMERANG was to measure
 and eventually map cosmic microwave background (CMB) anisotropies on the
 sub-degree angular scale level. This is a significantly smaller angular
 scale than COBE (>7 degrees) observations. Read more about
-MAXIPOL \ `here. <http://bccp.berkeley.edu/o/maxipol.html>`__
+MAXIPOL \ `here. </images/research/maxipol.html>`__
 
  
 
-.. |image0| image:: http://bccp.berkeley.edu/new/wp-content/uploads/2012/11/800px-WMAP_2008.png
-   :target: http://bccp.berkeley.edu/new/wp-content/uploads/2012/11/800px-WMAP_2008.png
-.. |image1| image:: http://bccp.berkeley.edu/new/wp-content/uploads/2012/11/DarkEnergy_ostpred2.jpg
-   :target: http://bccp.berkeley.edu/new/wp-content/uploads/2012/11/DarkEnergy_ostpred2.jpg
-.. |image2| image:: http://bccp.berkeley.edu/new/wp-content/uploads/2012/11/esahub.gif
-   :target: http://bccp.berkeley.edu/new/wp-content/uploads/2012/11/esahub.gif
-.. |image3| image:: http://bccp.berkeley.edu/new/wp-content/uploads/2012/11/grb.gif
-   :target: http://bccp.berkeley.edu/new/wp-content/uploads/2012/11/grb.gif
-.. |image4| image:: http://bccp.berkeley.edu/new/wp-content/uploads/2012/11/highE.gif
-   :target: http://bccp.berkeley.edu/new/wp-content/uploads/2012/11/highE.gif
-.. |image5| image:: http://bccp.berkeley.edu/o/Images/cryostat.gif
+.. |image0| image:: /images/research/800px-WMAP_2008.png
+   :target: /images/research/800px-WMAP_2008.png
+.. |image1| image:: /images/research/DarkEnergy_ostpred2.jpg
+   :target: /images/research/DarkEnergy_ostpred2.jpg
+.. |image2| image:: /images/research/esahub.gif
+   :target: /images/research/esahub.gif
+.. |image3| image:: /images/research/grb.gif
+   :target: /images/research/grb.gif
+.. |image4| image:: /images/research/highE.gif
+   :target: /images/research/highE.gif
+.. |image5| image:: /images/research/cryostat.gif
    :target: http://bolo.berkeley.edu/polarbear/
-.. |image6| image:: http://bccp.berkeley.edu/o/Images/supergif.gif
-.. |image7| image:: http://bccp.berkeley.edu/o/Images/c3.gif
+.. |image6| image:: /images/research/supergif.gif
+.. |image7| image:: /images/research/c3.gif
    :target: https://c3.lbl.gov/index.html
-.. |image8| image:: http://bccp.berkeley.edu/o/Images/reion.gif
-.. |image9| image:: http://bccp.berkeley.edu/o/Images/bar.jpg
-.. |image10| image:: http://bccp.berkeley.edu/o/Images/cobe_sm.gif
-   :target: http://bccp.berkeley.edu/o/Images/cobecallouts.jpg
-.. |image11| image:: http://bccp.berkeley.edu/o/Images/max_sm.gif
-   :target: http://bccp.berkeley.edu/o/maxipol.html
+.. |image8| image:: /images/research/reion.gif
+.. |image9| image:: /images/research/bar.jpg
+.. |image10| image:: /images/research/cobe_sm.gif
+   :target: /images/research/cobecallouts.jpg
+.. |image11| image:: /images/research/max_sm.gif
+   :target: /images/research/maxipol.html
