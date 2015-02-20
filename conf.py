@@ -81,6 +81,8 @@ NAVIGATION_LINKS = {
 
 # Below this point, everything is optional
 
+WRITE_TAG_CLOUD = False
+
 # While nikola can select a sensible locale for each language,
 # sometimes explicit control can come handy.
 # In this file we express locales in the string form that
@@ -469,7 +471,7 @@ PRETTY_URLS = True
 # """
 
 # Hide link to source for the posts?
-HIDE_SOURCELINK = True
+SHOW_SOURCELINK = False
 # Copy the source files for your pages?
 # Setting it to False implies HIDE_SOURCELINK = True
 COPY_SOURCES = False
