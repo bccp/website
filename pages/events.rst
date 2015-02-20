@@ -14,7 +14,10 @@ change. To keep you notified, please contact Melissa Barclay
 Week of November 24
 ===================
 
-**Tuesday, November 25** Location: UCB, Hearst Field Annex B-1 – 1:10 pm
+**Tuesday, November 25** 
+
+Location: UCB, Hearst Field Annex B-1 – 1:10 pm
+
 Speaker: Camille Avestruz, Yale Title: "Cosmological Simulations of
 Galaxy Cluster Outskirts" Abstract: The observational study of galaxy
 cluster outskirts is a new territory to probe the thermodynamic and
@@ -41,25 +44,41 @@ Week of November 17
 
 **Monday, November 17** 
 
-`*Theoretical Astrophysics
-Seminar* <http://astro.berkeley.edu/tac/seminar/>`__\ *s* Location:
-UCB - Hearst Field Annex B5, 12:10 p.m. Speaker: Jing Luan (Caltech)
+`Theoretical Astrophysics
+Seminar <http://astro.berkeley.edu/tac/seminar/>`_\ 
+
+Location:
+UCB - Hearst Field Annex B5, 12:10 p.m. 
+
+Speaker: Jing Luan (Caltech)
+
 Title: "Historical Heat Responsible for Enceladus's Plume"
-`*4* <%20http://www-theory.lbl.gov/cgi-bin/talks/plans.cgi>`__\ `*D
-Seminars* <http://www-theory.lbl.gov/cgi-bin/talks/plans.cgi>`__
+
+`4D Seminars <http://www-theory.lbl.gov/cgi-bin/talks/plans.cgi>`_
+
 Location: UCB - 402 Old Le Conte, 2:30 p.m. Speaker: Seyda Ipek
-(Washington U., Seattle) Title: CP Violation in Pseudo-Dirac Fermion
-Oscillations" *`Physics Department
-Colloquium <http://physics.berkeley.edu/news-events/events/20140915/fall-2014-colloquia-schedule>`__*\ **\ Location:
+(Washington U., Seattle) 
+
+Title: CP Violation in Pseudo-Dirac Fermion Oscillations" 
+
+`Physics Department
+Colloquium <http://physics.berkeley.edu/news-events/events/20140915/fall-2014-colloquia-schedule>`_ 
+
+Location:
 UCB, 1 Le Conte Hall - 4:15 p.m. Speaker: David Demille (Yale) Title: "A
 Tabletop-scale Probe for TeV Physics: the Electric Dipole Moment of the
 Electron"
 
 **Tuesday, November 18**
 
-`*Berkeley Cosmology
-Seminar* <http://cosmology.berkeley.edu/sem_bcg_future.html>`__\ *`s <http://www-theory.lbl.gov/cgi-bin/talks/plans.cgi>`__*\ `Location:
-UCB, Hearst Field Annex B-1 – 1:10 pm Speaker: Emanuele Castorina, SISSA
+`Berkeley Cosmology
+Seminar <http://cosmology.berkeley.edu/sem_bcg_future.html>`_\
+
+Location:
+UCB, Hearst Field Annex B-1 – 1:10 pm 
+
+Speaker: Emanuele Castorina, SISSA
+
 Title: "Massive neutrinos and the Large Scale Structures of the
 Universe" Abstract: Massive neutrinos have peculiar effects on several
 observables in current and future redshift surveys. A precise
@@ -73,46 +92,90 @@ probes, like the abundance of massive clusters, the non linear matter
 power spectrum and its relation to the galaxy power spectrum, redshift
 space distorsions, and the
 bispectrum. <http://www-theory.lbl.gov/cgi-bin/talks/plans.cgi>`__
-`*String Seminar* <http://www-theory.lbl.gov/cgi-bin/talks/plans.cgi>`__
-Location: UCB - 402 Old Le Conte, 3:40 p.m. Speaker: Christopher Beem
-(IAS) Title: "Chiral Symmetry Algebras in Four and Six Dimensions"
-*Physics RP*\ *M* - no RPM today
+
+`String Seminar <http://www-theory.lbl.gov/cgi-bin/talks/plans.cgi>`_
+
+Location: UCB - 402 Old Le Conte, 3:40 p.m. 
+
+Speaker: Christopher Beem (IAS) 
+
+Title: "Chiral Symmetry Algebras in Four and Six Dimensions"
+
+Physics RPM - no RPM today
 
 **Wednesday, November 19**
 
 *BOSS Lunch*
+
 Location: LBNL - 50B-4205, noon
-`*I* <%20http://www-theory.lbl.gov/cgi-bin/talks/plans.cgi>`__\ `*n*\ *terdisciplinary
-Instrumentation
-Colloquium* <http://instrumentationcolloquium.lbl.gov/>`__ Location:
-LBNL - 15-253, 12 p.m. Speakers: \*Cameron Geddes (ATAP): "Measuring the
-energy-angle spectrum of a single burst of 10^9 gamma rays" / \*Azriel
-Goldschmidt (NS): "Identifying one single barium ion in one ton of
-xenon" / \*Qing Ji (IBT): "Inventing an anti-neutrino generator" 
-********\ `*Particle Theory
-Seminar* <http://www-theory.lbl.gov/cgi-bin/talks/plans.cgi>`__
+
+`Interdisciplinary Instrumentation
+Colloquium <http://instrumentationcolloquium.lbl.gov/>`_ 
+
+Location: LBNL - 15-253, 12 p.m. 
+
+Speakers: Cameron Geddes (ATAP): "Measuring the
+energy-angle spectrum of a single burst of 10^9 gamma rays" 
+
+Azriel Goldschmidt (NS): "Identifying one single barium ion in one ton of
+xenon" 
+
+Qing Ji (IBT): "Inventing an anti-neutrino generator" 
+
+`Particle Theory Seminar <http://www-theory.lbl.gov/cgi-bin/talks/plans.cgi>`_
+
 Location: LBNL - 50A-5132, 2:00 p.m. Speaker:  Gustavo Tavares (BU)
-Title: tba `*String Group
-Meetin* <http://www-theory.lbl.gov/cgi-bin/talks/plans.cgi>`__\ *g* -
-cancelled *CANDi* Location: LBNL, 50-5026, 3:30 p.m. Discussion:
+Title: tba 
+
+String Group Meeting - cancelled 
+
+CANDi Location: LBNL, 50-5026, 3:30 p.m. 
+
+Discussion:
 `Cosmological Leverage from the Matter Power Spectrum in the Presence of
 Baryon and Nonlinear
-Effects <http://voxcharta.org/2014/11/16/cosmological-leverage-from-the-matter-power-spectrum-in-the-presence-of-baryon-and-nonlinear-effects/>`__
-ArXiv #: `1411.372\ **5** <1411.3725>`__
+Effects <http://voxcharta.org/2014/11/16/cosmological-leverage-from-the-matter-power-spectrum-in-the-presence-of-baryon-and-nonlinear-effects/>`_
+
+ArXiv #: 1411.3725
 
 **Thursday, November 20**
 
-*Astronomy Lunch*\ **\ Location: UCB, B5 Hearst Field Annex - 12:30 p.m.
-Speakers: tba `*Special Particle
-Theory Seminar* <http://www-theory.lbl.gov/cgi-bin/talks/plans.cgi>`__
-Location: LBNL - 50A-5132, 2:00 p.m. Speaker: Clifford Cheung (Caltech)
-Title: "Accidental Holomorphy in 4D EFTs" `*Astronomy
-Colloquiu* <http://events.berkeley.edu/index.php/calendar/sn/astro?view=summary&timeframe=month&filter=Secondary%20Event%20Type&filtersel=739>`__\ *`m <http://events.berkeley.edu/index.php/calendar/sn/astro?view=summary&timeframe=month&filter=Secondary%20Event%20Type&filtersel=739>`__*\ Location:
-UCB, 2 LeConte Hall, 4:00 p.m. Speaker: Fiona Harrison (Caltech) Title:
-tba Abstract:  tba *`Physics Research Progress
-Meeti <http://www-physics.lbl.gov/seminars/rpm.html>`__\ `n <http://www-physics.lbl.gov/seminars/rpm.html>`__\ g*\ Location: 
-LBNL - 50A-5132, 4:00 p.m. Speaker: Gianpaolo Carosi (LLNL) Title: "The
-ADMX Experiment“ Abstract: The nature of dark matter is one of the great
+Astronomy Lunch
+
+Location: UCB, B5 Hearst Field Annex - 12:30 p.m.
+
+Speakers: tba 
+
+`Special Particle
+Theory Seminar <http://www-theory.lbl.gov/cgi-bin/talks/plans.cgi>`_
+
+Location: LBNL - 50A-5132, 2:00 p.m. 
+
+Speaker: Clifford Cheung (Caltech)
+
+Title: "Accidental Holomorphy in 4D EFTs" 
+
+`Astronomy Colloquium <http://events.berkeley.edu/index.php/calendar/sn/astro?view=summary&timeframe=month&filter=Secondary%20Event%20Type&filtersel=739>`_
+
+Location:
+UCB, 2 LeConte Hall, 4:00 p.m. 
+
+Speaker: Fiona Harrison (Caltech) 
+
+Title: tba 
+
+Abstract:  tba 
+`Physics Research Progress Meeting <http://www-physics.lbl.gov/seminars/rpm.html>`_
+
+Location: 
+LBNL - 50A-5132, 4:00 p.m. 
+
+Speaker: Gianpaolo Carosi (LLNL)
+
+itle: "The
+ADMX Experiment“ 
+
+Abstract: The nature of dark matter is one of the great
 mysteries of modern physics. Existence of dark matter has been inferred
 from its gravitational effects over many distance scales, but currently
 no known particle can account for the observed data. As a result, new
@@ -134,10 +197,15 @@ axions are, or are not, the major dark matter component of the Universe.
 
 **Friday, November 21**
 
-*I\ `NPA
-Seminar <http://inpa.lbl.gov/INPA/journalclub.html>`__*\ **\ Location:
-LBNL, 50-5026, 12 p.m.\ **\ Speaker: Ryan Cooke (UC Santa Cruz) Title:
+`INPA Seminar <http://inpa.lbl.gov/INPA/journalclub.html>`_
+
+Location: LBNL, 50-5026, 12 p.m.
+
+Speaker: Ryan Cooke (UC Santa Cruz) 
+
+Title:
 "The primordial deuterium abundance and the search for new physics"
+
 Abstract: We are currently in an exciting era of precision cosmology.
 With the release of the cosmic microwave background data recorded by the
 Planck satellite, we are now in a position to accurately test the
@@ -152,8 +220,10 @@ total amount of visible matter in the Universe and the effective number
 of neutrino species. These data further provide new limits on physics
 beyond the standard model. I will discuss our ongoing survey to obtain
 new precision measures of the primordial nuclei in the era of the 30m
-class telescopes. `*SSL
-Colloquium* <https://www.ssl.berkeley.edu/research/sslcolloquia/>`__
+class telescopes. 
+
+`SSL Colloquium <https://www.ssl.berkeley.edu/research/sslcolloquia/>`_
+
 Location: SSL, Addition conference room, 3 p.m. Speaker: Julian Bautista
 (Univ of Utah) Title: "Baryon acoustic oscillations in the Lyman-alpha
 forest of BOSS quasars"
