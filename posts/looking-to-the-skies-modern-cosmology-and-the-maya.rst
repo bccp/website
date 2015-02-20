@@ -4,6 +4,9 @@
 .. tags: 
 .. description: 
 
+.. raw:: html
+
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/fwtQpsUrI8I" frameborder="0" allowfullscreen style="float:left;margin:20px;"></iframe>
 
 In this video, Berkeley Lab astrophysicists and Nobel laureates, George
 Smoot and Saul Perlmutter -- joined by Berkeley Lab physicist Eric
@@ -16,3 +19,4 @@ has been enriched by recent discoveries about dark energy, the Big Bang,
 and the accelerating universe. New knowledge has only increased our
 sense of wonder about the cosmos and deepened our appreciation for what
 the Mayans achieved using only the naked eye.
+
