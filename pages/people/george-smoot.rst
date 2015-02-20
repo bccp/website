@@ -4,7 +4,7 @@
 .. tags: 
 .. description: 
 
-.. image:: http://bccp.berkeley.edu/new/wp-content/uploads/2012/11/SMOOT92s-m.jpg
+.. image:: /images/george-smoot/SMOOT92s-m.jpg
    :height: 200px
    :align: left
 
@@ -23,7 +23,7 @@ clusters of galaxies, and clusters of clusters that are observed in the
 universe today. These variations are also relics of creation.
 
 .. figure::
-   http://bccp.berkeley.edu/new/wp-content/uploads/2012/11/Smoot-prize.jpg
+   /images/george-smoot/Smoot-prize.jpg
    :align: right
    :figwidth: 25%
 
@@ -48,16 +48,16 @@ Universe to accelerate.
 
 - Address: Lawrence Berkeley National Laboratory, 1 Cyclotron Road, MS
   50R-5005, Berkeley, CA 94720
-- `Nobel Biography <http://bccp.berkeley.edu/o/nobel_bio2.html>`_
+- `Nobel Biography </images/george-smoot/nobel_bio2.html>`_
 - `Publications through July 2013 (Inspire) <http://aether.lbl.gov/PDFs/SmootPubs072013.pdf>`_
-- `CV <http://bccp.berkeley.edu/o/PDFs/SmootCV1207.pdf>`_
-- `CV with publications and conference papers <http://bccp.berkeley.edu/o/PDFs/GFS-CV&Pubs-407.pdf>`_
+- `CV </images/george-smoot/SmootCV1207.pdf>`_
+- `CV with publications and conference papers </images/george-smoot/GFS-CV&Pubs-407.pdf>`_
 
-- `Short Biography <http://bccp.berkeley.edu/o/PDFs/SmootShortbio.pdf>`_
-- `Press release bio and COBE discovery <http://bccp.berkeley.edu/o/PDFs/Smoot%20update-r2.pdf>`_
+- `Short Biography </images/george-smoot/SmootShortbio.pdf>`_
+- `Press release bio and COBE discovery </images/george-smoot/Smoot%20update-r2.pdf>`_
 - `FAQs <http://bccp.berkeley.edu/faqs.html>`_
 - `Nobel Prize photo gallery <http://nobelprize.org/nobel_prizes/physics/laureates/2006/smoot-photo.html>`_
-- `The Search for the Seeds of Cosmic Structure <http://bccp.berkeley.edu/smoot/cosStruct.html>`__
+- `The Search for the Seeds of Cosmic Structure </images/george-smoot/cosStruct.html>`__
 
 Professor Smoot is associated with several different institutions:
 
@@ -87,7 +87,7 @@ and
 
 Other links:
 
-- `The Way We Will Be 50 Years From Today Essay <http://bccp.berkeley.edu/o/PDFs/RevisedEssay.4.24.pdf>`_
+- `The Way We Will Be 50 Years From Today Essay </images/george-smoot/RevisedEssay.4.24.pdf>`_
 - `Photo archive <http://aether.lbl.gov/www/personnel/smoot/smoot_photo.html>`_
 - `B&W photos <http://aether.lbl.gov/www/personnel/smoot/smoot_bwphoto.html>`_
 - `Biography - From April 1994 <http://aether.lbl.gov/www/personnel/Smoot-bio.html>`_

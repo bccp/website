@@ -4,7 +4,7 @@
 .. tags: 
 .. description: 
 
-.. image:: http://bccp.berkeley.edu/new/wp-content/uploads/2012/10/AdrianLiu.png
+.. image:: /images/people/AdrianLiu.png
    :align: left
 
 Although I am broadly interested in astrophysics and cosmology, my

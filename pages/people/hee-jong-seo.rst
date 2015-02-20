@@ -5,7 +5,10 @@
 .. description: 
 
 
-|image0| My research interests are in high precision cosmology with
+.. image:: /images/people/Hee-Jong.png
+   :align: left
+
+My research interests are in high precision cosmology with
 large scale structure. I have studied analytically and numerically the
 performance of the BAO in large galaxy surveys as a dark energy probe. I
 also worked on the evolution of galaxy clustering and halo occupation
@@ -24,5 +27,3 @@ Institute <http://www.phy.ohiou.edu/~astro/>`__, Ohio University in
 2014. Dept. of Physics Physics Research Bldg., 191 West Woodruff Ave.
 Columbus, OH 43210 `seo.207@osu.edu <mailto:seo.207@osu.edu>`__  
 
-.. |image0| image:: http://bccp.berkeley.edu/new/wp-content/uploads/2012/10/Hee-Jong.png
-   :target: http://bccp.berkeley.edu/new/wp-content/uploads/2012/10/Hee-Jong.png

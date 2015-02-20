@@ -5,9 +5,8 @@
 .. description: 
 
 
-|oliver|
---------
-
+.. image:: /images/people/oliver.jpg
+   :align: left
 Oliver Zahn is a computational/theoretical astrophysicist and recently
 appointed Executive Director of BCCP. He originally came to Berkeley as
 inaugural Center Fellow after undergraduate work at Max-Planck-Insitute
@@ -28,5 +27,3 @@ first galaxies, Big Bang, and dark energy/gravity theory, acting as
 drivers for new generations of microwave, radio, and sub-mm telescopes
 that are now scanning the skies. 
 
-.. |oliver| image:: http://bccp.berkeley.edu/new/wp-content/uploads/2014/02/oliver.jpg
-   :target: http://bccp.berkeley.edu/new/wp-content/uploads/2014/02/oliver.jpg

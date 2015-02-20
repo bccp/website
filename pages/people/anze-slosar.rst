@@ -125,10 +125,10 @@ and we have an average of over 30 classifications per galaxy. Scientific
 results are quite exciting as well and we are publishing results very
 soon.
 
-.. |anze| image:: http://bccp.berkeley.edu/new/wp-content/uploads/2012/11/anze.jpg
-.. |HIRES Spectrum of HS 0105+1619. The messy stuff left to the Lyman-Alpha peak at around 4450 Angstroms is the forest.| image:: http://bccp.berkeley.edu/new/wp-content/uploads/2012/11/lyman.jpg
-.. |A supernova bursting off at the outskirts of NGC 4526 (High-Z Supernova Search Team/HST/NASA)| image:: http://bccp.berkeley.edu/new/wp-content/uploads/2012/11/snov.jpg
-.. |NGC 5248, a spiral galaxy much like the Milky Way. Image courtesy the Sloan Digital Sky Survey.| image:: http://bccp.berkeley.edu/new/wp-content/uploads/2012/11/NGC5428_2.jpg
-.. |array| image:: http://bccp.berkeley.edu/new/wp-content/uploads/2012/11/array.jpg
-.. |A plot showing suppression in the power spectrum of matter fluctuations for three equally massive neutrinos (dotted) and one massive and 2 light neutrinos (dashed). Solid line shows a massless neutrino case.| image:: http://bccp.berkeley.edu/new/wp-content/uploads/2012/11/neutrino.gif
-.. |gzoo| image:: http://bccp.berkeley.edu/new/wp-content/uploads/2012/11/gzoo.jpg
+.. |anze| image:: /images/anze-slosar/anze.jpg
+.. |HIRES Spectrum of HS 0105+1619. The messy stuff left to the Lyman-Alpha peak at around 4450 Angstroms is the forest.| image:: /images/anze-slosar/lyman.jpg
+.. |A supernova bursting off at the outskirts of NGC 4526 (High-Z Supernova Search Team/HST/NASA)| image:: /images/anze-slosar/snov.jpg
+.. |NGC 5248, a spiral galaxy much like the Milky Way. Image courtesy the Sloan Digital Sky Survey.| image:: /images/anze-slosar/NGC5428_2.jpg
+.. |array| image:: /images/anze-slosar/array.jpg
+.. |A plot showing suppression in the power spectrum of matter fluctuations for three equally massive neutrinos (dotted) and one massive and 2 light neutrinos (dashed). Solid line shows a massless neutrino case.| image:: /images/anze-slosar/neutrino.gif
+.. |gzoo| image:: /images/anze-slosar/gzoo.jpg

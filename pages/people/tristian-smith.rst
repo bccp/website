@@ -5,7 +5,10 @@
 .. description: 
 
 
-|image0| Physics & Astronomy Department Swarthmore College 500 College
+.. image:: /images/people/tristan.gif
+   :align: left
+
+Physics & Astronomy Department Swarthmore College 500 College
 Avenue Swarthmore, PA 19081-1397 tsmith2@swarthmore.edu
 
 Interview
@@ -100,5 +103,3 @@ especially the recently discovered double pulsar system, PSR J0737-3039A
 B.\ ` <>`__ To read more, click
 `here <http://www.swarthmore.edu/academics/physics-and-astronomy/research/research-groups.xml>`__.
 
-.. |image0| image:: http://bccp.berkeley.edu/new/wp-content/uploads/2012/11/tristan.gif
-   :target: http://bccp.berkeley.edu/new/wp-content/uploads/2012/11/tristan.gif
