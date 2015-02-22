@@ -1,80 +1,87 @@
 .. title: People
 .. slug: people
 
-**Executive Director**
 
-`Oliver Zahn`_
+.. container:: col-md-4
 
-**Directors**
+   **Executive Director**
 
-| `Uros Seljak`_
-| `Saul Perlmutter`_, Nobel Laureate
+   `Oliver Zahn`_
 
-**Founding Director**
+   **Directors**
 
-`George Smoot`_, Nobel Laureate
+   | `Uros Seljak`_
+   | `Saul Perlmutter`_, Nobel Laureate
 
-**Current BCCP-affiliated Postdocs**
+   **Founding Director**
 
-| `Florian Beutler`_
-| `Andreu Font`_
-| Brian Hayden
-| `Adrian Liu`_
-| `Michael Mortonson`_
-| Claire Poppett
-| `Marcel Schmittfull`_
-| `Blake Sherwin`_
-| `Marcel van Daalen`_
+   `George Smoot`_, Nobel Laureate
 
-**Cosmology Data Science (CDS) Fellows**
+   **Current BCCP-affiliated Postdocs**
 
-| `Beth Reid`_
-| `Kyle Barbary`_
-| `Yu Feng`_
+   | `Florian Beutler`_
+   | `Andreu Font`_
+   | Brian Hayden
+   | `Adrian Liu`_
+   | `Michael Mortonson`_
+   | Claire Poppett
+   | `Marcel Schmittfull`_
+   | `Blake Sherwin`_
+   | `Marcel van Daalen`_
 
-**BCCP-affiliated Graduate and Undergraduate students**
+.. container:: col-md-4
 
-| `Nick Hand`_
-| `Casey Stark`_
-| Erik Aldape
+   **Cosmology Data Science (CDS) Fellows**
 
-**Other BCCP-affiliated faculty and LBL scientists**
+   | `Beth Reid`_
+   | `Kyle Barbary`_
+   | `Yu Feng`_
 
-| `Greg Aldering`_
-| Stephen Bailey
-| Chris Bebek
-| `Julian Borrill`_
-| `Joanne Cohn`_
-| `Bob Cahn`_
-| `William Holzapfel`_
-| `Alex Kim`_
-| `Adrian Lee`_
-| Michael Levi
-| `Pat McDonald`_
-| `Peter Nugent`_
-| Natalie Roe
-| `David Schlegel`_
-| Rollin Thomas
-| `Martin White`_
+   **BCCP-affiliated Graduate and Undergraduate students**
 
-**Former BCCP Postdocs**
+   | `Nick Hand`_
+   | `Casey Stark`_
+   | Erik Aldape
 
-| `Sudeep Das`_
-| `Hee-Jong Seo`_
-| `Anze Slosar`_
-| `Tristan Smith`_
-| `Jeremy Tinker`_
+   **Other BCCP-affiliated faculty and LBL scientists**
 
-**Former BCCP Grad students**
+   | `Greg Aldering`_
+   | Stephen Bailey
+   | Chris Bebek
+   | `Julian Borrill`_
+   | `Joanne Cohn`_
+   | `Bob Cahn`_
+   | `William Holzapfel`_
+   | `Alex Kim`_
+   | `Adrian Lee`_
+   | Michael Levi
+   | `Pat McDonald`_
+   | `Peter Nugent`_
+   | Natalie Roe
+   | `David Schlegel`_
+   | Rollin Thomas
+   | `Martin White`_
 
-| Hannah Fakhouri
-| Jonathan Blazek
-| Matt George
-| Yookyung Noh
+.. container:: col-md-4
 
-**System Admin**
+   **Former BCCP Postdocs**
 
-`Bryan Abshier`_
+   | `Sudeep Das`_
+   | `Hee-Jong Seo`_
+   | `Anze Slosar`_
+   | `Tristan Smith`_
+   | `Jeremy Tinker`_
+
+   **Former BCCP Grad students**
+
+   | Hannah Fakhouri
+   | Jonathan Blazek
+   | Matt George
+   | Yookyung Noh
+
+   **System Admin**
+
+   `Bryan Abshier`_
 
 
 
