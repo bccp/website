@@ -1,3 +1,15 @@
 .navbar-brand {
     padding: 5px 15px;
 }
+
+.carousel {
+    display: inline-block;
+}
+
+.col-left {
+    padding-left: 0px;
+}
+
+.col-right {
+    padding-right: 0px;
+}
