@@ -64,7 +64,12 @@ TRANSLATIONS = {
 # You should provide a key-value pair for each used language.
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ('/research', 'Research'),
+        (
+           (('/research-topics', 'Topics'),
+           ('/research-projects', 'Projects'),
+           ('/research-archive', 'Archived Projects'),
+           ),
+           'Research'),
         ('/people', 'People'),
         ('/visitors', 'Visitors'),
         ('/jobs', 'Jobs'),
