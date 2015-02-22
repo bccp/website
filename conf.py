@@ -7,7 +7,7 @@ import time
 
 # Data about this site
 BLOG_AUTHOR = "BCCP"
-BLOG_TITLE = ""
+BLOG_TITLE = "BCCP"
 # This is the main URL for your site. It will be used
 # in a prominent link
 SITE_URL = "http://bccp.berkeley.edu/"
@@ -17,7 +17,7 @@ SITE_URL = "http://bccp.berkeley.edu/"
 BLOG_EMAIL = "bccp@bccp.berkeley.edu"
 BLOG_DESCRIPTION = "Berkeley Center for Cosmological Physics"
 LOGO_URL = "/images/bccp_logo_54.jpg"
-
+SHOW_BLOG_TITLE = False
 # Nikola is multilingual!
 #
 # Currently supported languages are:
@@ -361,7 +361,7 @@ CONTENT_FOOTER = CONTENT_FOOTER.format(email=BLOG_EMAIL,
 # To use comments, you can choose between different third party comment
 # systems, one of "disqus", "livefyre", "intensedebate", "moot",
 #                 "googleplus" or "facebook"
-COMMENT_SYSTEM = "disqus"
+COMMENT_SYSTEM = ""
 # And you also need to add your COMMENT_SYSTEM_ID which
 # depends on what comment system you use. The default is
 # "nikolademo" which is a test account for Disqus. More information
@@ -461,6 +461,7 @@ PRETTY_URLS = True
 
 # Social buttons. This is sample code for AddThis (which was the default for a
 # long time). Insert anything you want here, or even make it empty.
+SOCIAL_BUTTONS_CODE = ""
 # SOCIAL_BUTTONS_CODE = """
 # <!-- Social buttons -->
 # <div id="addthisbox" class="addthis_toolbox addthis_peekaboo_style addthis_default_style addthis_label_style addthis_32x32_style">
