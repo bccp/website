@@ -13,11 +13,11 @@
 
     <article class="h-entry post-${post.meta('type')}">
     <header>
-        <h2 class="p-name">
+        <h3 class="p-name">
           <a href="${post.permalink()}" class="u-url">${post.title()}</a>
 	  &nbsp;
           <small><time class="published dt-published" datetime="${post.date.isoformat()}">${post.formatted_date(date_format)}</time></small>
-	</h2>
+	</h3>
     </header>
 
     %if index_teasers:
@@ -27,11 +27,12 @@
     <div class="e-content entry-content">
     ${post.text(teaser_only=False)}
     %endif
-
     </div>
+
     </article>
 
 % endfor
+</div>
 ${helper.html_pager()}
 ${comments.comment_link_script()}
 ${helper.mathjax_script(posts)}
