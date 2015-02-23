@@ -44,7 +44,7 @@ include:
 
 -  `PolarBeaR <http://bolo.berkeley.edu/polarbear/>`_ - Polarization of
    Background Radiation
--  `Planck Mission <http://sci.esa.int/planck/>`_
+-  `Planck Mission`_
 -  `South Pole Telescope <http://pole.uchicago.edu/>`_
 -  `APEX-SZ <http://bolo.berkeley.edu/apexsz/instrument.html>`_
 -  `BICEP <http://cosmology.berkeley.edu/group/swlh/bicep/index.html>`_ -
@@ -96,7 +96,7 @@ Dark Energy investigations:
    Spectroscopic Survey
 -  `Gravitational Lensing </images/research/weak_theory2.html>`_
 -  `Baryon Acoustic Oscillations <http://astro.berkeley.edu/~mwhite/bao/>`_
--  `Planck Mission <http://sci.esa.int/planck>`_
+-  `Planck Mission`_
 -  `PolarBeaR <http://bolo.berkeley.edu/polarbear/>`_ - Polarization of Background Radiation
 -  `Euclid <http://www.euclid-ec.org/>`_ - Dark energy satellite
 
@@ -227,3 +227,4 @@ High Energy Physics and Cosmology
 -  `Cosmic Strings </images/research/cosmicstrings.html>`_
 
  
+.. _`Planck Mission`: http://sci.esa.int/planck
