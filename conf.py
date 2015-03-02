@@ -75,7 +75,7 @@ NAVIGATION_LINKS = {
         ('/jobs', 'Jobs'),
         ('/workshops', 'Workshops'),
         ('/software', 'Software'),
-        ('/support', 'Support BCCP'),
+        ('/support', 'Donate'),
         ('/news', 'News'),
 #        ('/events', 'This Week')
 #        ('/categories/index.html', 'Tags'),
