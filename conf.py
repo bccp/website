@@ -64,12 +64,12 @@ TRANSLATIONS = {
 # You should provide a key-value pair for each used language.
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        (
-           (('/research-topics', 'Topics'),
-           ('/research-projects', 'Projects'),
-           ('/research-archive', 'Archived Projects'),
-           ),
-           'Research'),
+#        (
+#           (('/research-topics', 'Topics'),
+#           ('/research-projects', 'Projects'),
+#           ('/research-archive', 'Archived Projects'),
+#           ),
+#           'Research'),
         ('/people', 'People'),
         ('/visitors', 'Visitors'),
         ('/jobs', 'Jobs'),
@@ -77,7 +77,7 @@ NAVIGATION_LINKS = {
         ('/software', 'Software'),
         ('/support', 'Support BCCP'),
         ('/news', 'News'),
-        ('/events', 'This Week')
+#        ('/events', 'This Week')
 #        ('/categories/index.html', 'Tags'),
 #        ('/rss.xml', 'RSS'),
         
