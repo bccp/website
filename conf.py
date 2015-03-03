@@ -479,7 +479,7 @@ SOCIAL_BUTTONS_CODE = ""
 # """
 
 # Hide link to source for the posts?
-SHOW_SOURCELINK = False
+SHOW_SOURCELINK = True
 # Copy the source files for your pages?
 # Setting it to False implies HIDE_SOURCELINK = True
 COPY_SOURCES = False
