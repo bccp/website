@@ -71,11 +71,11 @@ NAVIGATION_LINKS = {
 #           ),
 #           'Research'),
         ('/people', 'People'),
-        ('/visitors', 'Visitors'),
 #        ('/jobs', 'Jobs'),
 #        ('/workshops', 'Workshops'),
         ('/software', 'Software'),
         ("http://cosmology.lbl.gov/sem_bcg_future.html", 'Seminars'),
+        ('/visitors', 'Visitors'),
 #        ('/news', 'News'),
         ('/contact', 'Contact'),
         ('/support', 'Donate'),
@@ -355,7 +355,7 @@ LICENSE = ""
 CONTENT_FOOTER = """<hr>
 Contents &copy; {date}  <a href="mailto:{email}">{author}</a> | 
 Powered by <a href="http://getnikola.com" rel="nofollow">Nikola</a> | 
-Theme is <a href="http://bootswatch.com/paper/">Paper</a>"""
+Theme is <a href="http://bootswatch.com/readable/">Readable</a>"""
 CONTENT_FOOTER = CONTENT_FOOTER.format(email=BLOG_EMAIL,
                                        author=BLOG_AUTHOR,
                                        date=time.gmtime().tm_year)
