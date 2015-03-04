@@ -26,13 +26,9 @@
    expanding our knowledge of the universe. BCCP research programs are
    addressing the following major questions:
 
-   -  What is dark energy and how is it causing the expansion of the
-      universe to accelerate?
-   -  How did space-time originate early in the universe?
    -  What is dark matter?
-   -  Why is there an excess of matter over antimatter in the current
-      universe when they were in equal abundance at very early stages of
-      universe evolution?
+   -  What is dark energy?
+   -  How is it causing the expansion of the universe to accelerate?
 
 .. container:: col-md-6 col-right
 
