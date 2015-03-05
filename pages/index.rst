@@ -28,7 +28,7 @@
 
    -  What is dark matter?
    -  What is dark energy?
-   -  How is it causing the expansion of the universe to accelerate?
+   -  What is causing the expansion of the universe to accelerate?
 
    
 .. container:: col-md-6 col-right
