@@ -13,3 +13,6 @@ The site uses a custom theme based on nikola's built-in bootstrap3 theme. The cu
 -  use a drop-in bootstrap.css replacement from bootswatch.
 -  Tweak various aspects of the generated HTML, such as titles, links
    and listings.
+
+
+Now this line is added to trigger an automatic update.
