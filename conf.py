@@ -78,7 +78,7 @@ NAVIGATION_LINKS = {
             ('/codeindex', 'Code Index'),
             ), 'Software'),
         ('/data', 'Data'),
-        ("http://cosmology.lbl.gov/sem_bcg_future.html", 'Seminars'),
+        ("http://cosmology.lbl.gov/sem_bcg_future.html", u'Seminars \uf08e'),
         ('/visitors', 'Visitors'),
 #        ('/news', 'News'),
         ('/contact', 'Contact'),
