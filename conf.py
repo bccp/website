@@ -74,6 +74,7 @@ NAVIGATION_LINKS = {
 #        ('/jobs', 'Jobs'),
 #        ('/workshops', 'Workshops'),
         ('/software', 'Software'),
+        ('/data', 'Data'),
         ("http://cosmology.lbl.gov/sem_bcg_future.html", 'Seminars'),
         ('/visitors', 'Visitors'),
 #        ('/news', 'News'),
