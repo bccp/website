@@ -16,7 +16,7 @@ SITE_URL = "http://bccp.berkeley.edu/"
 # BASE_URL = "http://getnikola.com/"
 BLOG_EMAIL = "bccp@bccp.berkeley.edu"
 BLOG_DESCRIPTION = "Berkeley Center for Cosmological Physics"
-LOGO_URL = "/images/bccp_logo_54.jpg"
+LOGO_URL = "/images/bccp_logo.png"
 SHOW_BLOG_TITLE = False
 # Nikola is multilingual!
 #
