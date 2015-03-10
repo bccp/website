@@ -16,7 +16,7 @@ SITE_URL = "http://bccp.berkeley.edu/"
 # BASE_URL = "http://getnikola.com/"
 BLOG_EMAIL = "bccp@bccp.berkeley.edu"
 BLOG_DESCRIPTION = "Berkeley Center for Cosmological Physics"
-LOGO_URL = "/images/bccp_logo.png"
+LOGO_URL = "/files/logo_plain.svg"
 SHOW_BLOG_TITLE = False
 # Nikola is multilingual!
 #
@@ -140,7 +140,9 @@ PAGES = (
 # One or more folders containing files to be copied as-is into the output.
 # The format is a dictionary of "source" "relative destination".
 # Default is:
-FILES_FOLDERS = {'images': 'images'}
+FILES_FOLDERS = {'images': 'images',
+                 'files': 'files'}
+
 # Which means copy 'files' into 'output'
 
 # A mapping of languages to file-extensions that represent that language.
@@ -328,10 +330,10 @@ DATE_FORMAT = '%Y %b %d'
 # <link rel="name" href="file" sizes="size"/>
 # For creating favicons, take a look at:
 # http://www.netmagazine.com/features/create-perfect-favicon
-# FAVICONS = {
-#     ("icon", "/favicon.ico", "16x16"),
+FAVICONS = {
+     ("icon", "/files/logo_square_32.ico", "32x32"),
 #     ("icon", "/icon_128x128.png", "128x128"),
-# }
+}
 
 # Show only teasers in the index pages? Defaults to False.
 INDEX_TEASERS = True

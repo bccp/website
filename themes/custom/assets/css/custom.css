@@ -17,3 +17,7 @@
 hr.docutils {
     width: 100%;
 }
+
+.navbar-brand #logo {
+    height: 54px;
+}
