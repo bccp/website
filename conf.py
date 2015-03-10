@@ -16,7 +16,7 @@ SITE_URL = "http://bccp.berkeley.edu/"
 # BASE_URL = "http://getnikola.com/"
 BLOG_EMAIL = "bccp@bccp.berkeley.edu"
 BLOG_DESCRIPTION = "Berkeley Center for Cosmological Physics"
-LOGO_URL = "/files/logo_plain.svg"
+LOGO_URL = "/files/logo_54.png"
 SHOW_BLOG_TITLE = False
 # Nikola is multilingual!
 #
@@ -78,7 +78,7 @@ NAVIGATION_LINKS = {
             ('/codeindex', 'Code Index'),
             ), 'Software'),
         ('/data', 'Data'),
-        ("http://cosmology.lbl.gov/sem_bcg_future.html", u'Seminars \uf08e'),
+        ("http://cosmology.lbl.gov/sem_bcg_future.html", u'Seminars &#xf08e;'),
         ('/visitors', 'Visitors'),
 #        ('/news', 'News'),
         ('/contact', 'Contact'),
@@ -562,7 +562,7 @@ BODY_END = """
 # </script>
 # """
 
-# EXTRA_HEAD_DATA = """
+#EXTRA_HEAD_DATA = """
 # <link rel="stylesheet" type="text/css" href="/assets/css/tipuesearch.css">
 # <div id="tipue_search_content" style="margin-left: auto; margin-right: auto; padding: 20px;"></div>
 # """
