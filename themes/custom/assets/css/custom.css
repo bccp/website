@@ -13,3 +13,7 @@
 .col-right {
     padding-right: 0px;
 }
+
+hr.docutils {
+    width: 100%;
+}
