@@ -51,6 +51,9 @@ ${template_hooks['extra_head']()}
                     <%block name="sourcelink"></%block>
                 %endif
                 ${template_hooks['menu_alt']()}
+                % if post:
+                    <li><a href="https://github.com/bccp/website/edit/master/${post.source_path}">Edit</a></li>
+                % endif
             </ul>
         </div><!-- /.navbar-collapse -->
     </div><!-- /.container -->
