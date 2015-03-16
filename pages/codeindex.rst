@@ -7,7 +7,7 @@
 
 Here we provide links and information on publicly available codes useful
 for the cosmology research community. Please send
-suggestions/additions/corrections by opening an `issue on github <https://github.com/bccp/website/issues/new>`__.
+suggestions/additions/corrections by opening an `issue on github <https://github.com/bccp/website/issues/new>`__ or through our contact page.
 
 Boltzmann codes for cosmological perturbations.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
