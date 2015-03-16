@@ -40,6 +40,7 @@
    **BCCP-affiliated Graduate and Undergraduate students**
 
    | `Nick Hand`_
+   | `Abigail Polin`_
    | `Casey Stark`_
 
    **Other BCCP-affiliated faculty and LBL scientists**
