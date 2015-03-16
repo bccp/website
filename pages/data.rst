@@ -14,7 +14,7 @@ The `South Pole Telescope <http://pole.uchicago.edu/index.php>`__ data products 
 
 Large Scale Structure Data
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
-Three-dimensional maps of the large scale structure as traced by galaxies are available from the `Sloan Digital Sky Survey III Baryon Oscillation Spectroscopic Survey <https://www.sdss3.org/surveys/boss.php>`__ project.  A `final data release (DR12) <http://www.sdss.org/dr12/data_access/>`__ is available and contains all spectra taken by the survey.  Value-added data and random BOSS galaxy catalogs are available for the `DR10 dataset <https://www.sdss3.org/dr10/>`__.  DR11 and DR12 datasets and code release are coming soon. 
+Three-dimensional maps of the large scale structure as traced by galaxies are available from the `Sloan Digital Sky Survey III Baryon Oscillation Spectroscopic Survey <https://www.sdss3.org/surveys/boss.php>`__ project.  A `final data release (DR12) <http://www.sdss.org/dr12/data_access/>`__ is available and contains all spectra taken by the survey.  Value-added data and random BOSS galaxy catalogs are available for the `DR10 dataset <http://data.sdss3.org/sas/dr10/boss/lss/>`__ (`data model <http://data.sdss3.org/datamodel/files/BOSS_LSS_REDUX/>`_).  More information on how to use these catalogs and produce your own large-scale structure samples is available in `this tutorial <https://www.sdss3.org/dr10/tutorials/lss_galaxy.php>`_.  DR11 and DR12 datasets and code release are coming soon. 
 
 Supernovae Data
 ~~~~~~~~~~~~~~~
