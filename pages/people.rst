@@ -41,7 +41,6 @@
 
    | `Nick Hand`_
    | `Casey Stark`_
-   | Erik Aldape
 
    **Other BCCP-affiliated faculty and LBL scientists**
 
