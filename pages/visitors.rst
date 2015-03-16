@@ -4,6 +4,10 @@
 .. tags: 
 .. description: 
 
+
+Visitor Program
+---------------
+
 We maintain an active program for visiting scholars. BCCP hosts
 visitors at all levels, from senior scientists to postdocs, graduate
 students, and undergraduates. If you would like to visit BCCP, please
@@ -15,6 +19,18 @@ for longer term visitors working with BCCP members on BCCP related
 projects. The applications are reviewed by a committee several times a
 year. All decisions are based on the availability of space and
 funding.
+
+.. container:: col-md-6 col-right
+
+   .. class:: jumbotron
+
+   .. raw:: html
+
+      <h2>Visitor Program</h2>
+      <p>If you would like to visit BCCP, please
+fill out the form
+`here <https://docs.google.com/spreadsheet/viewform?formkey=dEVKc0pKb1ktSXFTX1hHRi13bURCLWc6MA>`_.</p>
+    
 
 Fall 2014
 ---------
