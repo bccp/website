@@ -72,7 +72,7 @@ NAVIGATION_LINKS = {
 #           'Research'),
         ('/people', 'People'),
 #        ('/jobs', 'Jobs'),
-#        ('/workshops', 'Workshops'),
+        ('/workshops', 'Workshops'),
         ((
             ('/software', 'BCCP Software'),
             ('/codeindex', 'Code Index'),
