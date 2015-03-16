@@ -106,7 +106,6 @@ Fall 2012
 -  Teppei Okumura (Institute for the Early Universe, Seoul, Korea) -
    November 5-December 21, 2012
 
-
 .. container:: col-md-6 col-right
 
    .. class:: jumbotron
