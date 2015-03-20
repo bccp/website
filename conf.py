@@ -64,21 +64,23 @@ TRANSLATIONS = {
 # You should provide a key-value pair for each used language.
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-#        (
-#           (('/research-topics', 'Topics'),
-#           ('/research-projects', 'Projects'),
-#           ('/research-archive', 'Archived Projects'),
-#           ),
-#           'Research'),
+        (
+           (('/research-topics', 'Topics'),
+           ('/research-projects', 'Projects'),
+           ('/research-archive', 'Archived Projects'),
+           ), 'Research'),
         ('/people', 'People'),
 #        ('/jobs', 'Jobs'),
-        ('/workshops', 'Workshops'),
+        ((
+            ('/workshops', 'Workshops'),
+            ("http://cosmology.lbl.gov/sem_bcg_future.html", u'Seminars &#xf08e;'),
+            ), 'Events'),
         ((
             ('/software', 'BCCP Software'),
             ('/codeindex', 'Code Index'),
+            ('/data', 'Data'),
             ), 'Software'),
-        ('/data', 'Data'),
-        ("http://cosmology.lbl.gov/sem_bcg_future.html", u'Seminars &#xf08e;'),
+        
         ('/visitors', 'Visitors'),
 #        ('/news', 'News'),
         ('/contact', 'Contact'),
