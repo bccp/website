@@ -27,3 +27,9 @@
 hr.docutils {
     width: 100%;
 }
+
+/* match background of jumbotron */
+div.sidebar {
+    background-color: #f7f7f7;
+    border: none;
+}

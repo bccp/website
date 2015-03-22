@@ -1,24 +1,29 @@
-.. title: Visitors
+.. title: Visitors Program
 .. slug: visitors
 .. date: 2014-10-28 08:33:04
 .. tags: 
 .. description: 
 
 
-Visitor Program
----------------
+.. class:: sidebar jumbotron
+
+   .. raw:: html
+
+      <p>If you would like to visit BCCP, please fill out the visitor form:</p>
+      <p><a class="btn btn-primary btn-lg" href="https://docs.google.com/spreadsheet/viewform?formkey=dEVKc0pKb1ktSXFTX1hHRi13bURCLWc6MA">Visitor Form</a></p>
 
 We maintain an active program for visiting scholars. BCCP hosts
 visitors at all levels, from senior scientists to postdocs, graduate
-students, and undergraduates. If you would like to visit BCCP, please
-fill out the form
-`here <https://docs.google.com/spreadsheet/viewform?formkey=dEVKc0pKb1ktSXFTX1hHRi13bURCLWc6MA>`_.
-Longer term visits involving collaborative activities with BCCP
-members are especially encouraged. BCCP can provide financial support
-for longer term visitors working with BCCP members on BCCP related
-projects. The applications are reviewed by a committee several times a
-year. All decisions are based on the availability of space and
-funding.
+students, and undergraduates. Longer term visits involving
+collaborative activities with BCCP members are especially
+encouraged. BCCP can provide financial support for longer term
+visitors working with BCCP members on BCCP related projects. The
+applications are reviewed by a committee several times a year. All
+decisions are based on the availability of space and funding.
+
+
+Previous Visitors
+=================
 
 Fall 2014
 ---------
@@ -105,14 +110,3 @@ Fall 2012
 -  Andreu Font (University of Zurich) - November-December 2012
 -  Teppei Okumura (Institute for the Early Universe, Seoul, Korea) -
    November 5-December 21, 2012
-
-.. container:: col-md-6 col-right
-
-   .. class:: jumbotron
-
-   .. raw:: html
-
-      <h2>Visitor Program</h2>
-      <p>If you would like to visit BCCP, please
-       fill out the form
-       <a href="https://docs.google.com/spreadsheet/viewform?formkey=dEVKc0pKb1ktSXFTX1hHRi13bURCLWc6MA">Here </a></p>

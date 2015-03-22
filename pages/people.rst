@@ -40,7 +40,7 @@
    **BCCP-affiliated Graduate and Undergraduate students**
 
    | `Nick Hand`_
-   | `Abigail Polin`_
+   | Abigail Polin
    | `Casey Stark`_
    | Kyle Boone
    | Parker Fagrelius
