@@ -42,6 +42,10 @@
    | `Nick Hand`_
    | `Abigail Polin`_
    | `Casey Stark`_
+   | Kyle Boone
+   | Parker Fagrelius
+   | Clare Saunders
+   | Caroline Sofiatti
 
    **Other BCCP-affiliated faculty and LBL scientists**
 
