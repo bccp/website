@@ -72,6 +72,7 @@ NAVIGATION_LINKS = {
         ('/people', 'People'),
 #        ('/jobs', 'Jobs'),
         ((
+            ('/thisweek', 'This Week'),
             ('/workshops', 'Workshops'),
             ("http://cosmology.lbl.gov/sem_bcg_future.html", u'Seminars &#xf08e;'),
             ), 'Events'),
