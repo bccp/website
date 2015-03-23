@@ -47,10 +47,26 @@ library underlying the spline classes in scipy.interpolate.
 
 cosmoxi2d provides theoretical predictions for the two-dimensional galaxy correlation function.  This code was used to analyze `DR9 <http://adsabs.harvard.edu/abs/2012MNRAS.426.2719R>`_, `DR10, and DR11 <http://adsabs.harvard.edu/abs/2014MNRAS.439.3504S>`_ the SDSS-III BOSS CMASS galaxy sample and derive cosmological constraints on the geometry of the universe and the growth rate of cosmic structure.
 
+====
+
+`kdcount`_
+----------
+
+kdcount is a simple python extension for brute force pair-counting of point data sets. Pair-counting is the fundamental of estimating correlation functions from imaging and spectroscopy survey catalogues of quasars, galaxies, and Lyman-alpha forest.
+
+====
+
+`pfft-python`_
+--------------
+
+pfft-python is a thin python extension layer of the massively parallel faster fourier transformation library, PFFT. Fast Fourier Transform is the core component of Particle-Mesh based gravity solvers, which simulate the formation of large scale structure, galaxies and dark matter halos.
+
 .. _`Dierckx.jl`: http://github.com/kbarbary/Dierckx.jl
 .. _`SEP`: http://sep.readthedocs.org
 .. _`SEP on GitHub`: http://github.com/kbarbary/sep
 .. _`SNCosmo`: http://sncosmo.github.io
 .. _`SNCosmo on GitHub`: http://github.com/sncosmo/sncosmo
 .. _`cosmoxi2d`: https://github.com/bareid/cosmoxi2d
+.. _`kdcount`: https://github.com/rainwoodman/kdcount
+.. _`pfft-python`: https://github.com/rainwoodman/pfft-python
 
