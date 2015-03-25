@@ -5,29 +5,30 @@
 Baryon Oscillation Spectroscopic Survey (BOSS)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-`Baryon Oscillation Spectroscopic Survey (BOSS) <http://www.sdss3.org/cosmology.php>`_ 
-
 BCCP cosmologists are world leaders in the newest approach to dark
-energy measurements - Baryon Acoustic Oscillations (BAO).  By studying
+energy measurements - Baryon Acoustic Oscillations (BAO). By studying
 the clustering of nearby galaxies, we can detect the imprint of the
 sound waves that were “frozen in” as the cosmic plasma of the early
 universe cooled — the same acoustic phenomena that produced the
-anisotropies we see in the Cosmic Microwave Background (CMB). 
-By comparing the structure in the CMB with the distribution of galaxies in the near
-universe, we obtain a measurement of the properties of dark energy
-causing the recent cosmic acceleration. This gives a new window on the
-phenomenon, which is independent of the one using supernovae, providing
-a complementary way of understanding the history of the universe and
-what drives it. The Center’s scientists are developing a new project
-that can make a dramatic step forward in BAO dark energy measurements.
-The survey is designed to obtain spectra of 1.5 million galaxies at
-z<0.7, and 160,000 quasars for the BAO signal at much higher redshifts.
+anisotropies we see in the Cosmic Microwave Background (CMB).  By
+comparing the structure in the CMB with the distribution of galaxies
+in the near universe, we obtain a measurement of the properties of
+dark energy causing the recent cosmic acceleration. This gives a new
+window on the phenomenon, which is independent of the one using
+supernovae, providing a complementary way of understanding the history
+of the universe and what drives it. The Center’s scientists are
+developing a new project that can make a dramatic step forward in BAO
+dark energy measurements.  The survey is designed to obtain spectra of
+1.5 million galaxies at z<0.7, and 160,000 quasars for the BAO signal
+at much higher redshifts.
 
-.. image:: /images/research/cryostat.gif
-   :align: left
+`Baryon Oscillation Spectroscopic Survey (BOSS) Website<http://www.sdss3.org/cosmology.php>`_
 
 Polarization of Background Radiation (PolarBeaR)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. image:: /images/research/cryostat.gif
+   :align: left
 
 `Polarization of Background Radiation (PolarBeaR) <http://bolo.berkeley.edu/polarbear/>`_
 

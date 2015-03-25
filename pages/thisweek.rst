@@ -7,7 +7,7 @@
 
 .. container:: col-md-4
 
-   To add events to the BCCP calender, 
+   To add events to the BCCP calendar, 
    please contact BCCP Business Administrator: 
    Melissa Barclay <mbarclay@berkeley.edu>
 

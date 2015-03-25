@@ -60,7 +60,8 @@ Dark Energy
 ~~~~~~~~~~~
 
 .. image:: /images/research/DarkEnergy_ostpred2.jpg
-   :align: center
+   :align: right
+   :width: 450px
 
 Dark energy is the name given to the unknown physics causing the current
 acceleration of the cosmic expansion. Whether dark energy is truly a new
@@ -154,20 +155,21 @@ Dark Matter investigations:
 Theoretical Cosmology
 ~~~~~~~~~~~~~~~~~~~~~
 
-`Theoretical cosmology <http://www.euclid-ec.org/>`_ involves analysis of data with an eye to current
-theories, making predictions from theories and coming up with theories.
-It includes a wide range of topics, from dark energy, inflation, dark
-matter and neutrino masses to galaxy and cluster formation, reionization
-and structure formation (e.g. characterization of emergent phenomena
-such as the cosmic web or the regularities observed in galaxy
-properties). For many of the physical cosmology problems, numerical
-simulation in particular is extremely useful, and in fact crucial, for
-incorporating correlations implicit in the cosmic web and providing a
-framework for evolution within it. A flood of observational data has
-become available in recent years, and is growing steadily. Currently, in
-many parts of physical cosmology, theory is racing to keep up and to
-make testable predictions for observations, as the latter grow in
-precision and richness.
+`Theoretical cosmology <http://www.euclid-ec.org/>`_ involves analysis
+of data with an eye to current theories, making predictions from
+theories and coming up with theories.  It includes a wide range of
+topics, from dark energy, inflation, dark matter and neutrino masses
+to galaxy and cluster formation, reionization and structure formation
+(e.g. characterization of emergent phenomena such as the cosmic web or
+the regularities observed in galaxy properties). For many of the
+physical cosmology problems, numerical simulation in particular is
+extremely useful, and in fact crucial, for incorporating correlations
+implicit in the cosmic web and providing a framework for evolution
+within it. A flood of observational data has become available in
+recent years, and is growing steadily. Currently, in many parts of
+physical cosmology, theory is racing to keep up and to make testable
+predictions for observations, as the latter grow in precision and
+richness.
 
 Galaxy and Distant Object Observations
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -215,16 +217,5 @@ Galaxy and Distant Object Observations:
    Project <http://www-astro.lbl.gov/~bruce/spitzerlblpage/>`_
 -  Gamma Ray Bursts
 
-High Energy Physics and Cosmology
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. image:: /images/research/highE.gif
-   :align: left
-
--  `Matter-Antimatter <http://bccp.lbl.gov/matter_anti.html>`_
--  `Extra Dimensions <http://bccp.lbl.gov/dimensions.html>`_
--  `Other Relics <http://bccp.lbl.gov/relics.html>`_
--  `Cosmic Strings </images/research/cosmicstrings.html>`_
-
- 
 .. _`Planck Mission`: http://sci.esa.int/planck
