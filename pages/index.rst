@@ -7,9 +7,8 @@
 
    <h1>Berkeley Center For Cosmological Physics</h1>
 
-
-.. container:: col-md-6 col-left
-
+   <div class="row">
+   <div class="col-md-8">
    Cosmology is the study of the universe as a whole since its
    inception. 
    
@@ -23,27 +22,65 @@
    theory, BCCP continues to develop the foundation of an accurate,
    reliable model of the cosmos. We compare the implications of this
    evolving model against observations — thus opening new horizons and
-   expanding our knowledge of the universe. BCCP research programs are
-   addressing the following major questions:
+   expanding our knowledge of the universe. 
+   </div>
 
-   -  What is dark matter?
-   -  What is dark energy?
-   -  What is causing the expansion of the universe to accelerate?
-
-   
-.. container:: col-md-6 col-right
-
-   .. class:: jumbotron
-
-   .. raw:: html
-
-      <h2>Cosmology on the Slopes</h2>
-      <p>Workshop in Aspen, CO, March 8-14, 2015</p>
-      <p><a class="btn btn-primary btn-lg" href="http://bccp.berkeley.edu/Aspen_2015/">Learn more</a></p>
-
-.. .. slides::
-   
-..   /galleries/frontpage/cosmic_web.jpg
-..   /galleries/frontpage/planck.jpg
-..   /galleries/frontpage/sn1994D.jpg
-
+   <div class="col-md-4">
+    <pre>
+    &nbsp;   
+    &nbsp;   
+    &nbsp;   
+    &nbsp;   
+    &nbsp;   
+    </pre>
+    </div>
+    </div>
+   <div class="clearfix visible-xs-block"></div>
+   <div class="row">
+        <div class="col-sm-4 col-xs-12 subpanel">
+          <span class="frontpage-icon">
+            &#xf085;
+          </span>
+          <h3>Research</h3>
+          <div>
+   Here at Berkeley Center For Cosmological Physics (BCCP) 
+   we focus on understanding the origin and evolution of
+   the universe through a series of programs to define the observations,
+   experiments, concepts, and simulations needed to answer the fundamental
+   questions in cosmology. 
+          </div>
+          <a class="btn btn-primary btn-xs"
+              href="research/projects/">
+            Learn More
+          </a>
+        </div>
+        <div class="col-sm-4 col-xs-12 subpanel">
+          <span class="frontpage-icon">
+            &#xf0c0;
+          </span>
+          <h3>People</h3>
+          <div>leifjeowqjfkje qofj eifjel fjoewqvnnqo wqofjw fqo 
+          fqoewf fwqjewqo 
+          qfoewqjf fjewqif fwjoqweif
+          </div>
+          <a class="btn btn-primary btn-xs"
+              href="people/"> 
+            Learn More
+          </a>
+        </div>
+        <div class="col-sm-4 col-xs-12 subpanel">
+          <span class="frontpage-icon">
+            &#xf073; 
+          </span>
+          <h3>Events</h3>
+          <div>leifjeowqjfkje qofj eifjel fjoewqvnnqo wqofjw fqo 
+          fqoewf fwqjewqo 
+          qfoewqjf fjewqif fwjoqweif
+          qewfoqwifeowqeifj
+          </div>
+          <a class="btn btn-primary btn-xs"
+              href="thisweek/">
+            Learn More
+          </a>
+        </div>
+   </div>

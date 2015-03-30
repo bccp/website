@@ -1,9 +1,29 @@
 @import url(http://weloveiconfonts.com/api/?family=fontawesome);
-
+@font-face {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 300;
+  src: local("Roboto Light"), local("Roboto-Light"), url("https://fonts.gstatic.com/s/roboto/v15/Hgo13k-tfSpn0qi1SFdUfVtXRa8TVwTICgirnJhmVJw.woff2") format("woff2"), url("https://fonts.gstatic.com/s/roboto/v15/Hgo13k-tfSpn0qi1SFdUfT8E0i7KZn-EPnyo3HZu7kw.woff") format("woff");
+}
+.frontpage-icon {
+    font-size: 48px;
+}
+.frontpage-icon:hover {
+    text-decoration: none;
+}
+.subpanel {
+    text-align: center;
+}
+.subpanel > h4 {
+    margin-top: 0px;
+    font-size: 30px;
+}
 .navbar {
     font-family: "Raleway","Helvetica Neue", Helvetica, Arial, sans-serif, "FontAwesome";
 }
-
+body {
+    font-family: "Roboto", sans-serif;
+}
 .navbar-brand {
     padding: 5px 15px;
 }
