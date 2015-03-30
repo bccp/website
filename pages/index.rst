@@ -35,7 +35,7 @@
     </pre>
     </div>
     </div>
-   <div class="clearfix visible-xs-block"></div>
+   <hr/>
    <div class="row">
         <div class="col-sm-4 col-xs-12 subpanel">
           <span class="frontpage-icon">
