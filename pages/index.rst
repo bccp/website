@@ -8,7 +8,7 @@
    <h1>Berkeley Center For Cosmological Physics</h1>
 
    <div class="row">
-   <div class="col-md-8">
+   <div class="col-md-8 text-justify">
    Cosmology is the study of the universe as a whole since its
    inception. 
    
@@ -42,7 +42,7 @@
             &#xf085;
           </span>
           <h3>Research</h3>
-          <div>
+          <div class="text-justify">
    Here at Berkeley Center For Cosmological Physics (BCCP) 
    we focus on understanding the origin and evolution of
    the universe through a series of programs to define the observations,
@@ -59,7 +59,7 @@
             &#xf0c0;
           </span>
           <h3>People</h3>
-          <div>leifjeowqjfkje qofj eifjel fjoewqvnnqo wqofjw fqo 
+          <div class="text-justify">leifjeowqjfkje qofj eifjel fjoewqvnnqo wqofjw fqo 
           fqoewf fwqjewqo 
           qfoewqjf fjewqif fwjoqweif
           </div>
@@ -73,7 +73,7 @@
             &#xf073; 
           </span>
           <h3>Events</h3>
-          <div>leifjeowqjfkje qofj eifjel fjoewqvnnqo wqofjw fqo 
+          <div class="text-justify">leifjeowqjfkje qofj eifjel fjoewqvnnqo wqofjw fqo 
           fqoewf fwqjewqo 
           qfoewqjf fjewqif fwjoqweif
           qewfoqwifeowqeifj
