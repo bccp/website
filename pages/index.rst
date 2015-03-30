@@ -50,7 +50,7 @@
    questions in cosmology. 
           </div>
           <a class="btn btn-primary btn-xs"
-              href="research/projects/">
+              href="research-projects/">
             Learn More
           </a>
         </div>
