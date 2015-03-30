@@ -7,6 +7,7 @@
 }
 .frontpage-icon {
     font-size: 48px;
+    font-family: "FontAwesome";
 }
 .frontpage-icon:hover {
     text-decoration: none;
