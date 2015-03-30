@@ -66,7 +66,8 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ('/people', 'People'),
         (
-           (('/research-topics', 'Topics'),
+           (
+            #('/research-topics', 'Topics'),
            ('/research-projects', 'Projects'),
            ('/research-archive', 'Archived Projects'),
            ), 'Research'),
