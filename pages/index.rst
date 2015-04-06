@@ -29,11 +29,12 @@
    </div>
 
    <div class="col-md-4">
-    <pre><h1>
-   Berkeley Center for 
-   Cosmological 
-   Physics</h1>
-    </pre>
+   <h1><pre>
+   B 
+    C
+     C
+      P
+    </pre></h1>
     </div>
     </div>
    <hr/>
