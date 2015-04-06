@@ -5,8 +5,6 @@
 
 .. raw:: html
 
-   <h1>Berkeley Center For Cosmological Physics</h1>
-
    <div class="row">
    <div class="col-md-8 text-justify">
    Cosmology is the study of the universe as a whole since its
@@ -27,12 +25,10 @@
 
    <div class="col-md-4">
     <pre>
-    Latest news or a picture. 
-    &nbsp;   
-    &nbsp;   
-    &nbsp;   
-    &nbsp;   
-    &nbsp;   
+    <h1>
+   Berkeley Center for 
+   Cosmological 
+   Physics</h1>
     </pre>
     </div>
     </div>
