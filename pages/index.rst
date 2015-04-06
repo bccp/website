@@ -11,22 +11,23 @@
    <div class="col-md-8 text-justify">
    Cosmology is the study of the universe as a whole since its
    inception. 
-   
+   <br>
    Here at Berkeley Center For Cosmological Physics (BCCP) 
    we focus on understanding the origin and evolution of
    the universe through a series of programs to define the observations,
    experiments, concepts, and simulations needed to answer the fundamental
    questions in cosmology. 
-   
+   <br>
    Combining experimentation, computation, and
    theory, BCCP continues to develop the foundation of an accurate,
-   reliable model of the cosmos. We compare the implications of this
+   reliable model of the cosmos. Furthermore, we compare the implications of this
    evolving model against observations — thus opening new horizons and
    expanding our knowledge of the universe. 
    </div>
 
    <div class="col-md-4">
     <pre>
+    Latest news or a picture. 
     &nbsp;   
     &nbsp;   
     &nbsp;   
@@ -59,9 +60,9 @@
             &#xf0c0;
           </span>
           <h3>People</h3>
-          <div class="text-justify">leifjeowqjfkje qofj eifjel fjoewqvnnqo wqofjw fqo 
-          fqoewf fwqjewqo 
-          qfoewqjf fjewqif fwjoqweif
+          <div class="text-justify">BCCP is a conglomeration of cosmology researchers 
+          . The body of researchers consists of faculty, post-docs, 
+          graduate students, and undergrad students.
           </div>
           <a class="btn btn-primary btn-xs"
               href="people/"> 
@@ -73,10 +74,7 @@
             &#xf073; 
           </span>
           <h3>Events</h3>
-          <div class="text-justify">leifjeowqjfkje qofj eifjel fjoewqvnnqo wqofjw fqo 
-          fqoewf fwqjewqo 
-          qfoewqjf fjewqif fwjoqweif
-          qewfoqwifeowqeifj
+          <div class="text-justify">Cosmology Seminars and Workshops
           </div>
           <a class="btn btn-primary btn-xs"
               href="thisweek/">
