@@ -7,7 +7,8 @@
 
    <div class="row">
    <div class="col-md-8 text-justify">
-   <p>Cosmology is the study of the universe as a whole since its
+   <p>
+   <a href="http://en.wikipedia.org/wiki/Cosmology">Cosmology</a> is the study of the universe as a whole since its
    inception. 
    </p>
    <p>
