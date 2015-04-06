@@ -7,25 +7,28 @@
 
    <div class="row">
    <div class="col-md-8 text-justify">
-   Cosmology is the study of the universe as a whole since its
+   <p>Cosmology is the study of the universe as a whole since its
    inception. 
-   <br>
+   </p>
+   <p>
    Here at Berkeley Center For Cosmological Physics (BCCP) 
    we focus on understanding the origin and evolution of
    the universe through a series of programs to define the observations,
    experiments, concepts, and simulations needed to answer the fundamental
    questions in cosmology. 
-   <br>
+   </p>
+   <p>
    Combining experimentation, computation, and
    theory, BCCP continues to develop the foundation of an accurate,
-   reliable model of the cosmos. Furthermore, we compare the implications of this
+   reliable model of the cosmos. </p>
+   <p>Furthermore, we compare the implications of this
    evolving model against observations — thus opening new horizons and
    expanding our knowledge of the universe. 
+   </p>
    </div>
 
    <div class="col-md-4">
-    <pre>
-    <h1>
+    <pre><h1>
    Berkeley Center for 
    Cosmological 
    Physics</h1>
