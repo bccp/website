@@ -44,6 +44,10 @@
             &#xf085;
           </span>
           <h3>Research</h3>
+          <a class="btn btn-primary btn-xs"
+              href="research-projects/">
+            Learn More
+          </a>
           <div class="text-justify">
    Here at Berkeley Center For Cosmological Physics (BCCP) 
    we focus on understanding the origin and evolution of
@@ -51,35 +55,33 @@
    experiments, concepts, and simulations needed to answer the fundamental
    questions in cosmology. 
           </div>
-          <a class="btn btn-primary btn-xs"
-              href="research-projects/">
-            Learn More
-          </a>
         </div>
         <div class="col-sm-4 col-xs-12 subpanel">
           <span class="frontpage-icon">
             &#xf0c0;
           </span>
           <h3>People</h3>
-          <div class="text-justify">BCCP is a conglomeration of cosmology researchers 
-          . The body of researchers consists of faculty, post-docs, 
-          graduate students, and undergrad students.
-          </div>
           <a class="btn btn-primary btn-xs"
               href="people/"> 
             Learn More
           </a>
+          <div class="text-justify">BCCP is a conglomeration of cosmology researchers 
+          . The body of researchers consists of faculty, post-docs, 
+          graduate students, and undergrad students.
+          </div>
+        
         </div>
         <div class="col-sm-4 col-xs-12 subpanel">
           <span class="frontpage-icon">
             &#xf073; 
           </span>
           <h3>Events</h3>
-          <div class="text-justify">Cosmology Seminars and Workshops
-          </div>
           <a class="btn btn-primary btn-xs"
               href="thisweek/">
             Learn More
           </a>
+          <div class="text-justify">Cosmology Seminars and Workshops around and hosted at BCCP.
+          </div>
+
         </div>
    </div>
