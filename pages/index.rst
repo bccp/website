@@ -6,37 +6,22 @@
 .. raw:: html
 
    <div class="row">
-   <div class="col-md-8 text-justify">
-   <p>
-   <a href="http://en.wikipedia.org/wiki/Cosmology">Cosmology</a> is the study of the universe as a whole since its
-   inception. 
-   </p>
-   <p>
-   Here at Berkeley Center For Cosmological Physics (BCCP) 
-   we focus on understanding the origin and evolution of
-   the universe through a series of programs to define the observations,
-   experiments, concepts, and simulations needed to answer the fundamental
-   questions in cosmology. 
-   </p>
-   <p>
-   Combining experimentation, computation, and
-   theory, BCCP continues to develop the foundation of an accurate,
-   reliable model of the cosmos. </p>
-   <p>Furthermore, we compare the implications of this
-   evolving model against observations — thus opening new horizons and
-   expanding our knowledge of the universe. 
-   </p>
+   <div class="col-md-8 text-justify" style="font-size: larger">
+   <p>The Berkeley Center For Cosmological Physics (BCCP) is focused
+   on understanding the origin and evolution of the universe through a
+   series of programs to define the observations, experiments,
+   concepts, and simulations needed to answer the fundamental
+   questions in <a href="http://en.wikipedia.org/wiki/Cosmology">cosmology</a>.</p>
+   <p>Combining experimentation, computation, and theory, BCCP
+   continues to develop the foundation of an accurate, reliable model
+   of the cosmos. We compare the implications of
+   this evolving model against observations — thus opening new
+   horizons and expanding our knowledge of the universe.</p>
    </div>
-
    <div class="col-md-4">
-   <h1><pre>
-   B 
-    C
-     C
-      P
-    </pre></h1>
-    </div>
-    </div>
+   <img src="images/campbell_rendering.jpg">
+   </div>
+   </div>
    <hr/>
    <div class="row">
         <div class="col-sm-4 col-xs-12 subpanel">
@@ -46,14 +31,10 @@
           <h3>Research</h3>
           <a class="btn btn-primary btn-xs"
               href="research-projects/">
-            Learn More
+            See Projects
           </a>
           <div class="text-justify">
-   Here at Berkeley Center For Cosmological Physics (BCCP) 
-   we focus on understanding the origin and evolution of
-   the universe through a series of programs to define the observations,
-   experiments, concepts, and simulations needed to answer the fundamental
-   questions in cosmology. 
+   Our members are involved in a number of different research programs including computational research, large surveys, and theoretical work.
           </div>
         </div>
         <div class="col-sm-4 col-xs-12 subpanel">
@@ -63,10 +44,9 @@
           <h3>People</h3>
           <a class="btn btn-primary btn-xs"
               href="people/"> 
-            Learn More
+            Find People
           </a>
-          <div class="text-justify">BCCP is a conglomeration of cosmology researchers 
-          . The body of researchers consists of faculty, post-docs, 
+          <div class="text-justify">BCCP consists of faculty, post-docs, 
           graduate students, and undergrad students.
           </div>
         
@@ -78,9 +58,9 @@
           <h3>Events</h3>
           <a class="btn btn-primary btn-xs"
               href="thisweek/">
-            Learn More
+            Events this Week
           </a>
-          <div class="text-justify">Cosmology Seminars and Workshops around and hosted at BCCP.
+          <div class="text-justify">BCCP hosts a number of weekly cosmology seminars.
           </div>
 
         </div>
