@@ -79,7 +79,7 @@ NAVIGATION_LINKS = {
         ((
             ('/thisweek', 'This Week'),
             ('/workshops', 'Workshops'),
-            ("http://cosmology.lbl.gov/sem_bcg_future.html", u'Cosmology Seminars &#xf08e;'),
+            ("http://cosmology.lbl.gov/sem_bcg_future.html", 'Cosmology Seminars &nbsp; <span class="fa fa-external-link"></span>'),
             ), 'Events'),
         ((
             ('/visitors', 'Visitor Program'),
@@ -565,6 +565,9 @@ BODY_END = """
 # </script>
 # """
 
+EXTRA_HEAD_DATA = """
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+"""
 #EXTRA_HEAD_DATA = """
 # <link rel="stylesheet" type="text/css" href="/assets/css/tipuesearch.css">
 # <div id="tipue_search_content" style="margin-left: auto; margin-right: auto; padding: 20px;"></div>
