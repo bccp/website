@@ -14,5 +14,5 @@
 .. raw:: html 
    
     <div class="col-md-8">
-    <iframe src="https://www.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=lbl.gov_i9gqq9dc2eem03jajvb73f44o8%40group.calendar.google.com&amp;color=%2342104A&amp;ctz=America%2FLos_Angeles" style=" border-width:0 " width="600" height="600" frameborder="0" scrolling="no"></iframe>
+    <iframe src="https://www.google.com/calendar/embed?mode=AGENDA&height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=lbl.gov_i9gqq9dc2eem03jajvb73f44o8%40group.calendar.google.com&amp;color=%2342104A&amp;ctz=America%2FLos_Angeles" style=" border-width:0 " width="600" height="600" frameborder="0" scrolling="no"></iframe>
     </div>
