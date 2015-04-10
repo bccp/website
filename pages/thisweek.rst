@@ -18,7 +18,7 @@
     please contact BCCP Business Administrator: 
     Melissa Barclay 
     <a href="mailto:mbarclay@berkeley.edu">
-        mbarclay@berkeley.edu
+        &lt;mbarclay@berkeley.edu&gt;
     </a>
     </div>
     </div>
