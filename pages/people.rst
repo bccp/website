@@ -23,7 +23,6 @@
    | `Andreu Font`_
    | Brian Hayden
    | `Adrian Liu`_
-   | `Michael Mortonson`_
    | Claire Poppett
    | `Marcel Schmittfull`_
    | `Blake Sherwin`_
@@ -33,13 +32,14 @@
 
    **Cosmology Data Science (CDS) Fellows**
 
-   | `Beth Reid`_
    | `Kyle Barbary`_
    | `Yu Feng`_
 
    **BCCP-affiliated Graduate and Undergraduate students**
 
+   | Han Aung
    | `Nick Hand`_
+   | Doyeon Kim
    | Abigail Polin
    | `Casey Stark`_
    | Kyle Boone
@@ -75,12 +75,15 @@
    | `Anze Slosar`_
    | `Tristan Smith`_
    | `Jeremy Tinker`_
+   | `Beth Reid`_
+   | `Michael Mortonson`_
 
    **Former BCCP Grad students**
 
    | Hannah Fakhouri
    | Jonathan Blazek
    | Matt George
+   | Eric Huff
    | Yookyung Noh
 
    **System Admin**
