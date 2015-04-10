@@ -27,7 +27,7 @@ cosmic infrared background radiation, DMR (Differential Microwave
 Radiometers) to map the cosmic microwave background radiation, and
 FIRAS (Far-InfraRed Absolute Spectrophotometer) to compare the
 spectrum of the cosmic microwave background radiation with that from a
-precise blackbody. Read more about COBE `here
+precise blackbody. Read more about `COBE
 <http://lambda.gsfc.nasa.gov/product/cobe/>`_.
 
 MAXIPOL
@@ -50,4 +50,4 @@ Astrophysics. The purpose of MAX, MAXIMA and BOOMERANG was to measure
 and eventually map cosmic microwave background (CMB) anisotropies on the
 sub-degree angular scale level. This is a significantly smaller angular
 scale than COBE (>7 degrees) observations. Read more about
-MAXIPOL `here <http://groups.physics.umn.edu/cosmology/maxipol/>`_.
+`MAXIPOL <http://groups.physics.umn.edu/cosmology/maxipol/>`_.
