@@ -21,6 +21,15 @@ visitors working with BCCP members on BCCP related projects. The
 applications are reviewed by a committee several times a year. All
 decisions are based on the availability of space and funding.
 
+Current Visitors
+================
+
+Spring 2015
+-----------
+
+- Shun Saito (Kavli IPMU,  Univ. of Tokyo) – January 25-February 6
+- Irshad Mohammed (University of Zurich) – March 15-April 11
+
 
 Previous Visitors
 =================
