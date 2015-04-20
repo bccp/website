@@ -56,6 +56,14 @@ kdcount is a simple python extension for brute force pair-counting of point data
 
 ====
 
+`pypm`_
+--------------
+
+pypm is a set of python modules for particle mesh calculation with MPI parallel python. It also provides tools
+to measure power spectrum, and construct Friend-of-Friend halso from n-body simulations.
+
+====
+
 `pfft-python`_
 --------------
 
