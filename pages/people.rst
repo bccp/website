@@ -59,6 +59,7 @@
    | `Alex Kim`_
    | `Adrian Lee`_
    | Michael Levi
+   | `Eric Linder`_
    | `Pat McDonald`_
    | `Peter Nugent`_
    | Natalie Roe
@@ -125,3 +126,4 @@
 .. _`David Schlegel`: https://bigboss.lbl.gov/Contacts.html
 .. _`Martin White`: http://astro.berkeley.edu/people/faculty/white.html
 .. _`Sudeep Das`: http://bccp.lbl.gov/~sudeep/home.html
+.. _`Eric Linder`: http://supernova.lbl.gov/~evlinder/
