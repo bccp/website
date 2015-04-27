@@ -29,7 +29,7 @@ Spring 2015
 
 - Shun Saito (Kavli IPMU,  Univ. of Tokyo) – January 25-February 6
 - Irshad Mohammed (University of Zurich) – March 15-April 11
-
+- John Peacock (Royal Observatory of Edinburgh) – April 13-17
 
 Previous Visitors
 =================
