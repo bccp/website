@@ -9,12 +9,11 @@
    :align: left
    :height: 200px
 
-Oliver Zahn is a computational/theoretical astrophysicist and recently
-appointed Executive Director of BCCP. He originally came to Berkeley as
+Oliver Zahn is a computational/theoretical astrophysicist and the
+Executive Director of BCCP. He originally came to Berkeley as
 inaugural Center Fellow after undergraduate work at Max-Planck-Insitute
 for Astrophysics and NYU, as well as doctoral work at Harvard and
-Heidelberg. Zahn oversees Berkeley's cosmology program as well as its
-new data science initiative. Trained as a multipurpose cosmologist, his
+Heidelberg. Trained as a multipurpose cosmologist, his
 research program tries to advance the understanding of the origin and
 evolution of structure in the Universe by applying a variety of
 analytical and numerical methods to complementary astrophysical
