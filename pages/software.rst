@@ -69,6 +69,21 @@ to measure power spectrum, and construct Friend-of-Friend halso from n-body simu
 
 pfft-python is a thin python extension layer of the massively parallel faster fourier transformation library, PFFT. Fast Fourier Transform is the core component of Particle-Mesh based gravity solvers, which simulate the formation of large scale structure, galaxies and dark matter halos.
 
+====
+
+`BoxRemap`_
+--------------
+
+a new technique to remap the cubical domain of a cosmological simulation into simple non-cubical shapes.
+
+====
+
+`Copter`_
+--------------
+
+a C++ class library written by Jordan Carlson to compute predictions for different cosmological perturbation theory schemes.
+
+
 .. _`Dierckx.jl`: http://github.com/kbarbary/Dierckx.jl
 .. _`SEP`: http://sep.readthedocs.org
 .. _`SEP on GitHub`: http://github.com/kbarbary/sep
@@ -78,4 +93,5 @@ pfft-python is a thin python extension layer of the massively parallel faster fo
 .. _`kdcount`: https://github.com/rainwoodman/kdcount
 .. _`pypm`: https://github.com/rainwoodman/pypm
 .. _`pfft-python`: https://github.com/rainwoodman/pfft-python
-
+.. _`BoxRemap`: http://mwhite.berkeley.edu/BoxRemap/
+.. _`Copter`:   http://mwhite.berkeley.edu/Copter/
