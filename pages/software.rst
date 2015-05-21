@@ -117,7 +117,7 @@ a new technique to remap the cubical domain of a cosmological simulation into si
 `LiteMangle`_
 --------------
 
-.. _`LiteMangle`:   http://githbu.com/martinjameswhite/litemangle
+.. _`LiteMangle`:   http://github.com/martinjameswhite/litemangle
 
 
 ====
