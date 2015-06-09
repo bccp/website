@@ -24,15 +24,21 @@ decisions are based on the availability of space and funding.
 Current Visitors
 ================
 
+Summer 2015
+-----------
+
+- Jeremy Tinker (NYU) – June 8-August 21
+- Hee-jong Seo (Ohio University) – June 28-July 10
+
+Previous Visitors
+=================
+
 Spring 2015
 -----------
 
 - Shun Saito (Kavli IPMU,  Univ. of Tokyo) – January 25-February 6
 - Irshad Mohammed (University of Zurich) – March 15-April 11
 - John Peacock (Royal Observatory of Edinburgh) – April 13-17
-
-Previous Visitors
-=================
 
 Fall 2014
 ---------
