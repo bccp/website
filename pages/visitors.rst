@@ -28,7 +28,7 @@ Summer 2015
 -----------
 
 - Jeremy Tinker (NYU) – June 8-August 21
-- Hee-jong Seo (Ohio University) – June 28-July 10
+- Hee-Jong Seo (Ohio University) – June 28-July 10
 
 Previous Visitors
 =================
