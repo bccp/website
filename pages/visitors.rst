@@ -26,7 +26,7 @@ Current Visitors
 
 Summer 2015
 -----------
-
+- Miguel Zumalacárregui (University of Heidelberg) - August 10-September 10
 - Jeremy Tinker (NYU) – June 8-August 21
 - Hee-Jong Seo (Ohio University) – June 28-July 10
 
