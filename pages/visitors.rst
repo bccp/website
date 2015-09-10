@@ -24,14 +24,19 @@ decisions are based on the availability of space and funding.
 Current Visitors
 ================
 
+Fall 2015
+-----------
+- Filip Kozarski (Ludwig-Maximilians-Univ) - August 31-October 16
+- Sergio Rodriguez (Univ of Heidelberg) – September 6-December 6
+
+Previous Visitors
+=================
+
 Summer 2015
 -----------
 - Miguel Zumalacárregui (University of Heidelberg) - August 10-September 10
 - Jeremy Tinker (NYU) – June 8-August 21
 - Hee-Jong Seo (Ohio University) – June 28-July 10
-
-Previous Visitors
-=================
 
 Spring 2015
 -----------
