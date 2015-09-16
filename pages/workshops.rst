@@ -4,6 +4,7 @@
 .. tags: 
 .. description: 
 
+* `Essential Cosmology for Next Generation 2016 <https://sites.google.com/site/cosmologyonthebeach2016/home>`_, January 10th-16th, 2016,  Iberostar Tucan/Quetzal.
 * `Cosmology On The Slopes <http://bccp.berkeley.edu/Aspen_2015/>`_, 2015 March 8-14, Aspen, CO
 * `Computing the Universe`_, 2015 January 16-20, Berkeley, CA. *Symposium and Hack Week on data-intensive cosmology*
 * `Pacific Cosmology Cooperative (PaCCo) Workshop 2 <http://olivierdore.net/pacco.html>`_, 2014 October 16, Berkeley, CA. *Novel Ideas in Time Domain Cosmology*
