@@ -27,7 +27,7 @@ Current Visitors
 Fall 2015
 -----------
 - Filip Kozarski (Ludwig-Maximilians-Univ) - August 31-October 16
-- Sergio Rodriguez (Univ of Heidelberg) – September 6-December 6
+- Sergio Rodriguez (Univ Autonoma de Madrid) – September 6-December 6
 
 Previous Visitors
 =================
