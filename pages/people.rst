@@ -107,7 +107,7 @@
 .. _`Andreu Font`: https://commons.lbl.gov/display/physics/Andreu+Font-Ribera
 .. _`Greg Aldering`: https://commons.lbl.gov/display/physics/Greg+Aldering
 .. _`Michael Mortonson`: http://www.physics.ohio-state.edu/~mmortonson/
-.. _`Marcel Schmittfull`: http://www.damtp.cam.ac.uk/user/ms865/berkeley/
+.. _`Marcel Schmittfull`: http://bccp.berkeley.edu/msl/
 .. _`Blake Sherwin`: http://www.astro.princeton.edu/~bsherwin/Blake_Sherwin/Welcome.html
 .. _`Marcel van Daalen`: http://astro.berkeley.edu/~marcel/
 .. _`Joanne Cohn`: http://astro.berkeley.edu/~jcohn/
