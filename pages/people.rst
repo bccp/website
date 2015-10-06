@@ -27,13 +27,19 @@
    | `Marcel Schmittfull`_
    | `Blake Sherwin`_
    | `Marcel van Daalen`_
-
+   | `Simone Ferraro`_
+   | `Yin Li`_
+   | `Emanuele Castorina`_ 
+   
 .. container:: col-md-4
 
    **Cosmology Data Science (CDS) Fellows**
 
    | `Kyle Barbary`_
    | `Yu Feng`_
+   | `Josh Dillon`_ 
+   | `Aaron Meisner`_ 
+   | `Grigor Aslanyan`_
 
    **BCCP-affiliated Graduate and Undergraduate students**
 
