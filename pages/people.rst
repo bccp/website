@@ -27,9 +27,9 @@
    | `Marcel Schmittfull`_
    | `Blake Sherwin`_
    | `Marcel van Daalen`_
-   | `Simone Ferraro`_
-   | `Yin Li`_
-   | `Emanuele Castorina`_ 
+   | Simone Ferraro
+   | Yin Li
+   | Emanuele Castorina
    
 .. container:: col-md-4
 
@@ -37,9 +37,9 @@
 
    | `Kyle Barbary`_
    | `Yu Feng`_
-   | `Josh Dillon`_ 
-   | `Aaron Meisner`_ 
-   | `Grigor Aslanyan`_
+   | Josh Dillon
+   | Aaron Meisner
+   | Grigor Aslanyan
 
    **BCCP-affiliated Graduate and Undergraduate students**
 
