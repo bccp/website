@@ -4,9 +4,6 @@
 .. tags: 
 .. description: 
 
-**  **
-**  **
-
 Cosmology Data-Science Fellow positions
 =======================================
 
