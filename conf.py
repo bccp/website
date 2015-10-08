@@ -86,7 +86,7 @@ NAVIGATION_LINKS = {
 #        ('/news', 'News'),
             ('/contact', 'Location and Contact'),
             ), 'Visiting'),
-#        ('/jobs', 'Jobs'),
+        ('/jobs', 'Jobs'),
         ('/support', 'Donate'),
 #        ('/categories/index.html', 'Tags'),
 #        ('/rss.xml', 'RSS'),
