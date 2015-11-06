@@ -30,7 +30,7 @@
    | Simone Ferraro
    | Yin Li
    | Emanuele Castorina
-   Grigor Aslanyan
+  
    
 .. container:: col-md-4
 
