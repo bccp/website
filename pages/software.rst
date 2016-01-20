@@ -49,6 +49,13 @@ cosmoxi2d provides theoretical predictions for the two-dimensional galaxy correl
 
 ====
 
+`nbodykit`_
+-----------
+
+nbodykit provides a set of tools for analyzing clustering of simulation and observational cosmology data sets. A set of python scripts, built on top of efficient parallel C implementations allow the user to calculate power spectrum, correlation function, clustering and matching halos for large and small data sets at high fidelity. The design allows easy migration of the algorithms implemented in nbodykit to new types of data sources. 
+
+====
+
 `kdcount`_
 ----------
 
@@ -64,10 +71,10 @@ to measure power spectrum, and construct Friend-of-Friend halso from n-body simu
 
 ====
 
-`pfft-python`_
---------------
+`fastpm`_
+---------
 
-pfft-python is a thin python extension layer of the massively parallel faster fourier transformation library, PFFT. Fast Fourier Transform is the core component of Particle-Mesh based gravity solvers, which simulate the formation of large scale structure, galaxies and dark matter halos.
+fastPM is an approximated solver for N-body gravity problems. fastPM provides the foundation for large computational scale numerical experiements of large cosmic structure formation. 
 
 .. _`Dierckx.jl`: http://github.com/kbarbary/Dierckx.jl
 .. _`SEP`: http://sep.readthedocs.org
@@ -75,6 +82,8 @@ pfft-python is a thin python extension layer of the massively parallel faster fo
 .. _`SNCosmo`: http://sncosmo.github.io
 .. _`SNCosmo on GitHub`: http://github.com/sncosmo/sncosmo
 .. _`cosmoxi2d`: https://github.com/bareid/cosmoxi2d
+.. _`nbodykit`: https://github.com/bccp/nbodykit
+.. _`fastPM`: https://github.com/rainwoodman/fastPM
 .. _`kdcount`: https://github.com/rainwoodman/kdcount
 .. _`pypm`: https://github.com/rainwoodman/pypm
 .. _`pfft-python`: https://github.com/rainwoodman/pfft-python
