@@ -63,11 +63,10 @@ kdcount is a simple python extension for brute force pair-counting of point data
 
 ====
 
-`pypm`_
+`python-mpi-bcast`_
 -------
 
-pypm is a set of python modules for particle mesh calculation with MPI parallel python. It also provides tools
-to measure power spectrum, and construct Friend-of-Friend halso from n-body simulations.
+python-mpi-bcast is a method to launch parallel Python applications of very large scale on super-computers. The method was originally developed for nbodykit, but is sufficiently general to be used to improve the start-up time of any large scale parallel python application.
 
 ====
 
@@ -85,6 +84,6 @@ fastPM is an approximated solver for N-body gravity problems. fastPM provides th
 .. _`nbodykit`: https://github.com/bccp/nbodykit
 .. _`fastPM`: https://github.com/rainwoodman/fastPM
 .. _`kdcount`: https://github.com/rainwoodman/kdcount
-.. _`pypm`: https://github.com/rainwoodman/pypm
+.. _`python-mpi-bcast`: https://github.com/rainwoodman/python-mpi-bcast
 .. _`pfft-python`: https://github.com/rainwoodman/pfft-python
 
