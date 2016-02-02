@@ -23,15 +23,16 @@ decisions are based on the availability of space and funding.
 
 Current Visitors
 ================
+- Daniel Green (Univ Toronto, CITA) - January 1-December 31
+- Francisco Kitaura (Leibniz, Potsdam) - March 1-June 30
 
+Previous Visitors
+=================
 Fall 2015
 -----------
 - Filip Kozarski (Ludwig-Maximilians-Univ) - August 31-October 16
 - Sergio Rodriguez (Univ Autonoma de Madrid) – September 6-December 6
 - Douglas Scott (Univ British Columbia) – November 30-December 17
-
-Previous Visitors
-=================
 
 Summer 2015
 -----------
