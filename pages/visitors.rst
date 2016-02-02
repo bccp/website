@@ -23,6 +23,8 @@ decisions are based on the availability of space and funding.
 
 Current Visitors
 ================
+Spring 2016
+-----------
 - Daniel Green (Univ Toronto, CITA) - January 1-December 31
 - Francisco Kitaura (Leibniz, Potsdam) - March 1-June 30
 
