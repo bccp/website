@@ -29,9 +29,8 @@
    | `Marcel van Daalen`_
    | Simone Ferraro
    | Yin Li
+   | Josh Dillon
    | Emanuele Castorina
-   Josh Dillon
-  
    
 .. container:: col-md-4
 
