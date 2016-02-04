@@ -30,6 +30,7 @@
    | Simone Ferraro
    | Yin Li
    | Emanuele Castorina
+   Josh Dillon
   
    
 .. container:: col-md-4
@@ -38,7 +39,6 @@
 
    | `Kyle Barbary`_
    | `Yu Feng`_
-   | Josh Dillon
    | Aaron Meisner
    | Grigor Aslanyan
 
