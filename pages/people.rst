@@ -34,7 +34,7 @@
    
 .. container:: col-md-4
 
-   **Cosmology Data Science (CDS) Fellows**
+   **Computational Data Science (CDS) Fellows**
 
    | `Kyle Barbary`_
    | `Yu Feng`_
