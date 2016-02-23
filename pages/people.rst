@@ -4,9 +4,9 @@
 
 .. container:: col-md-4
 
-   **Executive Director**
+   
 
-   `Oliver Zahn`_
+   
 
    **Directors**
 
