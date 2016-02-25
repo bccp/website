@@ -74,7 +74,14 @@ to measure power spectrum, and construct Friend-of-Friend halso from n-body simu
 `fastpm`_
 ---------
 
-fastPM is an approximated solver for N-body gravity problems. fastPM provides the foundation for large computational scale numerical experiements of large cosmic structure formation. 
+fastPM is an approximated solver for N-body gravity problems. fastPM provides the foundation for large computational scale numerical experiements of large cosmic structure formation.
+
+====
+
+`cosmo++`_
+---------
+
+Cosmo++ is a C++ library for cosmology and beyond, focusing on statistical sampling tools. It includes many general mathematical and statistical tools, such as an MCMC (Markov Chain Monte Carlo) sampler, conjugate gradient solver, Legendre polynomials and spherical harmonics calculators, curve fitting, interpolation (linear and cubic spline). An interface for the publicly available MultiNest sampler is also included. It also includes a learn-as-you-go emulatoer (see arXiv:1506.01079). The cosmological features include CMB power spectra and transfer function calculation (uses CLASS), sky map simulation, likelihood calculation, an interface for the Planck and WMAP9 likelihood codes, mask apodization.
 
 .. _`Dierckx.jl`: http://github.com/kbarbary/Dierckx.jl
 .. _`SEP`: http://sep.readthedocs.org
@@ -84,6 +91,7 @@ fastPM is an approximated solver for N-body gravity problems. fastPM provides th
 .. _`cosmoxi2d`: https://github.com/bareid/cosmoxi2d
 .. _`nbodykit`: https://github.com/bccp/nbodykit
 .. _`fastPM`: https://github.com/rainwoodman/fastPM
+.. _`cosmo++`: http://cosmopp.com
 .. _`kdcount`: https://github.com/rainwoodman/kdcount
 .. _`pypm`: https://github.com/rainwoodman/pypm
 .. _`pfft-python`: https://github.com/rainwoodman/pfft-python
