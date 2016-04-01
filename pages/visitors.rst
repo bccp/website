@@ -27,6 +27,7 @@ Spring 2016
 -----------
 - Daniel Green (Univ Toronto, CITA) - January 1-December 31
 - Francisco Kitaura (Leibniz, Potsdam) - March 1-June 30
+- Nikhil Padmanabhan (Yale) - April 17-May 1
 
 Previous Visitors
 =================
