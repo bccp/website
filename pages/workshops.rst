@@ -4,6 +4,7 @@
 .. tags: 
 .. description: 
 
+* `Astro Hack Week <http://astrohackweek.org>`_, 2016 August 29 - September 2, Berkeley, CA
 * `Neutrinos and Light Particles in Cosmology <http://bccp.berkeley.edu/neutrinocosmology2016/index.html>`_, 2016 June 22-24, Berkeley, CA
 * `Statistical Sampling and Non-Sampling Methods in Cosmology <http://bccp.berkeley.edu/cosmostats2016/>`_, 2016 January 11-13, Berkeley, CA
 * `Essential Cosmology for Next Generation 2016 <https://sites.google.com/site/cosmologyonthebeach2016/home>`_, 2016 January 10-16,  Iberostar Tucan/Quetzal
