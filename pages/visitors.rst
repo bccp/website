@@ -29,7 +29,7 @@ Spring 2016
 - Francisco Kitaura (Leibniz, Potsdam) - March 1-June 30
 - Nikhil Padmanabhan (Yale) - April 17-May 1
 - Nico Hamaus (USM, LMU) - May 16-20
-•	Irshad Mohammed (FNAL) – May 5-20
+- Irshad Mohammed (FNAL) – May 5-20
 
 Previous Visitors
 =================
