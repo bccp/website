@@ -23,6 +23,16 @@ decisions are based on the availability of space and funding.
 
 Current Visitors
 ================
+Summer 2016
+-----------
+- Daniel Green (Univ Toronto, CITA) - January 1-December 31
+- Francisco Kitaura (Leibniz, Potsdam) - March 1-June 30
+- Cyril Creque-Sarbinowski (MIT) - May 23-August 26
+- Isabelle Goldstein (CMU) – May 18-July 8
+- Bradley Shapiro (DMU) – June 20-September 23
+
+Previous Visitors
+=================
 Spring 2016
 -----------
 - Daniel Green (Univ Toronto, CITA) - January 1-December 31
@@ -31,8 +41,6 @@ Spring 2016
 - Nico Hamaus (USM, LMU) - May 16-20
 - Irshad Mohammed (FNAL) – May 5-20
 
-Previous Visitors
-=================
 Fall 2015
 -----------
 - Filip Kozarski (Ludwig-Maximilians-Univ) - August 31-October 16
