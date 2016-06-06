@@ -29,7 +29,7 @@ Summer 2016
 - Francisco Kitaura (Leibniz, Potsdam) - March 1-June 30
 - Cyril Creque-Sarbinowski (MIT) - May 23-August 26
 - Isabelle Goldstein (CMU) – May 18-July 8
-- Bradley Shapiro (DMU) – June 20-September 23
+- Bradley Shapiro – June 20-September 23
 
 Previous Visitors
 =================
