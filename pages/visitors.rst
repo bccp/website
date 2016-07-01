@@ -30,6 +30,7 @@ Summer 2016
 - Cyril Creque-Sarbinowski (MIT) - May 23-August 26
 - Isabelle Goldstein (CMU) – May 18-July 8
 - Bradley Shapiro – June 20-September 23
+- Miguel Zumalacárregui (University of Heidelberg) – June 13-December 31
 
 Previous Visitors
 =================
