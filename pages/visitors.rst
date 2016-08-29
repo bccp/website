@@ -29,7 +29,7 @@ Fall 2016
 - Bradley Shapiro (Downing College, Univ Cambridge) – June 20-September 23
 - Miguel Zumalacárregui (University of Heidelberg) – June 13-December 31
 - Nick Kaiser (IfA, University of Hawaii, Manoa) - September 1-18
-- Matej Srebre - August 29-October 30
+- Matej Srebre (LMU Munich) - August 22-October 28
 
 Previous Visitors
 =================
