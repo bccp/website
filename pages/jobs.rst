@@ -4,26 +4,26 @@
 .. tags: 
 .. description: 
 
-Cosmology Data-Science Fellow positions
+Postdoctoral Fellow / Cosmology Data-Science Fellow positions
 =======================================
 
 **Recruitment Period**
 
-Open date: October 1st, 2015
+Open date: October 1st, 2016
 
-Next review date: December 1st, 2015
+Next review date: December 1st, 2016
 
 Apply by this date to ensure full consideration by the committee.
 
-Final date: December 1st, 2015
+Final date: December 1st, 2016
 
 Applications will continue to be accepted until this date, but those received after the review date will only be considered if the position has not yet been filled.
 
 **Description**
 
-The Berkeley Center for Cosmological Physics (BCCP) at the University of California, Berkeley, invites applications for BCCP Postdoctoral Fellows and Cosmology Data-Science Fellows, in cosmology at 100% time (full-time) with an anticipated start date in summer or fall 2016.
+The Berkeley Center for Cosmological Physics (BCCP) at the University of California, Berkeley, invites applications for BCCP Postdoctoral Fellows and Cosmology Data-Science Fellows, in cosmology at 100% time (full-time) with an anticipated start date in summer or fall 2017. The candidates will be considered for two different types of Fellowships:
 
-The BCCP Fellows are expected to carry out independent research on topics of their choosing in cosmology. The CDS Fellows will have half their research devoted to a specific cosmology project of the BCCP, working as a scientist in a research group with all of the expected goals of project planning, data collection, data reduction/analysis, publication, and conference- presentation of results. The other half of each CDS Fellow’s research will examine the data- science steps needed to accomplish these science goals, and look for approaches to redesigning these steps and make current and future science projects progress faster and more reliable.
+The first one is a BCCP Fellowship. The Fellows are expected to carry out independent research on topics of their choosing in cosmology. The second one is a CDS Fellowship. The CDS Fellows will have half of their research devoted to a specific cosmology project of the BCCP, working as a scientist in a research group with all of the expected goals of project planning, data collection, data reduction/analysis, publication, and conference- presentation of results. The other half of each CDS Fellow’s research will examine the data- science steps needed to accomplish these science goals, and look for approaches to redesigning these steps and make current and future science projects progress faster and more reliable.
 Both Fellows positions will be for two years with the possibility of one-year extension. Further extensions beyond this may be possible subject to availability of funds.
 
 We are especially encouraging applications in the intersection areas between cosmology, computer science, fundamental physics and astrophysics. In addition to being considered for these Fellowships, applicants will also be considered for grant-supported postdoctoral positions with BCCP members. BCCP Fellows will have the opportunity to interact and work with the broad spectrum of cosmology researchers in the Berkeley Astronomy and Physics Departments, and at the Lawrence Berkeley National Laboratory (LBNL). The experimental and observational cosmology programs at Berkeley include supernovae, galaxy clustering (including baryonic acoustic oscillations), weak lensing and cosmic microwave background, in addition to a broad theoretical cosmology research program. The Fellows will also find a rich data-science environment at UC Berkeley and LBNL, with world-expert researchers in both computer science and domain science aspects of this emerging field. Information on the BCCP's current activities and membership may be found at the BCCP's website: bccp.berkeley.edu.
@@ -52,7 +52,7 @@ BCCP is interested in candidates who will contribute to the diversity and equal 
 
 UC Berkeley has an excellent benefits package as well as a number of policies and programs to support employees as they balance work and family.
 
-To apply, please go to the following link https://aprecruit.berkeley.edu/apply/JPF00837. Applicants are strongly encouraged to submit updated curriculum vitae, bibliography, and statement of research interests by December 1, 2015. Applicants please ensure your letter writers provide their letters of recommendation by the same date.
+To apply, please go to the following link [To be provided soon]. Applicants are strongly encouraged to submit updated curriculum vitae, bibliography, and statement of research interests by December 1, 2016. Applicants please ensure your letter writers provide their letters of recommendation by the same date.
 
 All letters will be treated as confidential per University of California policy and California state law. Please refer potential referees, including when letters are provided via a third party (i.e., dossier service or career center), to the UC Berkeley statement of confidentiality: http://apo.berkeley.edu/evalltr.html prior to submitting their letters.
 
