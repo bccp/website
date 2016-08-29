@@ -26,7 +26,7 @@ Current Visitors
 Fall 2016
 -----------
 - Daniel Green (Univ Toronto, CITA) - January 1-December 31
-- Bradley Shapiro – June 20-September 23
+- Bradley Shapiro (Downing College, Univ Cambridge) – June 20-September 23
 - Miguel Zumalacárregui (University of Heidelberg) – June 13-December 31
 - Nick Kaiser (IfA, University of Hawaii, Manoa) - September 1-18
 - Matej Srebre - August 29-October 30
@@ -39,7 +39,7 @@ Summer 2016
 - Francisco Kitaura (Leibniz, Potsdam) - March 1-June 30
 - Cyril Creque-Sarbinowski (MIT) - May 23-August 26
 - Isabelle Goldstein (CMU) – May 18-July 8
-- Bradley Shapiro – June 20-September 23
+- Bradley Shapiro (Downing College, Univ Cambridge) – June 20-September 23
 - Miguel Zumalacárregui (University of Heidelberg) – June 13-December 31
 
 Spring 2016
