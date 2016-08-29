@@ -26,7 +26,6 @@ Current Visitors
 Fall 2016
 -----------
 - Daniel Green (Univ Toronto, CITA) - January 1-December 31
-- Francisco Kitaura (Leibniz, Potsdam) - March 1-June 30
 - Bradley Shapiro – June 20-September 23
 - Miguel Zumalacárregui (University of Heidelberg) – June 13-December 31
 - Nick Kaiser (IfA, University of Hawaii, Manoa) - September 1-18
