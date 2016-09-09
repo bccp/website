@@ -52,7 +52,7 @@ BCCP is interested in candidates who will contribute to the diversity and equal 
 
 UC Berkeley has an excellent benefits package as well as a number of policies and programs to support employees as they balance work and family.
 
-To apply, please go to the following link [To be provided soon]. Applicants are strongly encouraged to submit updated curriculum vitae, bibliography, and statement of research interests by December 1, 2016. Applicants please ensure your letter writers provide their letters of recommendation by the same date.
+To apply, please go to the following link: https://academicjobsonline.org/ajo/jobs/7875. Applicants are strongly encouraged to submit updated curriculum vitae, bibliography, and statement of research interests by December 1, 2016. Applicants please ensure your letter writers provide their letters of recommendation by the same date.
 
 All letters will be treated as confidential per University of California policy and California state law. Please refer potential referees, including when letters are provided via a third party (i.e., dossier service or career center), to the UC Berkeley statement of confidentiality: http://apo.berkeley.edu/evalltr.html prior to submitting their letters.
 
