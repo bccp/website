@@ -5,7 +5,7 @@
 .. description: 
 
 Postdoctoral Fellow / Cosmology Data-Science Fellow positions
-=======================================
+=============================================================
 
 **Recruitment Period**
 
