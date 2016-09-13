@@ -52,7 +52,9 @@
    | Parker Fagrelius
    | Clare Saunders
    | Caroline Sofiatti
-
+   | Chirag Modi
+   | Benjamin Horowitz 
+   
    **Other BCCP-affiliated faculty and LBL scientists**
 
    | `Greg Aldering`_
