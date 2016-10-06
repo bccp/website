@@ -49,5 +49,5 @@ Barclay <mailto:mbarclay@berkeley.edu>`_.
 
 .. raw:: html
 
-   <p><a class="btn btn-primary btn-md" href="http://givetocal.berkeley.edu/browse/?u=235">Donate</a></p>
+   <p><a class="btn btn-primary btn-md" href="https://give.berkeley.edu/egiving/index.cfm?fund=FU0925000">Donate</a></p>
 
