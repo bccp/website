@@ -29,3 +29,10 @@ There are a few logo files in the `files` directory:
 - `logo_square_32.ico`: A favicon used in the site. Generated from the
   by exporting the square logo to PNG in Inkscape then converting
   using ImageMagick: `convert logo_square_32.png logo_square_32.ico`.
+  
+Subsites
+--------
+
+We are testing out a way to include static subsites for conferences. The current protocol
+is to have the content of the subsite as a github repository. ('website-xxxxx') The bot on the server will clone and add a symlink to the subsite.
+
