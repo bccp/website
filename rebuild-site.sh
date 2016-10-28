@@ -1,6 +1,17 @@
 #! /bin/bash
 
-# note that this file needs to be manually updated on the server.
+# this script will generate the site in $HOME/site
+#
+# it clones and builds the repository in $HOME/build
+#
+# it assumes git, python and nikola are installed.
+#
+# it can be triggered by the server via a github hook.
+#
+# note that in our current setup,
+# this file needs to be manually updated on the server.
+#
+# subsites.txt in $HOME/build/website
 
 function setup_subsite {
 	local gitrepo=$1
@@ -40,12 +51,15 @@ nikola build 2>&1
 rsync -av --exclude=".*" output/* $HOME/site/
 popd
 
-CONFDIR=`readlink -f $0`
-CONFDIR=`dirname $CONFDIR`
+CONFDIR=$HOME/build/website
+echo ===================
 cat $CONFDIR/subsites.txt
+echo ===================
 IFS=" |"
 while read url name sitetype reldir; do
+echo ==================
 setup_subsite "$url" "$name" "$sitetype" "$reldir"
+echo ==================
 done < $CONFDIR/subsites.txt
 
 #setup_subsite https://github.com/bccp/website-2017-neutral-hydrogen 2017-neutral-hydrogen html .
