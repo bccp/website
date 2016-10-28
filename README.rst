@@ -34,5 +34,17 @@ Subsites
 --------
 
 We are testing out a way to include static subsites for conferences. The current protocol
-is to have the content of the subsite as a github repository. ('website-xxxxx') The bot on the server will clone and add a symlink to the subsite.
+is to
+
+- add the content of the subsite as a github repository. ('website-xxxxx')
+
+- add a line in subsites.txt with four entries (separated by vertical line "|" 
+
+.. code::
+
+	repourl | sitename | sitetype | relpath
+
+where sitetype can be `html` or `nikola`. relpath can be "." (for html) or "output" for nikola.
+
+The bot on the server will clone and copy relpath to the subsite.
 
