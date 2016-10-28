@@ -37,7 +37,6 @@ git fetch --all
 git checkout master
 git reset --hard origin/master
 nikola build 2>&1
-rm -rf $HOME/site/*
 rsync -av --exclude=".*" output/* $HOME/site/
 popd
 
