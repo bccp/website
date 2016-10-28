@@ -17,8 +17,8 @@ function setup_subsite {
 	cd $localname
 
 	git fetch --all
-	git checkout master
-	git reset --hard
+	git checkout -B master origin/master
+	git reset --hard origin/master
 
 	if [ "x$type" == "xnikola" ]; then
 		nikola build 2>&1
@@ -35,7 +35,7 @@ git clone https://github.com/bccp/website website
 cd website
 git fetch --all
 git checkout master
-git reset --hard
+git reset --hard origin/master
 nikola build 2>&1
 rm -rf $HOME/site/*
 cp -r output/* $HOME/site/
