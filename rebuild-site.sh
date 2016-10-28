@@ -14,9 +14,9 @@ function setup_subsite {
 	git clone $gitrepo $localname
 	cd $localname
 
-
+	git fetch --all
+	git checkout master
 	git reset --hard
-	git pull -f
 
 	if [ "x$type" == "xnikola" ]; then
 		nikola build 2>&1
@@ -31,13 +31,21 @@ mkdir -p $HOME/build
 pushd $HOME/build
 git clone https://github.com/bccp/website website
 cd website
-
+git fetch --all
+git checkout master
 git reset --hard
-git pull -f
 nikola build 2>&1
 rm -rf $HOME/site/*
 cp -r output/* $HOME/site/
 popd
 
-setup_subsite https://github.com/bccp/website-2017-neutral-hydrogen 2017-neutral-hydrogen html .
+CONFDIR=`readlink -f $0`
+CONFDIR=`dirname $CONFDIR`
+cat $CONFDIR/subsites.txt
+IFS=" |"
+while read url name sitetype reldir; do
+setup_subsite "$url" "$name" "$sitetype" "$reldir"
+done < $CONFDIR/subsites.txt
+
+#setup_subsite https://github.com/bccp/website-2017-neutral-hydrogen 2017-neutral-hydrogen html .
 
