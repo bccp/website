@@ -25,7 +25,7 @@ function setup_subsite {
 	fi	
 	popd
 
-	cp -r $siteroot $HOME/site/$localname
+	rsync -av --exclude=".*" $siteroot $HOME/site/$localname
 	return $siteroot;
 }
 
@@ -38,7 +38,7 @@ git checkout master
 git reset --hard origin/master
 nikola build 2>&1
 rm -rf $HOME/site/*
-cp -r output/* $HOME/site/
+rsync -av --exclude=".*" output/* $HOME/site/
 popd
 
 CONFDIR=`readlink -f $0`
