@@ -1,5 +1,7 @@
 #! /bin/bash
 
+# note that this file needs to be manually updated on the server.
+
 function setup_subsite {
 	local gitrepo=$1
 	local localname=$2
