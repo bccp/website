@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+<html prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# " lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Berkeley Cosmology Code Index | BCCP</title>
+<link href="../assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/rst.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/code.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/colorbox.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/theme.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/custom.css" rel="stylesheet" type="text/css">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="../rss.xml">
+<link rel="canonical" href="http://bccp.berkeley.edu/codeindex/">
+<link rel="icon" href="../files/logo_square_32.ico" sizes="32x32">
+<!--[if lt IE 9]><script src="../assets/js/html5.js"></script><![endif]--><link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+<meta name="author" content="BCCP">
+<meta property="og:site_name" content="BCCP">
+<meta property="og:title" content="Berkeley Cosmology Code Index">
+<meta property="og:url" content="http://bccp.berkeley.edu/codeindex/">
+<meta property="og:description" content="Here we provide links and information on publicly available codes useful
+for the cosmology research community. Please send
+suggestions/additions/corrections by opening an issue on github or through ou">
+<meta property="og:type" content="article">
+<meta property="article:published_time" content="2014-02-08T12:19:51Z">
+</head>
+<body>
+<a href="#content" class="sr-only sr-only-focusable">Skip to main content</a>
+
+<!-- Menubar -->
+
+<nav class="navbar navbar-default navbar-fixed-top" role="navigation"><div class="container">
+<!-- This keeps the margins nice -->
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="http://bccp.berkeley.edu/">
+                <img src="../files/logo_108.png" alt="BCCP" id="logo"></a>
+        </div>
+<!-- /.navbar-header -->
+        <div class="collapse navbar-collapse navbar-ex1-collapse">
+            <ul class="nav navbar-nav">
+<li>
+<a href="../people">People</a>
+            </li>
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown">Research<b class="caret"></b></a>
+            <ul class="dropdown-menu">
+<li>
+<a href="../research-projects">Projects</a>
+                    </li>
+<li>
+<a href="../research-archive">Archived Projects</a>
+            </li>
+</ul>
+</li>
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown">Software<b class="caret"></b></a>
+            <ul class="dropdown-menu">
+<li>
+<a href="../software">Software at BCCP</a>
+                    </li>
+<li>
+<a href="../codeindex">Cosmology Code Index</a>
+                    </li>
+<li>
+<a href="../data">Cosmology Data Index</a>
+            </li>
+</ul>
+</li>
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown">Events<b class="caret"></b></a>
+            <ul class="dropdown-menu">
+<li>
+<a href="../thisweek">This Week</a>
+                    </li>
+<li>
+<a href="../workshops">Workshops</a>
+                    </li>
+<li>
+<a href="http://cosmology.lbl.gov/sem_bcg_future.html">Cosmology Seminars   <span class="fa fa-external-link"></span></a>
+            </li>
+</ul>
+</li>
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown">Visiting<b class="caret"></b></a>
+            <ul class="dropdown-menu">
+<li>
+<a href="../visitors">Visitor Program</a>
+                    </li>
+<li>
+<a href="../contact">Location and Contact</a>
+            </li>
+</ul>
+</li>
+<li>
+<a href="../jobs">Jobs</a>
+                </li>
+<li>
+<a href="../support">Donate</a>
+
+                
+            </li>
+</ul>
+<ul class="nav navbar-nav navbar-right"></ul>
+</div>
+<!-- /.navbar-collapse -->
+    </div>
+<!-- /.container -->
+</nav><!-- End of Menubar --><div class="container" id="content" role="main">
+    <div class="body-content">
+        <!--Body content-->
+        <div class="row">
+            
+            
+<article class="storypage" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title" itemprop="headline name">Berkeley Cosmology Code Index</h1>
+        
+
+    </header><div class="e-content entry-content" itemprop="articleBody text">
+    <div>
+<p>Here we provide links and information on publicly available codes useful
+for the cosmology research community. Please send
+suggestions/additions/corrections by opening an <a class="reference external" href="https://github.com/bccp/website/issues/new">issue on github</a> or through our contact page.</p>
+<div class="section" id="boltzmann-codes-for-cosmological-perturbations">
+<h2>Boltzmann codes for cosmological perturbations.</h2>
+<p>Boltzmann codes input cosmological parameters and return predictions the
+cosmic microwave background, the [non-]linear matter power spectrum, and
+possibly other observables as well.</p>
+<ul class="simple">
+<li>
+<a class="reference external" href="http://camb.info/">camb</a><ul>
+<li>Online help:
+<a class="reference external" href="http://cosmocoffee.info/viewforum.php?f=11">cosmocoffee</a>
+</li>
+<li>Language: Fortran 90</li>
+<li>Dependencies: None</li>
+<li>References: <a class="reference external" href="http://cosmologist.info/notes/CAMB.pdf">CAMB
+notes</a> and the
+<a class="reference external" href="http://camb.info/readme.html">readme</a>
+</li>
+<li>Features:<ul>
+<li>
+<a class="reference external" href="http://camb.info/sources/">CAMB sources</a> "for number
+counts, lensing and dark-age 21cm power spectra, plus thermal
+history, perturbed recombination, CMB cross-correlations"</li>
+<li>Integrated with <a class="reference external" href="http://cosmologist.info/cosmomc/">CosmoMC</a>
+for cosmological parameter estimation.</li>
+</ul>
+</li>
+<li>Notes: well-tested and widely used; can be difficult to modify.</li>
+</ul>
+</li>
+<li>
+<a class="reference external" href="http://class-code.net/">CLASS</a><ul>
+<li>Online help:
+<a class="reference external" href="https://github.com/lesgourg/class_public/issues">github</a>
+</li>
+<li>Language: C with Python and C++ wrappers.</li>
+<li>Dependencies: None</li>
+<li>References: <a class="reference external" href="http://class-code.net/">8 papers</a>; cite <a class="reference external" href="http://adsabs.harvard.edu/abs/2011JCAP...07..034B">this
+paper</a> at
+least.</li>
+<li>Features:<ul>
+<li>
+<a class="reference external" href="http://cosmology.unige.ch/content/classgal">ClassGAL</a>:
+computes power spectrum and correlation function in linear
+perturbation theory with all relativistic corrections.</li>
+<li>Integrated with <a class="reference external" href="http://montepython.net/">Monte Python</a> for
+cosmological parameter estimation.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="section" id="parameter-estimation-algorithms">
+<h2>Parameter Estimation Algorithms.</h2>
+<p>Cosmologists frequently estimate joint constraints on <a class="reference external" href="http://en.wikipedia.org/wiki/Nuisance_parameter">nuisance
+parameters</a> and <a class="reference external" href="http://en.wikipedia.org/wiki/Lambda-CDM_model">the
+cosmological parameters of
+interest</a>. There are
+many algorithms in use to efficiently sample the parameter space; a
+non-exhaustive list focused on cosmology applications is provided here.</p>
+<ul class="simple">
+<li><a class="reference external" href="http://en.wikipedia.org/wiki/Metropolis%E2%80%93Hastings_algorithm">Metropolis-Hastings</a></li>
+<li>Affine Invariant Markov chain Monte Carlo Ensemble sampler<ul>
+<li><a class="reference external" href="http://msp.org/camcos/2010/5-1/p04.xhtml">Algorithm described in Goodman and
+Weare</a></li>
+<li>Implemented in <a class="reference external" href="http://dan.iel.fm/emcee/current/">emcee</a>
+</li>
+<li>Implemented in
+<a class="reference external" href="http://www.cosmology.ethz.ch/research/software-lab/cosmohammer.html">CosmoHammer</a>;
+see <a class="reference external" href="http://arxiv.org/abs/1212.1721">their paper</a> for an
+example using cosmic microwave background data.</li>
+</ul>
+</li>
+<li>Multimodal nested sampling<ul>
+<li>Implemented in
+<a class="reference external" href="http://ccpforge.cse.rl.ac.uk/gf/project/multinest/">Multinest</a>:
+a Bayesian inference tool which calculates the evidence and
+explores the parameter space which may contain multiple posterior
+modes and pronounced (curving) degeneracies in moderately high
+dimensions.</li>
+<li>References:<ul>
+<li><a class="reference external" href="http://xxx.lanl.gov/abs/0704.3704">Multimodal nested sampling: an efficient and robust
+alternative to MCMC methods for astronomical data
+analysis</a></li>
+<li><a class="reference external" href="http://xxx.lanl.gov/abs/0809.3437">MultiNest: an efficient and robust Bayesian inference tool for
+cosmology and particle
+physics</a></li>
+<li><a class="reference external" href="http://xxx.lanl.gov/abs/1306.2144">Importance Nested Sampling and the MultiNest
+Algorithm</a></li>
+</ul>
+</li>
+<li>Open source version (in progress):
+<a class="reference external" href="https://github.com/kbarbary/nestle/">nestle</a>
+</li>
+<li>Implemented in
+<a class="reference external" href="http://ccpforge.cse.rl.ac.uk/gf/project/polychord/">Polychord</a>,
+tailored for high dimensional parameter spaces with arbitrary
+degeneracies and multimodality. It utilizes slice sampling at each
+iteration to sample within the hard likelihood constraint of
+nested sampling.</li>
+<li>References:<ul>
+<li><a class="reference external" href="http://arxiv.org/abs/1502.01856">PolyChord: nested sampling for
+cosmology</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<a class="reference external" href="http://arxiv.org/abs/0912.2380">Diffusive nested sampling</a>
+combines nested sampling with Markov Chain Monte Carlo; excellent in
+lower dimensional spaces.</li>
+<li>Population Monte-Carlo<ul>
+<li>References:<ul>
+<li><a class="reference external" href="http://arxiv.org/abs/0710.4242">Adaptive Importance Sampling in General Mixture
+Classes</a></li>
+</ul>
+</li>
+<li>Implemented in
+<a class="reference external" href="http://www2.iap.fr/users/kilbinge/CosmoPMC/">CosmoPMC</a>
+</li>
+</ul>
+</li>
+<li>Hamiltonian Monte Carlo (or Hybrid Monte Carlo)<ul>
+<li>References:<ul>
+<li><a class="reference external" href="http://www.mcmchandbook.net/HandbookChapter5.pdf">MCMC Using Hamiltonian
+Dynamics</a></li>
+</ul>
+</li>
+<li>Applied to very high dimensional (~10^6) parameter space in
+<a class="reference external" href="http://adsabs.harvard.edu/abs/2013MNRAS.432..894J">Bayesian physical reconstruction of initial conditions from large
+scale structure
+surveys</a>
+</li>
+</ul>
+</li>
+<li>Additional references:<ul>
+<li><a class="reference external" href="http://www.mcmchandbook.net/HandbookTableofContents.html">Handbook of Markov Chain Monte
+Carlo</a></li>
+<li>
+<a class="reference external" href="http://adsabs.harvard.edu/abs/2013PhRvD..87j3529L">Efficient sampling of fast and slow cosmological
+parameters</a>.
+Describes a method for decorrelating fast and slow parameters,
+illustrated on the Planck likelihood and currently implemented in
+<a class="reference external" href="(http://cosmologist.info/cosmomc/)">CosmoMC</a>.</li>
+<li>A <a class="reference external" href="http://www.bayesian-inference.com/mcmc">more comprehensive
+list</a> of Markov chain
+Monte Carlo (MCMC) algorithms available in a public R package,
+<a class="reference external" href="http://www.bayesian-inference.com/software">LaplacesDemon</a>.</li>
+<li>
+<a class="reference external" href="http://adsabs.harvard.edu/abs/2014MNRAS.437.3918A">Comparison of sampling techniques for Bayesian parameter
+estimation</a>.
+This paper compares Metropolis-Hasting sampling, nested sampling
+and affine-invariant ensemple MCMC sampling on both toy
+likelihoods and the WMAP 7-year likelihood.</li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="section" id="parameter-estimation-cosmology-codes">
+<h2>Parameter Estimation Cosmology Codes.</h2>
+<ul class="simple">
+<li><a class="reference external" href="http://cosmologist.info/cosmomc/">CosmoMC</a></li>
+<li><a class="reference external" href="http://www.cosmology.ethz.ch/research/software-lab/cosmohammer.html">CosmoHammer</a></li>
+<li><a class="reference external" href="https://bitbucket.org/joezuntz/cosmosis/wiki/Home">CosmoSIS</a></li>
+<li><a class="reference external" href="http://cosmo.grigoraslanyan.com/">Cosmo++</a></li>
+<li>
+<a class="reference external" href="montepython.net">Monte Python</a><ul>
+<li>Metropolis-Hastings</li>
+<li>Nested Sampling (through Multinest)</li>
+<li>EMCEE (through CosmoHammer)</li>
+<li>Importance Sampling</li>
+</ul>
+</li>
+<li><a class="reference external" href="http://www2.iap.fr/users/kilbinge/CosmoPMC/">CosmoPMC</a></li>
+</ul>
+</div>
+</div>
+    </div>
+    
+
+</article>
+</div>
+        <!--End of body content-->
+
+        <footer><hr>
+Contents © 2016  <a href="mailto:bccp@bccp.berkeley.edu">BCCP</a> | 
+Powered by <a href="http://getnikola.com" rel="nofollow">Nikola</a> | 
+Theme is <a href="http://bootswatch.com/readable/">Readable</a>
+
+                | <a href="https://github.com/bccp/website/edit/master/pages/codeindex.rst">Edit</a>
+            
+        </footer>
+</div>
+</div>
+
+
+            <script src="../assets/js/jquery.min.js"></script><script src="../assets/js/bootstrap.min.js"></script><script src="../assets/js/moment-with-locales.min.js"></script><script src="../assets/js/fancydates.js"></script><script src="../assets/js/jquery.colorbox-min.js"></script><script>jQuery("a.image-reference,!.islink").colorbox({rel:"gal",maxWidth:"100%",maxHeight:"100%",scalePhotos:true});</script><!-- fancy dates --><script>
+    moment.locale("en");
+    fancydates(0, "YYYY-MM-DD HH:mm");
+    </script><!-- end fancy dates -->
+</body>
+</html>

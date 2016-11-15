@@ -1,0 +1,4 @@
+Sitemap: http://bccp.berkeley.edu/sitemapindex.xml
+
+User-Agent: *
+Host: bccp.berkeley.edu
