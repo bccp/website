@@ -1,4 +1,4 @@
-git remote add publish git@github.com:bccp/website.git
+git remote add publish git@github.com:bccp/website-preview.git
 git fetch publish gh-pages
 mkdir -p gh-pages-dir
 git --work-tree=$PWD/gh-pages-dir checkout FETCH_HEAD -- .
