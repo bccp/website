@@ -4,10 +4,6 @@
 
 .. container:: col-md-4
 
-   
-
-   
-
    **Directors**
 
    | `Uros Seljak`_
