@@ -7,4 +7,5 @@
 # generated
 cache
 output
-.doit.db
+.doit.dbid_rsa
+id_rsa.pub
