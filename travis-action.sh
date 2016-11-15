@@ -7,7 +7,12 @@ if ! [ $TRAVIS_PULL_REQUEST == false ]; then
     PREFIX=pr/$TRAVIS_PULL_REQUEST
 else
     PREFIX=br/$TRAVIS_BRANCH
+    if ! [ $TRAVIS_BRANCH == master ]; then
+        # only preview master branch
+        exit 0
+    fi
 fi
+
 TARGET=$PWD/gh-pages-dir/$PREFIX
 mkdir -p $TARGET
 rm -rf $TARGET
