@@ -14,4 +14,4 @@ mkdir -p $TARGET
 cp -r output/* $TARGET
 
 echo $TARGET
-ghp-import -p -m 'Nikola auto deploy [ci skip]'.$TRAVIS_BUILD_ID gh-pages-dir
+ghp-import -r publish -p -m 'Nikola auto deploy [ci skip]'.$TRAVIS_BUILD_ID gh-pages-dir
