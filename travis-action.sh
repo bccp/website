@@ -10,6 +10,7 @@ else
     if ! [ $TRAVIS_BRANCH == master ]; then
         # only preview master branch
         exit 0
+    else
     fi
 fi
 
@@ -24,4 +25,4 @@ ghp-import -r publish -m 'Nikola auto deploy [ci skip]'.$TRAVIS_BUILD_ID gh-page
 git push -fq publish gh-pages
 git checkout master
 git reset
-echo Preview at http://bccp.github.io/website/$PREFIX
+echo Preview at http://bccp.github.io/website-preview/$PREFIX
