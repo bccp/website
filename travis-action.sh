@@ -10,7 +10,6 @@ else
     if ! [ $TRAVIS_BRANCH == master ]; then
         # only preview master branch
         exit 0
-    else
     fi
 fi
 
