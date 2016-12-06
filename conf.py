@@ -83,6 +83,7 @@ NAVIGATION_LINKS = {
             ), 'Events'),
         ((
             ('/visitors', 'Visitor Program'),
+            ('/printer', 'Using the Printer'),
 #        ('/news', 'News'),
             ('/contact', 'Location and Contact'),
             ), 'Visiting'),
