@@ -4,12 +4,18 @@
 .. tags: 
 .. description: 
 
+To use the printer you must be connected to Eduroam or AirBears2. 
+
 We have a black and white printer located in NCH 341. 
 
-To setup the printer, add the IP address 136 152 250 132 to the list of printers with the IPP protocol. (Ubuntu: gutenprint)
+To setup the printer, use the address 
+
+- ```136 152 250 132```
+
+The protocal is IPP protocol. (Add '.' to the address to make it proper)
 
 For Mac, the make is Brother HL5450DN.
 
 For Windows and Linux, the driver is Generic PCL 6. (PCL XL may work too)
 
-To use the printer you must be connecte to Eduroam or AirBears2. 
+Ubuntu may need to install a package with name `gutenprint`
