@@ -35,7 +35,7 @@
    | `Kyle Barbary`_
    | `Yu Feng`_
    | Aaron Meisner
-   | Grigor Aslanyan
+
 
    **BCCP-affiliated Graduate and Undergraduate students**
 
@@ -70,7 +70,8 @@
    | `David Schlegel`_
    | Rollin Thomas
    | `Martin White`_
-
+   | `Shirley Ho`_
+   
 .. container:: col-md-4
 
    **Former BCCP Postdocs**
@@ -82,7 +83,8 @@
    | `Jeremy Tinker`_
    | `Beth Reid`_
    | `Michael Mortonson`_
-
+   | `Grigor Aslanyan`_
+   
    **Former BCCP Grad students**
 
    | Hannah Fakhouri
@@ -134,3 +136,5 @@
 .. _`Martin White`: http://astro.berkeley.edu/people/faculty/white.html
 .. _`Sudeep Das`: http://bccp.lbl.gov/~sudeep/home.html
 .. _`Eric Linder`: http://supernova.lbl.gov/~evlinder/
+.. _`Grigor Aslanyan`: http://grigoraslanyan.com/
+.. _`Shirley Ho`: http://terapix.phys.cmu.edu/Home.html
