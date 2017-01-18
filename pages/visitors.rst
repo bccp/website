@@ -23,6 +23,14 @@ decisions are based on the availability of space and funding.
 
 Current Visitors
 ================
+Spring 2017
+-----------
+- Daniel Green (Univ Toronto, CITA) - January 1-December 31
+- Andreu Font-Ribera (UCL) - January 10-21
+- Lukas Heizmann (Heidelberg) – January 22-June 30
+
+Previous Visitors
+=================
 Fall 2016
 -----------
 - Daniel Green (Univ Toronto, CITA) - January 1-December 31
@@ -30,9 +38,8 @@ Fall 2016
 - Miguel Zumalacárregui (University of Heidelberg) – June 13-December 31
 - Nick Kaiser (IfA, University of Hawaii, Manoa) - September 1-18
 - Matej Srebre (LMU Munich) - August 22-October 28
+- Michael Wilson (Univ Edinburgh) – November 5-14
 
-Previous Visitors
-=================
 Summer 2016
 -----------
 - Daniel Green (Univ Toronto, CITA) - January 1-December 31
