@@ -49,6 +49,13 @@ cosmoxi2d provides theoretical predictions for the two-dimensional galaxy correl
 
 ====
 
+`legacysurvey`_
+---------------
+
+legacysurvey provides a set of repositories which enable generative modeling of astronomical images.
+
+====
+
 `nbodykit`_
 -----------
 
@@ -95,4 +102,4 @@ Cosmo++ is a C++ library for cosmology and beyond, focusing on statistical sampl
 .. _`kdcount`: https://github.com/rainwoodman/kdcount
 .. _`pypm`: https://github.com/rainwoodman/pypm
 .. _`pfft-python`: https://github.com/rainwoodman/pfft-python
-
+.. _`legacysurvey`: https://github.com/legacysurvey
