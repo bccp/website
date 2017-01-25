@@ -14,22 +14,22 @@
 # subsites.txt in $HOME/build/website
 
 function setup_subsite {
-	local gitrepo=$1
+	local gitbranch=$1
 	local localname=$2
 	local sitetype=$3
 	local siterelroot=$4
 
 	local siteroot=$HOME/build/$localname/$siterelroot
-	echo setting up subsite $gitrepo at $siteroot
+	echo setting up subsite $gitbranch at $siteroot
 
 	pushd $HOME/build
 
-	git clone $gitrepo $localname
+	git clone https://github.com/bccp/workshops -b $gitbranch $localname
 	cd $localname
 
 	git fetch --all
-	git checkout -B master origin/master
-	git reset --hard origin/master
+	git checkout -B $gitbranch origin/$gitbranch
+	git reset --hard origin/$gitbranch
 
 	if [ "x$type" == "xnikola" ]; then
 		nikola build 2>&1
@@ -56,9 +56,9 @@ echo ===================
 cat $CONFDIR/subsites.txt
 echo ===================
 IFS=" |"
-while read url name sitetype reldir; do
+while read branch name sitetype reldir; do
 echo ==================
-setup_subsite "$url" "$name" "$sitetype" "$reldir"
+setup_subsite "$branch" "$name" "$sitetype" "$reldir"
 echo ==================
 done < $CONFDIR/subsites.txt
 
