@@ -26,6 +26,8 @@ function setup_subsite {
 
 	git clone https://github.com/bccp/workshops -b $gitbranch $localname
 	cd $localname
+    echo 'working from'
+    pwd
 
 	git fetch --all
 	git checkout -B $gitbranch origin/$gitbranch
