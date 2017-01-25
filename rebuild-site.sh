@@ -37,7 +37,7 @@ function setup_subsite {
 	popd
 
 	rsync -av --exclude=".*" $siteroot $HOME/site/$localname
-	return $siteroot;
+#	return $siteroot;
 }
 
 mkdir -p $HOME/build
