@@ -70,11 +70,10 @@ kdcount is a simple python extension for brute force pair-counting of point data
 
 ====
 
-`pypm`_
+`pmesh`_
 -------
 
-pypm is a set of python modules for particle mesh calculation with MPI parallel python. It also provides tools
-to measure power spectrum, and construct Friend-of-Friend halso from n-body simulations.
+pmesh is a set of python modules for particle mesh calculation with MPI parallel python. 
 
 ====
 
@@ -85,6 +84,12 @@ fastPM is an approximated solver for N-body gravity problems. fastPM provides th
 
 ====
 
+`abopt`_
+---------
+
+`abopt` is a framework for constructing and optimizing differentiable numerical forward models with Python. The gradients of models described with `abopt` are computed with the back-propagation automated differentiation scheme. The modelling and optimization is not bound to any particular implementation backend (e.g. we use `pmesh` backend to construct a `fastPM` model), and thus `abstract`.
+
+====
 `cosmo++`_
 ----------
 
@@ -114,7 +119,8 @@ A minimal, fast, MIT-licensed Python module for getting E(B-V) dust values from 
 .. _`fastPM`: https://github.com/rainwoodman/fastPM
 .. _`cosmo++`: http://cosmopp.com
 .. _`kdcount`: https://github.com/rainwoodman/kdcount
-.. _`pypm`: https://github.com/rainwoodman/pypm
+.. _`pmesh`: https://github.com/rainwoodman/pmesh
+.. _`abopt`: https://github.com/bccp/abopt
 .. _`pfft-python`: https://github.com/rainwoodman/pfft-python
 .. _`legacysurvey`: https://github.com/legacysurvey
 .. _`extinction`: http://extinction.readthedocs.io
