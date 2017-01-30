@@ -90,6 +90,20 @@ fastPM is an approximated solver for N-body gravity problems. fastPM provides th
 
 Cosmo++ is a C++ library for cosmology and beyond, focusing on statistical sampling tools. It includes many general mathematical and statistical tools, such as an MCMC (Markov Chain Monte Carlo) sampler, conjugate gradient solver, Legendre polynomials and spherical harmonics calculators, curve fitting, interpolation (linear and cubic spline). An interface for the publicly available MultiNest sampler is also included. It also includes a learn-as-you-go emulatoer (see arXiv:1506.01079). The cosmological features include CMB power spectra and transfer function calculation (uses CLASS), sky map simulation, likelihood calculation, an interface for the Planck and WMAP9 likelihood codes, mask apodization.
 
+====
+
+`extinction`_
+-------------
+
+Extinction is a Python module containing optimized implementations of empirical galactic dust extinction laws. These are particularly useful for optimization and sampling of models of observations affected by dust.
+
+====
+
+`sfdmap`_
+---------
+
+A minimal, fast, MIT-licensed Python module for getting E(B-V) dust values from Schlegel, Finkbeiner & Davis (1998) dust map FITS files.
+
 .. _`Dierckx.jl`: http://github.com/kbarbary/Dierckx.jl
 .. _`SEP`: http://sep.readthedocs.org
 .. _`SEP on GitHub`: http://github.com/kbarbary/sep
@@ -103,3 +117,5 @@ Cosmo++ is a C++ library for cosmology and beyond, focusing on statistical sampl
 .. _`pypm`: https://github.com/rainwoodman/pypm
 .. _`pfft-python`: https://github.com/rainwoodman/pfft-python
 .. _`legacysurvey`: https://github.com/legacysurvey
+.. _`extinction`: http://extinction.readthedocs.io
+.. _`sfdmap`: https://github.com/kbarbary/sfdmap
