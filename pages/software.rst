@@ -71,7 +71,7 @@ kdcount is a simple python extension for brute force pair-counting of point data
 ====
 
 `pmesh`_
--------
+--------
 
 pmesh is a set of python modules for particle mesh calculation with MPI parallel python. 
 
@@ -90,6 +90,7 @@ fastPM is an approximated solver for N-body gravity problems. fastPM provides th
 `abopt` is a framework for constructing and optimizing differentiable numerical forward models with Python. The gradients of models described with `abopt` are computed with the back-propagation automated differentiation scheme. The modelling and optimization is not bound to any particular implementation backend (e.g. we use `pmesh` backend to construct a `fastPM` model), and thus `abstract`.
 
 ====
+
 `cosmo++`_
 ----------
 
