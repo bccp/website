@@ -4,7 +4,7 @@
 .. tags: 
 .. description: 
 
-* `The Nonlinear Universe <http://bccp.berkeley.edu/2017-non-linear-universe/index.html>`_, 2017 July 16-22, Smartno, Slovenia
+.. * `The Nonlinear Universe <http://bccp.berkeley.edu/2017-non-linear-universe/index.html>`_, 2017 July 16-22, Smartno, Slovenia
 * `Cosmology with Neutral Hydrogen <http://bccp.berkeley.edu/2017-neutral-hydrogen/index.html>`_, 2017 January 11-13, Berkeley, CA
 * `Astro Hack Week <http://astrohackweek.org>`_, 2016 August 29 - September 2, Berkeley, CA
 * `Neutrinos and Light Particles in Cosmology <http://bccp.berkeley.edu/neutrinocosmology2016/index.html>`_, 2016 June 22-24, Berkeley, CA
