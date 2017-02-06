@@ -24,6 +24,6 @@ For Mac, the make is ``Brother HL5450DN``.
 
 For Windows and Linux, the driver is ``Generic PCL 6``. (PCL XL may work too)
 
-Ubuntu Linux may need to install a package with name ``gutenprint``
+On Ubuntu Linux if the recommended driver doesn't work, you may need to install a package with name ``gutenprint``
 
 If you find issues setting up the printer, talk to Yu Feng.
