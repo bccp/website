@@ -29,7 +29,7 @@ Spring 2017
 - Miguel Zumalacárregui (Univ Heidelberg) – January 1-November 1
 - Andreu Font-Ribera (UCL) - January 10-21
 - Lukas Heizmann (Univ Heidelberg) – January 22-June 30
-- Hugo Bacry (ENS) - Feb 10-July 10
+- Hugo Bacry (ENS) - February 10-July 10
 
 Previous Visitors
 =================
