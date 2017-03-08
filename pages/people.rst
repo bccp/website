@@ -27,6 +27,7 @@
    | Yin Li
    | Josh Dillon
    | Emanuele Castorina
+   | `Zachary Slepian`_
    
 .. container:: col-md-4
 
@@ -138,3 +139,4 @@
 .. _`Eric Linder`: http://supernova.lbl.gov/~evlinder/
 .. _`Grigor Aslanyan`: http://grigoraslanyan.com/
 .. _`Shirley Ho`: http://terapix.phys.cmu.edu/Home.html
+.. _`Zachary Slepian`: http://w.astro.berkeley.edu/~zslepian/
