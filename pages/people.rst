@@ -25,6 +25,7 @@
    | Josh Dillon
    | Emanuele Castorina
    | `Zachary Slepian`_
+   | Elena Massara
    
 .. container:: col-md-4
 
