@@ -15,12 +15,9 @@
 
    **Current BCCP-affiliated Postdocs**
 
-   | `Florian Beutler`_
-   | `Andreu Font`_
    | Brian Hayden
    | `Adrian Liu`_
    | Claire Poppett
-   | `Marcel Schmittfull`_
    | `Blake Sherwin`_
    | `Marcel van Daalen`_
    | Simone Ferraro
@@ -85,6 +82,9 @@
    | `Beth Reid`_
    | `Michael Mortonson`_
    | `Grigor Aslanyan`_
+    `Florian Beutler`_
+    `Andreu Font`_
+     | `Marcel Schmittfull`_
    
    **Former BCCP Grad students**
 
