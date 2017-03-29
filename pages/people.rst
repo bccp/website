@@ -82,9 +82,9 @@
    | `Beth Reid`_
    | `Michael Mortonson`_
    | `Grigor Aslanyan`_
-    `Florian Beutler`_
-    `Andreu Font`_
-     | `Marcel Schmittfull`_
+   | `Florian Beutler`_
+   | `Andreu Font`_
+   | `Marcel Schmittfull`_
    
    **Former BCCP Grad students**
 
