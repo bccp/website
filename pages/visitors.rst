@@ -30,6 +30,7 @@ Spring 2017
 - Andreu Font-Ribera (UCL) - January 10-21
 - Lukas Heizmann (Univ Heidelberg) – January 22-June 30
 - Hugo Bacry (ENS) - February 10-July 10
+- Jose Maria Ezquiaga (Madrid) – April 1-June 30
 
 Previous Visitors
 =================
