@@ -23,6 +23,17 @@ decisions are based on the availability of space and funding.
 
 Current Visitors
 ================
+Summer 2017
+-----------
+- Daniel Green (Univ Toronto, CITA) - January 1-December 31
+- Miguel Zumalacárregui (Nordita) – January 1-October 31
+- Lukas Heizmann (Univ Heidelberg) – January 22-June 30
+- Hugo Bacry (ENS) - February 10-July 10
+- Jose Maria Ezquiaga (Madrid) – April 1-June 30
+- Biwei Dai (PKU) – June 21-September 22
+
+Previous Visitors
+=================
 Spring 2017
 -----------
 - Daniel Green (Univ Toronto, CITA) - January 1-December 31
@@ -31,9 +42,6 @@ Spring 2017
 - Lukas Heizmann (Univ Heidelberg) – January 22-June 30
 - Hugo Bacry (ENS) - February 10-July 10
 - Jose Maria Ezquiaga (Madrid) – April 1-June 30
-
-Previous Visitors
-=================
 Fall 2016
 -----------
 - Daniel Green (Univ Toronto, CITA) - January 1-December 31
