@@ -42,6 +42,7 @@ Spring 2017
 - Lukas Heizmann (Univ Heidelberg) – January 22-June 30
 - Hugo Bacry (ENS) - February 10-July 10
 - Jose Maria Ezquiaga (Madrid) – April 1-June 30
+
 Fall 2016
 -----------
 - Daniel Green (Univ Toronto, CITA) - January 1-December 31
