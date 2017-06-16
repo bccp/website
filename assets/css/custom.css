@@ -1,5 +1,34 @@
+@font-face {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 300;
+  src: local("Roboto Light"), local("Roboto-Light"), url("https://fonts.gstatic.com/s/roboto/v15/Hgo13k-tfSpn0qi1SFdUfVtXRa8TVwTICgirnJhmVJw.woff2") format("woff2"), url("https://fonts.gstatic.com/s/roboto/v15/Hgo13k-tfSpn0qi1SFdUfT8E0i7KZn-EPnyo3HZu7kw.woff") format("woff");
+}
+
+.subpanel {
+    text-align: center;
+}
+.subpanel > h4 {
+    margin-top: 0px;
+    font-size: 30px;
+}
+
+.subpanel > .btn {
+    margin-top: 5px;
+}
+
+.navbar {
+    font-family: "Raleway","Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+body {
+    font-family: "Roboto", sans-serif;
+}
 .navbar-brand {
     padding: 5px 15px;
+}
+
+.navbar-brand #logo {
+    height: 54px;
 }
 
 .carousel {
@@ -12,4 +41,14 @@
 
 .col-right {
     padding-right: 0px;
+}
+
+hr.docutils {
+    width: 100%;
+}
+
+/* match background of jumbotron */
+div.sidebar {
+    background-color: #f7f7f7;
+    border: none;
 }
