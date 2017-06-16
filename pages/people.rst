@@ -26,6 +26,7 @@
    | Emanuele Castorina
    | `Zachary Slepian`_
    | Elena Massara
+   | Miguel Zumalacarregui
    
 .. container:: col-md-4
 
