@@ -34,7 +34,7 @@
 
    | `Kyle Barbary <http://kbarbary.github.io>`_
    | `Yu Feng <http://web.phys.cmu.edu/~yfeng1/home>`_
-   | Aaron Meisner
+   | `Aaron Meisner <http://aaronmeisner.com>`_
 
 
    **BCCP-affiliated Graduate and Undergraduate students**
