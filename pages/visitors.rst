@@ -23,6 +23,14 @@ decisions are based on the availability of space and funding.
 
 Current Visitors
 ================
+
+Fall 2017
+-----------
+- Daniel Green (Univ Toronto, CITA) - January 1-December 31
+- Miguel Zumalacárregui (Nordita) – January 1-October 31
+- Biwei Dai (PKU) – June 21-September 22
+- Enea Di Dio (SNF) – October 1-December 31
+
 Summer 2017
 -----------
 - Daniel Green (Univ Toronto, CITA) - January 1-December 31
