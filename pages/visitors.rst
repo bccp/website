@@ -32,6 +32,9 @@ Fall 2017
 - Enea Di Dio (SNF) – October 1-December 31
 - Robert Caldwell (Dartmouth) - September 20-December 20
 
+Previous Visitors
+=================
+
 Summer 2017
 -----------
 - Daniel Green (Univ Toronto, CITA) - January 1-December 31
@@ -41,8 +44,6 @@ Summer 2017
 - Jose Maria Ezquiaga (Madrid) – April 1-June 30
 - Biwei Dai (PKU) – June 21-September 22
 
-Previous Visitors
-=================
 Spring 2017
 -----------
 - Daniel Green (Univ Toronto, CITA) - January 1-December 31
