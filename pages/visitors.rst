@@ -30,6 +30,7 @@ Fall 2017
 - Miguel Zumalacárregui (Nordita) – January 1-October 31
 - Biwei Dai (PKU) – June 21-September 22
 - Enea Di Dio (SNF) – October 1-December 31
+- Robert Caldwell (Dartmouth) - September 20-December 20
 
 Summer 2017
 -----------
