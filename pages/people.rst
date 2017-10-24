@@ -19,13 +19,16 @@
    | `Adrian Liu <http:adrian-liu>`_
    | Claire Poppett
    | `Blake Sherwin <http://www.astro.princeton.edu/~bsherwin/Blake_Sherwin/Welcome.html>`_
-   | `Marcel van Daalen <http://astro.berkeley.edu/~marcel/>`_
    | Simone Ferraro
    | Yin Li
    | Josh Dillon
    | Emanuele Castorina
    | `Zachary Slepian <http://w.astro.berkeley.edu/~zslepian/>`_
    | Elena Massara
+   | Kara Ponder
+   | HongMing Zhu
+   | Sukhdeep Singh
+   | Phil Bull
    | `Miguel Zumalacarregui <http://miguelzumalacarregui.es/>`_
 
 .. container:: col-md-4
@@ -87,6 +90,7 @@
    | `Florian Beutler <https://commons.lbl.gov/display/physics/Florian+Beutler>`_
    | `Andreu Font <https://commons.lbl.gov/display/physics/Andreu+Font-Ribera>`_
    | `Marcel Schmittfull <http://bccp.berkeley.edu/msl/>`_
+   | `Marcel van Daalen <http://astro.berkeley.edu/~marcel/>`_
 
    **Former BCCP Grad students**
 
