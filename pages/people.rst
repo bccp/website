@@ -25,7 +25,7 @@
    | Emanuele Castorina
    | `Zachary Slepian <http://w.astro.berkeley.edu/~zslepian/>`_
    | Elena Massara
-   | Kara Ponder
+   | `Kara Ponder <https://kponder.github.io/>`_
    | HongMing Zhu
    | Sukhdeep Singh
    | Phil Bull
