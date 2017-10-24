@@ -21,7 +21,7 @@
    | `Blake Sherwin <http://www.astro.princeton.edu/~bsherwin/Blake_Sherwin/Welcome.html>`_
    | Simone Ferraro
    | Yin Li
-   | Josh Dillon
+   | `Josh Dillon <http://joshdillon.net/>`_
    | Emanuele Castorina
    | `Zachary Slepian <http://w.astro.berkeley.edu/~zslepian/>`_
    | Elena Massara
