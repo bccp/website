@@ -38,7 +38,7 @@
    | `Kyle Barbary <http://kbarbary.github.io>`_
    | `Yu Feng <http://web.phys.cmu.edu/~yfeng1/home>`_
    | `Aaron Meisner <http://aaronmeisner.com>`_
-   | `Marcelo Alvarez <cita.utoronto.ca/~malvarez`_
+   | `Marcelo Alvarez <cita.utoronto.ca/~malvarez>`_
 
    **BCCP-affiliated Graduate and Undergraduate students**
 
