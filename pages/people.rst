@@ -28,7 +28,7 @@
    | `Kara Ponder <https://kponder.github.io/>`_
    | HongMing Zhu
    | Sukhdeep Singh
-   | `Phil Bull <philbull.com/>`_
+   | `Phil Bull <http://www.philbull.com/>`_
    | `Miguel Zumalacarregui <http://miguelzumalacarregui.es/>`_
 
 .. container:: col-md-4
