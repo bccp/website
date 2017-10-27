@@ -110,6 +110,13 @@ Extinction is a Python module containing optimized implementations of empirical 
 
 A minimal, fast, MIT-licensed Python module for getting E(B-V) dust values from Schlegel, Finkbeiner & Davis (1998) dust map FITS files.
 
+====
+
+`hi_class`_
+---------
+
+hi_class is a modified Boltzmann-Einstein solver design to obtain predictions for general Dark Energy models and Modified Gravity theories. Based on CLASS and fully compatible with MCMC.
+
 .. _`Dierckx.jl`: http://github.com/kbarbary/Dierckx.jl
 .. _`SEP`: http://sep.readthedocs.org
 .. _`SEP on GitHub`: http://github.com/kbarbary/sep
@@ -126,3 +133,4 @@ A minimal, fast, MIT-licensed Python module for getting E(B-V) dust values from 
 .. _`legacysurvey`: https://github.com/legacysurvey
 .. _`extinction`: http://extinction.readthedocs.io
 .. _`sfdmap`: https://github.com/kbarbary/sfdmap
+.. _`hi_class`: https://hiclass-code.net
