@@ -113,7 +113,7 @@ A minimal, fast, MIT-licensed Python module for getting E(B-V) dust values from 
 ====
 
 `hi_class`_
----------
+-----------
 
 hi_class is a modified Boltzmann-Einstein solver design to obtain predictions for general Dark Energy models and Modified Gravity theories. Based on CLASS and fully compatible with MCMC.
 
