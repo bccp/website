@@ -24,6 +24,15 @@ decisions are based on the availability of space and funding.
 Current Visitors
 ================
 
+Spring 2018
+-----------
+- Miguel Zumalacárregui (Nordita) – January 1-December 31
+- Enea Di Dio (SNF) – January 1-December 31
+- Sandrine Codis (IAP) - January 9-18
+
+Previous Visitors
+=================
+
 Fall 2017
 -----------
 - Daniel Green (Univ Toronto, CITA) - January 1-December 31
@@ -31,9 +40,6 @@ Fall 2017
 - Biwei Dai (PKU) – June 21-September 22
 - Enea Di Dio (SNF) – October 1-December 31
 - Robert Caldwell (Dartmouth) - September 20-December 20
-
-Previous Visitors
-=================
 
 Summer 2017
 -----------
