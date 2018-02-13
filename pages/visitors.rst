@@ -29,6 +29,7 @@ Spring 2018
 - Miguel Zumalacárregui (Nordita) – January 1-December 31
 - Enea Di Dio (SNF) – January 1-December 31
 - Sandrine Codis (IAP) - January 9-18
+- Daniel Holz (Univ Chicago) - February 12-July 31
 
 Previous Visitors
 =================
