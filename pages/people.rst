@@ -16,7 +16,6 @@
    **Current BCCP-affiliated Postdocs**
 
    | Brian Hayden
-   | `Adrian Liu <http:adrian-liu>`_
    | Claire Poppett
    | Simone Ferraro
    | Yin Li
