@@ -43,16 +43,14 @@
    **BCCP-affiliated Graduate and Undergraduate students**
 
    | Han Aung
-   | `Nick Hand <http://astro.berkeley.edu/~nhand/public/>`_
    | Doyeon Kim
    | Abigail Polin
    | `Casey Stark <http://www.caseywstark.com>`_
    | Kyle Boone
    | Parker Fagrelius
-   | Clare Saunders
-   | Caroline Sofiatti
    | Chirag Modi
    | Benjamin Horowitz 
+   | Byeonghee Yu
 
    **Other BCCP-affiliated faculty and LBL scientists**
 
