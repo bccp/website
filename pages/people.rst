@@ -41,9 +41,6 @@
    **BCCP-affiliated Graduate and Undergraduate students**
 
    | Han Aung
-   | Doyeon Kim
-   | Abigail Polin
-   | `Casey Stark <http://www.caseywstark.com>`_
    | Kyle Boone
    | Parker Fagrelius
    | Chirag Modi
