@@ -27,6 +27,7 @@
    | Sukhdeep Singh
    | `Phil Bull <http://www.philbull.com/>`_
    | `Miguel Zumalacarregui <http://miguelzumalacarregui.es/>`_
+   | Vanessa Boehm
 
 .. container:: col-md-4
 
