@@ -18,10 +18,8 @@
    | Brian Hayden
    | `Adrian Liu <http:adrian-liu>`_
    | Claire Poppett
-   | `Blake Sherwin <http://www.astro.princeton.edu/~bsherwin/Blake_Sherwin/Welcome.html>`_
    | Simone Ferraro
    | Yin Li
-   | `Josh Dillon <http://joshdillon.net/>`_
    | Emanuele Castorina
    | `Zachary Slepian <http://w.astro.berkeley.edu/~zslepian/>`_
    | Elena Massara
@@ -89,6 +87,8 @@
    | `Andreu Font <https://commons.lbl.gov/display/physics/Andreu+Font-Ribera>`_
    | `Marcel Schmittfull <http://bccp.berkeley.edu/msl/>`_
    | `Marcel van Daalen <http://astro.berkeley.edu/~marcel/>`_
+   | `Josh Dillon <http://joshdillon.net/>`_
+   | `Blake Sherwin <http://www.astro.princeton.edu/~bsherwin/Blake_Sherwin/Welcome.html>`_
 
    **Former BCCP Grad students**
 
