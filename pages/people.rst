@@ -45,7 +45,8 @@
    | Parker Fagrelius
    | Chirag Modi
    | Benjamin Horowitz 
-   | Byeonghee Yu
+   | Byeonghee Yu  
+   | Ellie Kitanidis
 
    **Other BCCP-affiliated faculty and LBL scientists**
 
