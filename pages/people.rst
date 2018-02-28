@@ -13,7 +13,6 @@
 
    | `George Smoot <http:george-smoot>`_, Nobel Laureate
 
-
    **Current BCCP-affiliated Postdocs**
 
    | Brian Hayden
@@ -31,7 +30,6 @@
 
 .. container:: col-md-4
 
-
    **Computational Data Science (CDS) Fellows**
 
    | `Kyle Barbary <http://kbarbary.github.io>`_
@@ -39,7 +37,6 @@
    | `Aaron Meisner <http://aaronmeisner.com>`_
    | `Marcelo Alvarez <http://cita.utoronto.ca/~malvarez>`_
    | `Kara Ponder <https://kponder.github.io/>`_
-
 
    **BCCP-affiliated Graduate and Undergraduate students**
 
