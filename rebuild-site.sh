@@ -44,6 +44,7 @@ function setup_subsite {
 
 mkdir -p $HOME/build
 pushd $HOME/build
+ls -l .
 git clone https://github.com/bccp/website website
 cd website
 git fetch --all
