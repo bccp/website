@@ -44,7 +44,6 @@ function setup_subsite {
 
 mkdir -p $HOME/build
 pushd $HOME/build
-ls -l .
 git clone https://github.com/bccp/website website
 cd website
 git fetch --all
@@ -61,6 +60,7 @@ echo ===================
 IFS=" |"
 while read branch name sitetype reldir; do
 echo ==================
+if [ -z $branch ]; then continue; fi
 setup_subsite "$branch" "$name" "$sitetype" "$reldir"
 echo ==================
 done < $CONFDIR/subsites.txt
