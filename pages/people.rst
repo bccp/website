@@ -40,7 +40,6 @@
 
    **BCCP-affiliated Graduate and Undergraduate students**
 
-   | Han Aung
    | Kyle Boone
    | Parker Fagrelius
    | Chirag Modi
