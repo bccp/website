@@ -30,7 +30,8 @@
    | `Emmanuel Schaan <https://eschaan.lbl.gov/>`_
    | Michael Wilson
    | Elena Giusarma
-   | ChangHoon Hahn
+   | `ChangHoon Hahn http://changhoonhahn.github.io`_
+
 
 .. container:: col-md-4
 
