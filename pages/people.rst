@@ -27,7 +27,7 @@
    | `Phil Bull <http://www.philbull.com/>`_
    | `Miguel Zumalacarregui <http://miguelzumalacarregui.es/>`_
    | Vanessa Boehm
-   | Emmanuel Schaan
+   | `Emmanuel Schaan <https://eschaan.lbl.gov/>`_
    | Michael Wilson
    | Elena Giusarma
    | ChangHoon Hahn
