@@ -3,7 +3,8 @@
 .. date: 2014-08-29 08:20:54
 .. tags: 
 .. description: 
-* `The Nonlinear Universe 2018 <http://bccp.berkeley.edu/2018-non-linear-universe/index.html>`_, 2018 July 15-21, Smartno, Slovenia
+
+* `The Nonlinear Universe <http://bccp.berkeley.edu/2017-non-linear-universe/index.html>`_, 2017 July 16-22, Smartno, Slovenia
 * `Modeling the Extragalactic Sky <http://bccp.berkeley.edu/2018-extra-galactic/index.html>`_, 2018 January 10-12, Berkeley, CA
 * `The Nonlinear Universe <http://bccp.berkeley.edu/2017-non-linear-universe/index.html>`_, 2017 July 16-22, Smartno, Slovenia
 * `Cosmology with Neutral Hydrogen <http://bccp.berkeley.edu/2017-neutral-hydrogen/index.html>`_, 2017 January 11-13, Berkeley, CA
