@@ -3,7 +3,7 @@
 
 .. container:: col-md-4
 
-   Address: New Campbell Hall 341 University of California, Berkeley, CA 94720
+   Address: Campbell Hall 341 University of California, Berkeley, CA 94720
 
    For business inquries, please contact BCCP Business Administrator,
    Melissa Barclay <mbarclay@berkeley.edu>
