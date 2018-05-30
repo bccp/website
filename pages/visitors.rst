@@ -24,6 +24,16 @@ decisions are based on the availability of space and funding.
 Current Visitors
 ================
 
+Summer 2018
+-----------
+- Miguel Zumalacárregui (Nordita) – January 1-December 31
+- Enea Di Dio (SNF) – January 1-December 31
+- Daniel Holz (Univ Chicago) - February 12-July 31
+- He Jia (PKU) – July 1-August 31
+
+Previous Visitors
+=================
+
 Spring 2018
 -----------
 - Miguel Zumalacárregui (Nordita) – January 1-December 31
@@ -31,8 +41,6 @@ Spring 2018
 - Sandrine Codis (IAP) - January 9-18
 - Daniel Holz (Univ Chicago) - February 12-July 31
 
-Previous Visitors
-=================
 
 Fall 2017
 -----------
