@@ -13,26 +13,27 @@ ${template_hooks['extra_head']()}
 
 <!-- Menubar -->
 
-<nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+<nav class="navbar navbar-default navbar-static-top">
     <div class="container"><!-- This keeps the margins nice -->
         <div class="navbar-header">
-            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
-            <span class="sr-only">Toggle navigation</span>
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-navbar" aria-controls="bs-navbar" aria-expanded="false">
+            <span class="sr-only">${messages("Toggle navigation")}</span>
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="${abs_link('/')}">
+            <a class="navbar-brand" href="${abs_link(_link("root", None, lang))}">
             %if logo_url:
-                <img src="${logo_url}" alt="${blog_title}" id="logo">
+                <img src="${logo_url}" alt="${blog_title|h}" id="logo">
             %endif
 
             % if show_blog_title:
-                <span id="blog-title">${blog_title}</span>
+                <span id="blog-title">${blog_title|h}</span>
             % endif
             </a>
         </div><!-- /.navbar-header -->
-        <div class="collapse navbar-collapse navbar-ex1-collapse">
+<!--        <div class="collapse navbar-collapse navbar-ex1-collapse">-->
+        <div class="collapse navbar-collapse" id="bs-navbar" role="navigation" aria-expanded="false">
             <ul class="nav navbar-nav">
                 ${base.html_navigation_links()}
                 ${template_hooks['menu']()}
@@ -67,18 +68,15 @@ ${template_hooks['extra_head']()}
         </div>
         <!--End of body content-->
 
-        <footer>
+        <footer id="footer">
             ${content_footer}
-            % if post:
-                | <a href="https://github.com/bccp/website/edit/master/${post.source_path}">Edit</a>
-            % endif
             ${template_hooks['page_footer']()}
         </footer>
     </div>
 </div>
 
 ${base.late_load_js()}
-    <script>jQuery("a.image-reference,!.islink").colorbox({rel:"gal",maxWidth:"100%",maxHeight:"100%",scalePhotos:true});</script>
+    <script>$('a.image-reference:not(.islink) img:not(.islink)').parent().colorbox({rel:"gal",maxWidth:"100%",maxHeight:"100%",scalePhotos:true});</script>
     <!-- fancy dates -->
     <script>
     moment.locale("${momentjs_locales[lang]}");
