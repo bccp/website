@@ -24,6 +24,6 @@ type in the ip address into
 Windows / Linux / OSX's printer management wizard;
 usually in the 'address' or 'hostname' field.
 
-If no driver is suggested, use ``Generic Postscript Printer``(HP) or ``Generic PCL 6``(Brother)
+If no driver is suggested, use ``Generic Postscript Printer`` (HP) or ``Generic PCL 6`` (Brother)
 
 If you find issues setting up the printers, talk to Yu Feng.
