@@ -24,15 +24,23 @@ decisions are based on the availability of space and funding.
 Current Visitors
 ================
 
+Fall 2018
+-----------
+- Miguel Zumalacárregui (Nordita) – January 1-December 31
+- Enea Di Dio (SNF) – January 1-December 31
+- Carlos Garcia-Garcia (Barcelona) – October 1-December 20
+- Jakob Robnik (Ljubljana)  - August 20-September 30
+
+
+Previous Visitors
+=================
+
 Summer 2018
 -----------
 - Miguel Zumalacárregui (Nordita) – January 1-December 31
 - Enea Di Dio (SNF) – January 1-December 31
 - Daniel Holz (Univ Chicago) - February 12-July 31
 - He Jia (PKU) – July 1-August 31
-
-Previous Visitors
-=================
 
 Spring 2018
 -----------
