@@ -30,7 +30,7 @@ Fall 2018
 - Enea Di Dio (SNF) – January 1-December 31
 - Carlos Garcia-Garcia (Barcelona) – October 1-December 20
 - Jakob Robnik (Ljubljana)  - August 20-September 30
-
+- Elena Sarpa (LAM, Marseille) – September 28-October 6
 
 Previous Visitors
 =================
