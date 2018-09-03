@@ -38,7 +38,7 @@
    **Computational Data Science (CDS) Fellows**
 
    | `Kyle Barbary <http://kbarbary.github.io>`_
-   | `Yu Feng <http://web.phys.cmu.edu/~yfeng1/home>`_
+   | `Yu Feng <http://rainwoodman.github.io/website>`_
    | `Aaron Meisner <http://aaronmeisner.com>`_
    | `Marcelo Alvarez <http://cita.utoronto.ca/~malvarez>`_
    | `Kara Ponder <https://kponder.github.io/>`_
