@@ -83,6 +83,7 @@ NAVIGATION_LINKS = {
             ), 'Events'),
         ((
             ('/visitors', 'Visitor Program'),
+            ('https://goo.gl/qdJkHU', 'BCCP-PKU Undergrad Visitor Program'),
             ('/printer', 'Using the Printer'),
 #        ('/news', 'News'),
             ('/contact', 'Location and Contact'),
