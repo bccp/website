@@ -16,14 +16,17 @@
    aims to understand the origin and evolution of the universe through a series of
    programs to define the observations, experiments, concepts, and simulations
    needed to answer the fundamental questions in cosmology. [See
-   http://bccp.berkeley.edu for more information] The visitor program hosts up to
+   http://bccp.berkeley.edu for more information]
+
+   The visitor program hosts up to
    3 visiting students each summer (dates are flexible) on the UC Berkeley main
    campus. We also encourage longer stays, such as one semester and a summer if
    appropriate arrangements on course work can be made. Advanced researcher
    (postdoc or above) will mentor the academic research of the student after
    acceptance. Funding may be available to partially or fully cover the living and
-   visa expenses, depending on the student needs and availability of funding.  Two
-   tracks are offered. The track assignment will be flexible according to the
+   visa expenses, depending on the student needs and availability of funding.
+
+   Two tracks are offered. The track assignment will be flexible according to the
    needs of the student and BCCP. Students must indicate in their application
    which track they are interested in (can be both).
 
@@ -66,7 +69,9 @@
 .. container:: col-md-5
 
    本项目旨在为北京大学物理系本科学生提供一个参与伯克利宇宙学中心(BCCP)的科研工作的桥梁。BCCP隶属于加州大学伯克利分校物理系，主要从事宇宙学的研究。宇宙学是一门研究宇宙的发展和起源的物理学。BCCP通过观测，实验，理论和模拟等方法探索解答宇宙学的基本问题。[http://bccp.berkeley.edu]
+
    此项目每年招收不超过3名学生到伯克利主校区进行暑期交流。在与学生在北大的培养计划不冲突的情况下，BCCP也鼓励延长交流时间至一个学期。资深的研究人员（博士后或以上）会为学生的学术科研提供指导。根据项目的资金和实际运行情况，BCCP有可能对交流学生的生活及签证进行部分或全部费用补助。
+
    科研项目大致分为以下两类。学生需在申请时注明感兴趣的方向（可以多选）。BCCP 会根据学生和项目运行的需求进行调整。
 
    **数据科学方向**
