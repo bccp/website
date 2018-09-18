@@ -11,11 +11,11 @@ Postdoctoral Fellow/Computational Data-Science Fellow positions
 
 Open date: September 19, 2018
 
-Next review date: December 1st, 2018
+Next review date: December 1, 2018
 
 Apply by this date to ensure full consideration by the committee.
 
-Final date: December 1st, 2018
+Final date: December 1, 2018
 
 Applications will continue to be accepted until this date, but those received after the review date will only be considered if the position has not yet been filled.
 
