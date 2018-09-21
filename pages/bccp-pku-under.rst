@@ -58,6 +58,10 @@
    - Resume and a copy of transcripts; please indicate ranking in the class;
    - Letters of reference (at least one, up to three); must be from current or previous mentors (e.g. research or project advisors);
 
+   **Due date**
+
+   Please send the applications before Feburary 1st, 2019
+
    For additional information, please contact Yu Feng [yfeng1@berkeley.edu Chinese/English] or Uros Seljak [useljak@berkeley.edu English]
 
    Please send applications to: yfeng1@berkeley.edu
@@ -97,8 +101,11 @@
    - 简历，成绩单，和年级排名。
    - 一封导师推荐信；需来自有经验的科研或着学术导师。（请不要超过三封）
 
+   **申请截止时间**
+
+   2019年2月1日
+
    咨询或请联系冯雨 yfeng1@berkeley.edu （中英文） 或者 Uros Seljak useljak@berkeley.edu （英文）
 
    申请材料请递交到 yfeng1@berkeley.edu
-
 
