@@ -4,6 +4,7 @@
 .. tags: 
 .. description: 
 
+* `Weak gravitational lensing 2019 <http://bccp.berkeley.edu/2019-lensing/index.html>`_, 2019 Jan 14-16, Berkeley, CA
 * `The Nonlinear Universe 2018 <http://bccp.berkeley.edu/2018-non-linear-universe/index.html>`_, 2018 July 15-21, Smartno, Slovenia
 * `Modeling the Extragalactic Sky <http://bccp.berkeley.edu/2018-extra-galactic/index.html>`_, 2018 January 10-12, Berkeley, CA
 * `The Nonlinear Universe <http://bccp.berkeley.edu/2017-non-linear-universe/index.html>`_, 2017 July 16-22, Smartno, Slovenia
