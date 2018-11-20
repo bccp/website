@@ -21,33 +21,28 @@
    | `Zachary Slepian <http://w.astro.berkeley.edu/~zslepian/>`_
    | HongMing Zhu
    | Sukhdeep Singh
-
    | `Miguel Zumalacarregui <http://miguelzumalacarregui.es/>`_
    | Vanessa Boehm
    | `Emmanuel Schaan <https://eschaan.lbl.gov/>`_
    | Michael Wilson
    | `ChangHoon Hahn <http://changhoonhahn.github.io>`_
-   | Francois Lanusse
 
 .. container:: col-md-4
 
    **Computational Data Science (CDS) Fellows**
 
-   | `Yu Feng <http://rainwoodman.github.io/website>`_
-   | `Marcelo Alvarez <http://cita.utoronto.ca/~malvarez>`_
    | `Kara Ponder <https://kponder.github.io/>`_
    | Marius Millea
+   | Francois Lanusse
 
    **BCCP-affiliated Graduate and Undergraduate students**
 
-   | Kyle Boone
-   | Parker Fagrelius
    | Chirag Modi
    | Benjamin Horowitz 
    | Byeonghee Yu  
    | Ellie Kitanidis
 
-   **Other BCCP-affiliated faculty and LBL scientists**
+   **Other BCCP-affiliated faculty and scientists**
 
    | `Greg Aldering <https://commons.lbl.gov/display/physics/Greg+Aldering>`_
    | Stephen Bailey
@@ -66,8 +61,9 @@
    | `David Schlegel <https://bigboss.lbl.gov/Contacts.html>`_
    | Rollin Thomas
    | `Martin White <http://astro.berkeley.edu/people/faculty/white.html>`_
+   | `Yu Feng <http://rainwoodman.github.io/website>`_
+   | `Marcelo Alvarez <http://cita.utoronto.ca/~malvarez>`_
   
-
 .. container:: col-md-4
 
    **Former BCCP Postdocs**
@@ -103,6 +99,8 @@
    | Caroline Sofiatti
    | Clare Saunders
    | Nick Hand
+   | Kyle Boone
+   | Parker Fagrelius
 
    **System Administrator**
 
