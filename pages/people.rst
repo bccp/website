@@ -14,8 +14,7 @@
    | `George Smoot <http:george-smoot>`_, Nobel Laureate
 
    **Current BCCP-affiliated Postdocs**
-
-   | Simone Ferraro
+   
    | Yin Li
    | Emanuele Castorina
    | `Zachary Slepian <http://w.astro.berkeley.edu/~zslepian/>`_
@@ -41,6 +40,9 @@
    | Benjamin Horowitz 
    | Byeonghee Yu  
    | Ellie Kitanidis
+   | Steven Chu
+   | Biwei Dai
+   | Adrian Byer
 
    **Other BCCP-affiliated faculty and scientists**
 
@@ -63,6 +65,7 @@
    | `Martin White <http://astro.berkeley.edu/people/faculty/white.html>`_
    | `Yu Feng <http://rainwoodman.github.io/website>`_
    | `Marcelo Alvarez <http://cita.utoronto.ca/~malvarez>`_
+   | Simone Ferraro
   
 .. container:: col-md-4
 
