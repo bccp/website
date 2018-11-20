@@ -40,7 +40,7 @@
    | Benjamin Horowitz 
    | Byeonghee Yu  
    | Ellie Kitanidis
-   | Steven Chu
+   | Stephen Chen
    | Biwei Dai
    | Adrian Byer
 
