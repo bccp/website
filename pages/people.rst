@@ -42,7 +42,7 @@
    | Ellie Kitanidis
    | Stephen Chen
    | Biwei Dai
-   | Adrian Byer
+   | Adrian Bayer
 
    **Other BCCP-affiliated faculty and scientists**
 
