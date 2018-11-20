@@ -21,7 +21,6 @@
    | Yin Li
    | Emanuele Castorina
    | `Zachary Slepian <http://w.astro.berkeley.edu/~zslepian/>`_
-   | Elena Massara
    | HongMing Zhu
    | Sukhdeep Singh
    | `Phil Bull <http://www.philbull.com/>`_
@@ -29,7 +28,6 @@
    | Vanessa Boehm
    | `Emmanuel Schaan <https://eschaan.lbl.gov/>`_
    | Michael Wilson
-   | Elena Giusarma
    | `ChangHoon Hahn <http://changhoonhahn.github.io>`_
 
 
@@ -37,9 +35,7 @@
 
    **Computational Data Science (CDS) Fellows**
 
-   | `Kyle Barbary <http://kbarbary.github.io>`_
    | `Yu Feng <http://rainwoodman.github.io/website>`_
-   | `Aaron Meisner <http://aaronmeisner.com>`_
    | `Marcelo Alvarez <http://cita.utoronto.ca/~malvarez>`_
    | `Kara Ponder <https://kponder.github.io/>`_
 
@@ -71,7 +67,7 @@
    | `David Schlegel <https://bigboss.lbl.gov/Contacts.html>`_
    | Rollin Thomas
    | `Martin White <http://astro.berkeley.edu/people/faculty/white.html>`_
-   | `Shirley Ho <http://terapix.phys.cmu.edu/Home.html>`_
+  
 
 .. container:: col-md-4
 
@@ -91,6 +87,8 @@
    | `Marcel van Daalen <http://astro.berkeley.edu/~marcel/>`_
    | `Josh Dillon <http://joshdillon.net/>`_
    | `Blake Sherwin <http://www.astro.princeton.edu/~bsherwin/Blake_Sherwin/Welcome.html>`_
+   | `Aaron Meisner <http://aaronmeisner.com>`_
+   | `Kyle Barbary <http://kbarbary.github.io>`_
 
    **Former BCCP Grad students**
 
