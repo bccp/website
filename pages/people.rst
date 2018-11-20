@@ -29,7 +29,7 @@
    | `Emmanuel Schaan <https://eschaan.lbl.gov/>`_
    | Michael Wilson
    | `ChangHoon Hahn <http://changhoonhahn.github.io>`_
-
+   | Francois Lanusse
 
 .. container:: col-md-4
 
@@ -38,6 +38,7 @@
    | `Yu Feng <http://rainwoodman.github.io/website>`_
    | `Marcelo Alvarez <http://cita.utoronto.ca/~malvarez>`_
    | `Kara Ponder <https://kponder.github.io/>`_
+   | Marius Millea
 
    **BCCP-affiliated Graduate and Undergraduate students**
 
