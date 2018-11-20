@@ -15,15 +15,13 @@
 
    **Current BCCP-affiliated Postdocs**
 
-   | Brian Hayden
-   | Claire Poppett
    | Simone Ferraro
    | Yin Li
    | Emanuele Castorina
    | `Zachary Slepian <http://w.astro.berkeley.edu/~zslepian/>`_
    | HongMing Zhu
    | Sukhdeep Singh
-   | `Phil Bull <http://www.philbull.com/>`_
+
    | `Miguel Zumalacarregui <http://miguelzumalacarregui.es/>`_
    | Vanessa Boehm
    | `Emmanuel Schaan <https://eschaan.lbl.gov/>`_
@@ -90,6 +88,9 @@
    | `Blake Sherwin <http://www.astro.princeton.edu/~bsherwin/Blake_Sherwin/Welcome.html>`_
    | `Aaron Meisner <http://aaronmeisner.com>`_
    | `Kyle Barbary <http://kbarbary.github.io>`_
+   | `Phil Bull <http://www.philbull.com/>`_
+   | Brian Hayden
+   | Claire Poppett
 
    **Former BCCP Grad students**
 
