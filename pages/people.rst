@@ -73,7 +73,7 @@
 
    **Former BCCP Postdocs**
 
-   | `Grigor Aslanyan
+   |  Grigor Aslanyan
    | `Kyle Barbary <http://kbarbary.github.io>`_
    | `Florian Beutler <https://commons.lbl.gov/display/physics/Florian+Beutler>`_
    | `Phil Bull <http://www.philbull.com/>`_
