@@ -24,6 +24,15 @@ decisions are based on the availability of space and funding.
 Current Visitors
 ================
 
+Spring 2019
+-----------
+- Miguel Zumalacárregui (Nordita) – January 1-December 31
+- He Jia (PKU) – Feb 11-October 4
+- Hector Villarrubia Rojo (Univ Madrid) – March 23-June 29
+
+Previous Visitors
+=================
+
 Fall 2018
 -----------
 - Miguel Zumalacárregui (Nordita) – January 1-December 31
@@ -31,9 +40,6 @@ Fall 2018
 - Carlos Garcia-Garcia (Barcelona) – October 1-December 20
 - Jakob Robnik (Ljubljana)  - August 20-September 30
 - Elena Sarpa (LAM, Marseille) – September 28-October 6
-
-Previous Visitors
-=================
 
 Summer 2018
 -----------
