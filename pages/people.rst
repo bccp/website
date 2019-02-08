@@ -51,7 +51,7 @@
    | `Marcelo Alvarez <http://cita.utoronto.ca/~malvarez>`_
    | Stephen Bailey
    | Chris Bebek
-   | `Julian Borrill <http://crd.lbl.gov/about/staff/mcs/computational-cosmology-center/borrill/>`_
+   | `Julian Borrill <http://crd.lbl.gov/departments/computational-science/c3/c3-people/borrill/>`_
    | `Joanne Cohn <http://astro.berkeley.edu/~jcohn/>`_
    | `Bob Cahn <http://phyweb.lbl.gov/~rncahn/www/cahn.html>`_
    | `Yu Feng <http://rainwoodman.github.io/website>`_
