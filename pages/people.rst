@@ -31,9 +31,9 @@
 
    **Computational Data Science (CDS) Fellows**
 
-   | `Kara Ponder <https://kponder.github.io/>`_
-   | Marius Millea
    | Francois Lanusse
+   | Marius Millea
+   | `Kara Ponder <https://kponder.github.io/>`_
 
    **BCCP-affiliated Graduate and Undergraduate students**
 
