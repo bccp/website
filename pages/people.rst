@@ -73,25 +73,26 @@
 
    **Former BCCP Postdocs**
 
+   | `Grigor Aslanyan <http://grigoraslanyan.com/>`_
+   | `Kyle Barbary <http://kbarbary.github.io>`_
+   | `Florian Beutler <https://commons.lbl.gov/display/physics/Florian+Beutler>`_
+   | `Phil Bull <http://www.philbull.com/>`_
    | `Sudeep Das <http://bccp.lbl.gov/~sudeep/home.html>`_
+   | `Josh Dillon <http://joshdillon.net/>`_
+   | `Andreu Font <https://commons.lbl.gov/display/physics/Andreu+Font-Ribera>`_
+   | Brian Hayden
+   | `Blake Sherwin <http://www.astro.princeton.edu/~bsherwin/Blake_Sherwin/Welcome.html>`_
+   | `Aaron Meisner <http://aaronmeisner.com>`_
+   | `Michael Mortonson <http://www.physics.ohio-state.edu/~mmortonson/>`_
+   | Claire Poppett
+   | `Beth Reid <http://bethreid.com/BR/Home.html>`_
+   | `Marcel Schmittfull <http://bccp.berkeley.edu/msl/>`_
    | `Hee-Jong Seo <http:hee-jong-seo>`_
    | `Anze Slosar <http:anze-slosar>`_
    | `Tristan Smith <http:tristian-smith>`_
    | `Jeremy Tinker <http:jeremy-tinker>`_
-   | `Beth Reid <http://bethreid.com/BR/Home.html>`_
-   | `Michael Mortonson <http://www.physics.ohio-state.edu/~mmortonson/>`_
-   | `Grigor Aslanyan <http://grigoraslanyan.com/>`_
-   | `Florian Beutler <https://commons.lbl.gov/display/physics/Florian+Beutler>`_
-   | `Andreu Font <https://commons.lbl.gov/display/physics/Andreu+Font-Ribera>`_
-   | `Marcel Schmittfull <http://bccp.berkeley.edu/msl/>`_
    | `Marcel van Daalen <http://astro.berkeley.edu/~marcel/>`_
-   | `Josh Dillon <http://joshdillon.net/>`_
-   | `Blake Sherwin <http://www.astro.princeton.edu/~bsherwin/Blake_Sherwin/Welcome.html>`_
-   | `Aaron Meisner <http://aaronmeisner.com>`_
-   | `Kyle Barbary <http://kbarbary.github.io>`_
-   | `Phil Bull <http://www.philbull.com/>`_
-   | Brian Hayden
-   | Claire Poppett
+
 
    **Former BCCP Grad students**
 
