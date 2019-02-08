@@ -81,7 +81,7 @@
    | `Josh Dillon <http://joshdillon.net/>`_
    | `Andreu Font <https://commons.lbl.gov/display/physics/Andreu+Font-Ribera>`_
    | Brian Hayden
-   | `Blake Sherwin <http://www.astro.princeton.edu/~bsherwin/Blake_Sherwin/Welcome.html>`_
+   | `Blake Sherwin <http://bccp.berkeley.edu/sherwin/Welcome.html>`_
    | `Aaron Meisner <http://aaronmeisner.com>`_
    | `Michael Mortonson <http://www.physics.ohio-state.edu/~mmortonson/>`_
    | Claire Poppett
