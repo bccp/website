@@ -48,11 +48,14 @@
    **Other BCCP-affiliated faculty and scientists**
 
    | `Greg Aldering <https://commons.lbl.gov/display/physics/Greg+Aldering>`_
+   | `Marcelo Alvarez <http://cita.utoronto.ca/~malvarez>`_
    | Stephen Bailey
    | Chris Bebek
    | `Julian Borrill <http://crd.lbl.gov/about/staff/mcs/computational-cosmology-center/borrill/>`_
    | `Joanne Cohn <http://astro.berkeley.edu/~jcohn/>`_
    | `Bob Cahn <http://phyweb.lbl.gov/~rncahn/www/cahn.html>`_
+   | `Yu Feng <http://rainwoodman.github.io/website>`_
+   | Simone Ferraro
    | `William Holzapfel <http://cosmology.berkeley.edu/~swlh/>`_
    | `Alex Kim <http://panisse.lbl.gov/~akim/>`_
    | `Adrian Lee <http://physics.berkeley.edu/people/faculty/adrian-lee>`_
@@ -64,10 +67,8 @@
    | `David Schlegel <https://bigboss.lbl.gov/Contacts.html>`_
    | Rollin Thomas
    | `Martin White <http://astro.berkeley.edu/people/faculty/white.html>`_
-   | `Yu Feng <http://rainwoodman.github.io/website>`_
-   | `Marcelo Alvarez <http://cita.utoronto.ca/~malvarez>`_
-   | Simone Ferraro
-  
+
+
 .. container:: col-md-4
 
    **Former BCCP Postdocs**
