@@ -15,16 +15,17 @@
 
    **Current BCCP-affiliated Postdocs**
    
-   | Yin Li
-   | Emanuele Castorina
-   | `Zachary Slepian <http://w.astro.berkeley.edu/~zslepian/>`_
-   | HongMing Zhu
-   | Sukhdeep Singh
-   | `Miguel Zumalacarregui <http://miguelzumalacarregui.es/>`_
    | Vanessa Boehm
-   | `Emmanuel Schaan <https://eschaan.lbl.gov/>`_
-   | Michael Wilson
+   | Emanuele Castorina
    | `ChangHoon Hahn <http://changhoonhahn.github.io>`_
+   | Yin Li
+   | `Emmanuel Schaan <https://eschaan.lbl.gov/>`_
+   | Sukhdeep Singh
+   | `Zachary Slepian <http://w.astro.berkeley.edu/~zslepian/>`_
+   | Michael Wilson
+   | HongMing Zhu
+   | `Miguel Zumalacarregui <http://miguelzumalacarregui.es/>`_
+   
 
 .. container:: col-md-4
 
