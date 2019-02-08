@@ -83,7 +83,7 @@
    | Brian Hayden
    | `Blake Sherwin <http://bccp.berkeley.edu/sherwin/Welcome.html>`_
    | `Aaron Meisner <http://aaronmeisner.com>`_
-   | `Michael Mortonson <http://www.physics.ohio-state.edu/~mmortonson/>`_
+   | `Michael Mortonson
    | Claire Poppett
    | `Beth Reid <http://bethreid.com/BR/Home.html>`_
    | `Marcel Schmittfull <http://bccp.berkeley.edu/msl/>`_
