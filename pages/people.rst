@@ -38,12 +38,12 @@
    **BCCP-affiliated Graduate and Undergraduate students**
 
    | Chirag Modi
-   | Benjamin Horowitz 
-   | Byeonghee Yu  
-   | Ellie Kitanidis
+   | Adrian Bayer
    | Stephen Chen
    | Biwei Dai
-   | Adrian Bayer
+   | Benjamin Horowitz 
+   | Ellie Kitanidis
+   | Byeonghee Yu  
 
    **Other BCCP-affiliated faculty and scientists**
 
