@@ -56,7 +56,7 @@
    | `Bob Cahn <http://phyweb.lbl.gov/~rncahn/www/cahn.html>`_
    | `Yu Feng <http://rainwoodman.github.io/website>`_
    | Simone Ferraro
-   | `William Holzapfel <https://physics.berkeley.edu/people/faculty/william-holzapfel`_
+   | `William Holzapfel <ttps://physics.berkeley.edu/people/faculty/william-holzapfel>`_
    | `Alex Kim <http://panisse.lbl.gov/~akim/>`_
    | `Adrian Lee <http://physics.berkeley.edu/people/faculty/adrian-lee>`_
    | Michael Levi
