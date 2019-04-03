@@ -27,6 +27,7 @@ Current Visitors
 Spring 2019
 -----------
 - Miguel Zumalacárregui (Nordita) – January 1-December 31
+- Enea Di Dio (SNF) – January 1-December 31
 - He Jia (PKU) – Feb 11-October 4
 - Hector Villarrubia Rojo (Univ Madrid) – March 23-June 29
 
