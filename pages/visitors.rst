@@ -25,12 +25,13 @@ Current Visitors
 ================
 
 Summer 2019
-Miguel Zumalacárregui (Nordita) – January 1-October 31
-Enea Di Dio (SNF) – January 1-December 31 
-He Jia (PKU) – Feb 11-October 4
-Hector Villarrubia Rojo (Univ Madrid) – March 23-June 29
-Xuheng Luo (USTC) – July 1 – September 30
-Sarah Eftekharzadeh (Utah) – July 1 – August 2
+-----------
+- Miguel Zumalacárregui (Nordita) – January 1-October 31
+- Enea Di Dio (SNF) – January 1-December 31 
+- He Jia (PKU) – Feb 11-October 4
+- Hector Villarrubia Rojo (Univ Madrid) – March 23-June 29
+- Xuheng Luo (USTC) – July 1 – September 30
+- Sarah Eftekharzadeh (Utah) – July 1 – August 2
 
 Previous Visitors
 =================
@@ -41,7 +42,6 @@ Spring 2019
 - Enea Di Dio (SNF) – January 1-December 31
 - He Jia (PKU) – Feb 11-October 4
 - Hector Villarrubia Rojo (Univ Madrid) – March 23-June 29
-
 
 Fall 2018
 -----------
@@ -64,7 +64,6 @@ Spring 2018
 - Enea Di Dio (SNF) – January 1-December 31
 - Sandrine Codis (IAP) - January 9-18
 - Daniel Holz (Univ Chicago) - February 12-July 31
-
 
 Fall 2017
 -----------
