@@ -24,6 +24,17 @@ decisions are based on the availability of space and funding.
 Current Visitors
 ================
 
+Summer 2019
+Miguel Zumalacárregui (Nordita) – January 1-October 31
+Enea Di Dio (SNF) – January 1-December 31 
+He Jia (PKU) – Feb 11-October 4
+Hector Villarrubia Rojo (Univ Madrid) – March 23-June 29
+Xuheng Luo (USTC) – July 1 – September 30
+Sarah Eftekharzadeh (Utah) – July 1 – August 2
+
+Previous Visitors
+=================
+
 Spring 2019
 -----------
 - Miguel Zumalacárregui (Nordita) – January 1-December 31
@@ -31,8 +42,6 @@ Spring 2019
 - He Jia (PKU) – Feb 11-October 4
 - Hector Villarrubia Rojo (Univ Madrid) – March 23-June 29
 
-Previous Visitors
-=================
 
 Fall 2018
 -----------
