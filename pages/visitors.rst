@@ -32,6 +32,7 @@ Summer 2019
 - Hector Villarrubia Rojo (Univ Madrid) – March 23-June 29
 - Xuheng Luo (USTC) – July 1 – September 30
 - Sarah Eftekharzadeh (Utah) – July 1 – August 2
+- David Shih (Rutgers) – August 1 - December 31
 
 Previous Visitors
 =================
