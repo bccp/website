@@ -30,10 +30,10 @@ Summer 2019
 - Enea Di Dio (SNF) – January 1-December 31 
 - He Jia (PKU) – Feb 11-October 4
 - Hector Villarrubia Rojo (Univ Madrid) – March 23-June 29
-- Xuheng Luo (USTC) – July 1 – September 30
-- Sarah Eftekharzadeh (Utah) – July 1 – August 2
-- Elena Pierpaoli (USC) Aug 13-20
-- David Shih (Rutgers) – August 1 - December 31
+- Xuheng Luo (USTC) – July 1–September 30
+- Sarah Eftekharzadeh (Utah) – July 1–August 2
+- Elena Pierpaoli (USC) - August 13-20
+- David Shih (Rutgers) – August 1-December 31
 
 Previous Visitors
 =================
