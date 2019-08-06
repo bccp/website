@@ -34,6 +34,7 @@ Summer 2019
 - Sarah Eftekharzadeh (Utah) – July 1–August 2
 - Elena Pierpaoli (USC) - August 13-20
 - David Shih (Rutgers) – August 1-December 31
+- Malgorzata Siudek (IFAE, Barcelona) – August 1-November 1
 
 Previous Visitors
 =================
