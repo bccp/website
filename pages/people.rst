@@ -31,7 +31,7 @@
 
    **Computational Data Science (CDS) Fellows**
 
-   | Francois Lanusse
+   | Francois Lanusse <https://flanusse.net/>`_
    | Marius Millea
    | `Kara Ponder <https://kponder.github.io/>`_
 
