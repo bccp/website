@@ -41,7 +41,7 @@
    | Adrian Bayer
    | Stephen Chen
    | Biwei Dai
-   | Benjamin Horowitz 
+   | `Benjamin Horowitz <http://bhorowitz.github.io>`_
    | Ellie Kitanidis
    | Byeonghee Yu  
 
