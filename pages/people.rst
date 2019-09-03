@@ -17,11 +17,11 @@
    
    | Vanessa Boehm
    | Emanuele Castorina
+   | Jia Liu
    | `ChangHoon Hahn <http://changhoonhahn.github.io>`_
-   | Yin Li
    | `Emmanuel Schaan <https://eschaan.lbl.gov/>`_
    | Sukhdeep Singh
-   | `Zachary Slepian <http://w.astro.berkeley.edu/~zslepian/>`_
+   | George Stein
    | Michael Wilson
    | HongMing Zhu
    | `Miguel Zumalacarregui <http://miguelzumalacarregui.es/>`_
@@ -81,6 +81,7 @@
    | `Josh Dillon <http://joshdillon.net/>`_
    | `Andreu Font <https://commons.lbl.gov/display/physics/Andreu+Font-Ribera>`_
    | Brian Hayden
+   | Yin Li
    | `Blake Sherwin <http://bccp.berkeley.edu/sherwin/Welcome.html>`_
    | `Aaron Meisner <http://aaronmeisner.com>`_
    | Michael Mortonson
@@ -88,6 +89,7 @@
    | `Beth Reid <http://bethreid.com/BR/Home.html>`_
    | `Marcel Schmittfull <http://bccp.berkeley.edu/msl/>`_
    | `Hee-Jong Seo <http:hee-jong-seo>`_
+   | `Zachary Slepian <http://w.astro.berkeley.edu/~zslepian/>`_
    | `Anze Slosar <http:anze-slosar>`_
    | `Tristan Smith <http:tristian-smith>`_
    | `Jeremy Tinker <http:jeremy-tinker>`_
