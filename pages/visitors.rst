@@ -23,6 +23,17 @@ decisions are based on the availability of space and funding.
 
 Current Visitors
 ================
+Fall 2019
+-----------
+- Miguel Zumalacárregui (Nordita) – January 1-October 31
+- Enea Di Dio (SNF) – January 1-December 31 
+- He Jia (PKU) – Feb 11-October 4
+- Xuheng Luo (USTC) – July 1–September 30
+- David Shih (Rutgers) – August 1-December 31
+- Malgorzata Siudek (IFAE, Barcelona) – August 1-November 1
+
+Previous Visitors
+=================
 
 Summer 2019
 -----------
@@ -35,9 +46,6 @@ Summer 2019
 - Elena Pierpaoli (USC) - August 13-20
 - David Shih (Rutgers) – August 1-December 31
 - Malgorzata Siudek (IFAE, Barcelona) – August 1-November 1
-
-Previous Visitors
-=================
 
 Spring 2019
 -----------
