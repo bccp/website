@@ -90,7 +90,7 @@
    | `Marcel Schmittfull <http://bccp.berkeley.edu/msl/>`_
    | `Hee-Jong Seo <http:hee-jong-seo>`_
    | `Zachary Slepian <http://w.astro.berkeley.edu/~zslepian/>`_
-   | `Anze Slosar <http://www.slosar.com/>`_
+   | `Anze Slosar <http://bccp.berkeley.edu/people/anze-slosar/>`_
    | `Tristan Smith <http:tristian-smith>`_
    | `Jeremy Tinker <http:jeremy-tinker>`_
    | `Marcel van Daalen <http://astro.berkeley.edu/~marcel/>`_
