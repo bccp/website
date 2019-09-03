@@ -37,7 +37,7 @@
 
    **BCCP-affiliated Graduate and Undergraduate students**
 
-   | Chirag Modi
+   | `Chirag Modi <https://bids.berkeley.edu/people/chirag-modi/>`_
    | Adrian Bayer
    | Stephen Chen
    | Biwei Dai
