@@ -17,7 +17,7 @@
    
    | Vanessa Boehm
    | Emanuele Castorina
-   | Aaron Ewall-Wice
+   | `Aaron Ewall-Wice <https://sites.google.com/view/aaron-ewall-wice/home>`_
    | Jia Liu
    | `ChangHoon Hahn <http://changhoonhahn.github.io>`_
    | Paul La Plante
