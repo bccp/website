@@ -17,8 +17,10 @@
    
    | Vanessa Boehm
    | Emanuele Castorina
+   | Aaron Ewall-Wice
    | Jia Liu
    | `ChangHoon Hahn <http://changhoonhahn.github.io>`_
+   | Paul La Plante
    | `Emmanuel Schaan <https://eschaan.lbl.gov/>`_
    | Sukhdeep Singh
    | George Stein
