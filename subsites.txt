@@ -4,4 +4,4 @@
 2018-extra-galactic | 2018-extra-galactic | html | .
 2018-multiplex-fiber | 2018-multiplex-fiber | html | .
 2019-lensing | 2019-lensing | html | .
-2020-spectrosco | 2020-spectrosco | html | .
+2020-spectroscopic | 2020-spectroscopic | html | .
