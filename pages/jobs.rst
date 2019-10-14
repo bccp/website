@@ -11,7 +11,7 @@ There are two separate opportunities to join the Berkeley cosmology community. P
 
 
 
-**Chamberlain Fellowship at LBNL**
+**-- Chamberlain Fellowship at LBNL**
 
 Please apply by October 18 for full consideration, however it will remain open until filled. Information and application at:
 https://academicjobsonline.org/ajo/jobs/14390
@@ -21,7 +21,7 @@ https://academicjobsonline.org/ajo/jobs/14390
 
 
 
-**BCCP Postdoctoral Fellow/Computational Data-Science Fellow positions**
+**-- BCCP Postdoctoral Fellow/Computational Data-Science Fellow positions**
 
 
 **Recruitment Period**
