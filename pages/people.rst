@@ -68,7 +68,7 @@
    | Natalie Roe
    | `David Schlegel <https://bigboss.lbl.gov/Contacts.html>`_
    | Rollin Thomas
-   | `Martin White <http://astro.berkeley.edu/people/faculty/white.html>`_
+   | `Martin White <http://w.astro.berkeley.edu/~mwhite/>`_
 
 
 .. container:: col-md-4
