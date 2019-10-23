@@ -16,9 +16,8 @@
    **Current BCCP-affiliated Postdocs**
    
    | Vanessa Boehm
-   | Emanuele Castorina
    | `Aaron Ewall-Wice <https://sites.google.com/view/aaron-ewall-wice/home>`_
-   | Jia Liu
+   | `Jia Liu <https://liuxx479.github.io/>`_
    | `ChangHoon Hahn <http://changhoonhahn.github.io>`_
    | Paul La Plante
    | `Emmanuel Schaan <https://eschaan.lbl.gov/>`_
@@ -79,6 +78,7 @@
    | `Kyle Barbary <http://kbarbary.github.io>`_
    | `Florian Beutler <https://commons.lbl.gov/display/physics/Florian+Beutler>`_
    | `Phil Bull <http://www.philbull.com/>`_
+   | Emanuele Castorina
    | `Sudeep Das <http://bccp.lbl.gov/~sudeep/home.html>`_
    | `Josh Dillon <http://joshdillon.net/>`_
    | `Andreu Font <https://commons.lbl.gov/display/physics/Andreu+Font-Ribera>`_
