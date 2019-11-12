@@ -9,6 +9,13 @@
 
 .. container:: col-md-6
 
+   **Due to difficulty to comply with the current DOE policy on Chinese government
+   sponsered visiting scholars, the BCCP-Peking University Summer Studnet Visitor
+   program has been discontinued.**
+
+   **BCCP still welcome and accept motivated undergrad students of all backgrounds
+   to visit for summer research internship via the regular visitor program.**
+
    The BCCP-Peking University Summer Student Visitor program aims to connect best
    undergraduate students of physics from Peking University with the research
    activities at the Berkeley Center for Cosmological Physics (BCCP). BCCP is part
