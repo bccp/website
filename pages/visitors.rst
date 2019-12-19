@@ -27,10 +27,11 @@ Fall 2019
 -----------
 - Miguel Zumalacárregui (Nordita) – January 1-October 31
 - Enea Di Dio (SNF) – January 1-December 31 
-- He Jia (PKU) – Feb 11-October 4
+- He Jia (PKU) – February 11-October 4
 - Xuheng Luo (USTC) – July 1–September 30
 - David Shih (Rutgers) – August 1-December 31
 - Malgorzata Siudek (IFAE, Barcelona) – August 1-November 1
+- Jose Maria Ezquiaga (Chicago) - December 9-13
 
 Previous Visitors
 =================
