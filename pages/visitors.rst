@@ -23,18 +23,24 @@ decisions are based on the availability of space and funding.
 
 Current Visitors
 ================
+Spring 2020
+-----------
+- Miguel Zumalacárregui (Nordita) – January 1-May 30
+- David Shih (Rutgers) – January 1-June 30
+- Henry Liu (UBC) – May 1-August 30
+
+Previous Visitors
+=================
+
 Fall 2019
 -----------
-- Miguel Zumalacárregui (Nordita) – January 1-October 31
+- Miguel Zumalacárregui (Nordita) – January 1-May 30
 - Enea Di Dio (SNF) – January 1-December 31 
 - He Jia (PKU) – February 11-October 4
 - Xuheng Luo (USTC) – July 1–September 30
 - David Shih (Rutgers) – August 1-December 31
 - Malgorzata Siudek (IFAE, Barcelona) – August 1-November 1
 - Jose Maria Ezquiaga (Chicago) - December 9-13
-
-Previous Visitors
-=================
 
 Summer 2019
 -----------
