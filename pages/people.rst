@@ -43,7 +43,6 @@
    | Adrian Bayer
    | Stephen Chen
    | Biwei Dai
-   | `Benjamin Horowitz <http://bhorowitz.github.io>`_
    | Ellie Kitanidis
    | Byeonghee Yu  
 
@@ -104,6 +103,7 @@
    | Hannah Fakhouri
    | Jonathan Blazek
    | Matt George
+   | `Benjamin Horowitz <http://bhorowitz.github.io>`_
    | Eric Huff
    | Yookyung Noh
    | Casey Stark
