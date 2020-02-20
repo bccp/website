@@ -19,6 +19,7 @@
    | `Aaron Ewall-Wice <https://sites.google.com/view/aaron-ewall-wice/home>`_
    | `Jia Liu <https://liuxx479.github.io/>`_
    | `ChangHoon Hahn <http://changhoonhahn.github.io>`_
+   | Daniel Kuesters
    | Paul La Plante
    | `Emmanuel Schaan <https://eschaan.lbl.gov/>`_
    | Sukhdeep Singh
