@@ -21,7 +21,7 @@
    | `ChangHoon Hahn <http://changhoonhahn.github.io>`_
    | Daniel Kuesters
    | Paul La Plante
-   | Giuseppe Puglisi
+   | `Giuseppe Puglisi http://giuspugl.github.io/>`_
    | `Emmanuel Schaan <https://eschaan.lbl.gov/>`_
    | Sukhdeep Singh
    | George Stein
