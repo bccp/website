@@ -23,14 +23,21 @@ decisions are based on the availability of space and funding.
 
 Current Visitors
 ================
+
+Summer 2020
+-----------
+- David Shih (Rutgers) – January 1-June 30
+- Henry Liu (UBC) – May 1-August 30
+
+Previous Visitors
+=================
+
 Spring 2020
 -----------
 - Miguel Zumalacárregui (Nordita) – January 1-May 30
 - David Shih (Rutgers) – January 1-June 30
 - Henry Liu (UBC) – May 1-August 30
 
-Previous Visitors
-=================
 
 Fall 2019
 -----------
