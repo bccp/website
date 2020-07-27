@@ -15,7 +15,7 @@
 
    **Current BCCP-affiliated Postdocs**
    
-   | Vanessa Boehm
+   | `Vanessa Boehm <https://vmboehm.github.io/>`_
    | `Aaron Ewall-Wice <https://sites.google.com/view/aaron-ewall-wice/home>`_
    | `Jia Liu <https://liuxx479.github.io/>`_
    | `ChangHoon Hahn <http://changhoonhahn.github.io>`_
