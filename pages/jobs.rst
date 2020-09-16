@@ -4,7 +4,7 @@
 .. tags: 
 .. description: Job opening
 
-Postdoctoral Fellow--Berkeley Center for Cosmological Physics (BCCP) and Theoretical Astrophysics Center (TAC)
+**Postdoctoral Fellow--Berkeley Center for Cosmological Physics (BCCP) and Theoretical Astrophysics Center (TAC)**
 
 The Berkeley Center for Cosmological Physics (BCCP) and Theoretical Astrophysics Center (TAC) at the University of California, Berkeley, invites applications for BCCP and TAC Postdoctoral Fellows, with an anticipated start date in summer or fall 2021. BCCP Fellows are expected to carry out independent research on topics of their choosing in cosmology. TAC Fellows can pursue research in any area of theoretical astrophysics.  Fellows positions will be for two years with the possibility of a one-year extension. Applicants responding to this ad will be considered for both the BCCP and TAC Fellowships, and will also be considered for grant-supported postdoctoral positions with BCCP and TAC members.
 
