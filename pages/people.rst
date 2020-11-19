@@ -83,7 +83,7 @@
    | `Andreu Font <https://commons.lbl.gov/display/physics/Andreu+Font-Ribera>`_
    | Brian Hayden
    | `Francois Lanusse <https://flanusse.net/>`_
-   | Yin Li
+   | `Yin Li <https://www.simonsfoundation.org/people/yin-li/>`_
    | `Blake Sherwin <http://bccp.berkeley.edu/sherwin/Welcome.html>`_
    | `Aaron Meisner <http://aaronmeisner.com>`_
    | Michael Mortonson
