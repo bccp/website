@@ -40,7 +40,6 @@
 
    **BCCP-affiliated Graduate and Undergraduate students**
 
-   | `Chirag Modi <https://bids.berkeley.edu/people/chirag-modi/>`_
    | Adrian Bayer
    | Stephen Chen
    | Biwei Dai
@@ -102,18 +101,20 @@
 
    **Former BCCP Grad students**
 
-   | Hannah Fakhouri
    | Jonathan Blazek
-   | Matt George
-   | `Benjamin Horowitz <http://bhorowitz.github.io>`_
-   | Eric Huff
-   | Yookyung Noh
-   | Casey Stark
-   | Caroline Sofiatti
-   | Clare Saunders
-   | Nick Hand
    | Kyle Boone
    | Parker Fagrelius
+   | Hannah Fakhouri
+   | Matt George
+   | Nick Hand
+   | `Benjamin Horowitz <http://bhorowitz.github.io>`_
+   | Eric Huff
+   | `Chirag Modi <https://bids.berkeley.edu/people/chirag-modi/>`_
+   | Yookyung Noh
+   | Caroline Sofiatti
+   | Clare Saunders
+   | Casey Stark
+
 
    **System Administrator**
 
