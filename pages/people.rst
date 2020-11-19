@@ -22,6 +22,7 @@
    | Daniel Kuesters
    | Paul La Plante
    | `Giuseppe Puglisi <http://giuspugl.github.io/>`_
+   | Joseph DeRose
    | `Emmanuel Schaan <https://eschaan.lbl.gov/>`_
    | George Stein
    | Michael Wilson
