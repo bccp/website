@@ -34,7 +34,6 @@
 
    **Computational Data Science (CDS) Fellows**
 
-   | `Francois Lanusse <https://flanusse.net/>`_
    | `Marius Millea <https://cosmicmar.com/>`_
    | `Kara Ponder <https://kponder.github.io/>`_
 
@@ -83,6 +82,7 @@
    | `Josh Dillon <http://joshdillon.net/>`_
    | `Andreu Font <https://commons.lbl.gov/display/physics/Andreu+Font-Ribera>`_
    | Brian Hayden
+   | `Francois Lanusse <https://flanusse.net/>`_
    | Yin Li
    | `Blake Sherwin <http://bccp.berkeley.edu/sherwin/Welcome.html>`_
    | `Aaron Meisner <http://aaronmeisner.com>`_
