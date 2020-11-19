@@ -23,7 +23,6 @@
    | Paul La Plante
    | `Giuseppe Puglisi <http://giuspugl.github.io/>`_
    | `Emmanuel Schaan <https://eschaan.lbl.gov/>`_
-   | Sukhdeep Singh
    | George Stein
    | Michael Wilson
    | HongMing Zhu
@@ -92,6 +91,7 @@
    | `Beth Reid <http://bethreid.com/BR/Home.html>`_
    | `Marcel Schmittfull <http://bccp.berkeley.edu/msl/>`_
    | `Hee-Jong Seo <http:hee-jong-seo>`_
+   | Sukhdeep Singh
    | `Zachary Slepian <http://w.astro.berkeley.edu/~zslepian/>`_
    | `Anze Slosar <http://bccp.berkeley.edu/people/anze-slosar/>`_
    | `Tristan Smith <http:tristian-smith>`_
