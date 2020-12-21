@@ -5,11 +5,8 @@
 .. description: 
 
 
-.. class:: sidebar jumbotron
-
-   .. raw:: html
    
-   BCCP HAS TEMPORARILY DISBANDED THE VISITOR PROGRAM FOR THE DURATION OF THE PANDEMIC.
+   BCCP HAS TEMPORARILY DISBANDED THE VISITOR PROGRAM FOR THE DURATION OF THE PANDEMIC
 
 
 We maintain an active program for visiting scholars. BCCP hosts
