@@ -8,9 +8,9 @@
 .. class:: sidebar jumbotron
 
    .. raw:: html
+   
+   BCCP HAS TEMPORARILY DISBANDED THE VISITOR PROGRAM FOR THE DURATION OF THE PANDEMIC.
 
-      <p>If you would like to visit BCCP, please fill out the visitor form:</p>
-      <p><a class="btn btn-primary btn-lg" href="https://docs.google.com/spreadsheet/viewform?formkey=dEVKc0pKb1ktSXFTX1hHRi13bURCLWc6MA">Visitor Form</a></p>
 
 We maintain an active program for visiting scholars. BCCP hosts
 visitors at all levels, from senior scientists to postdocs, graduate
@@ -23,6 +23,8 @@ decisions are based on the availability of space and funding.
 
 Current Visitors
 ================
+
+NONE
 
 Previous Visitors
 =================
