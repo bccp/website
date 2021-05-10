@@ -26,7 +26,6 @@
    | `Emmanuel Schaan <https://eschaan.lbl.gov/>`_
    | George Stein
    | Michael Wilson
-   | HongMing Zhu
    | `Miguel Zumalacarregui <http://miguelzumalacarregui.es/>`_
    
 
@@ -97,6 +96,7 @@
    | `Tristan Smith <http:tristian-smith>`_
    | `Jeremy Tinker <http:jeremy-tinker>`_
    | `Marcel van Daalen <http://astro.berkeley.edu/~marcel/>`_
+   | HongMing Zhu
 
 
    **Former BCCP Grad students**
