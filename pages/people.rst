@@ -15,29 +15,27 @@
 
    **Current BCCP-affiliated Postdocs**
    
+   | Anton Baleato Lizancos
    | `Vanessa Boehm <https://vmboehm.github.io/>`_
    | `Aaron Ewall-Wice <https://sites.google.com/view/aaron-ewall-wice/home>`_
+   | Xiao Fang
    | `Jia Liu <https://liuxx479.github.io/>`_
-   | `ChangHoon Hahn <http://changhoonhahn.github.io>`_
+   
    | Daniel Kuesters
    | Paul La Plante
-   | `Giuseppe Puglisi <http://giuspugl.github.io/>`_
-   | Joseph DeRose
    | `Emmanuel Schaan <https://eschaan.lbl.gov/>`_
    | George Stein
    | Michael Wilson
-   | `Miguel Zumalacarregui <http://miguelzumalacarregui.es/>`_
-   
+   | `Marius Millea <https://cosmicmar.com/>`_
 
 .. container:: col-md-4
 
-   **Computational Data Science (CDS) Fellows**
-
-   | `Marius Millea <https://cosmicmar.com/>`_
-   | `Kara Ponder <https://kponder.github.io/>`_
-
    **BCCP-affiliated Graduate and Undergraduate students**
 
+   | Jakob Robnik
+   | Henry Liu
+   | Winston Yin
+   | Nathaniel Leslie
    | Adrian Bayer
    | Stephen Chen
    | Biwei Dai
@@ -66,7 +64,7 @@
    | `David Schlegel <https://bigboss.lbl.gov/Contacts.html>`_
    | Rollin Thomas
    | `Martin White <http://w.astro.berkeley.edu/~mwhite/>`_
-
+   | Ido Ben-Dayan
 
 .. container:: col-md-4
 
@@ -97,7 +95,12 @@
    | `Jeremy Tinker <http:jeremy-tinker>`_
    | `Marcel van Daalen <http://astro.berkeley.edu/~marcel/>`_
    | HongMing Zhu
-
+   | `Miguel Zumalacarregui <http://miguelzumalacarregui.es/>`_
+   | `ChangHoon Hahn <http://changhoonhahn.github.io>`_
+   | `Giuseppe Puglisi <http://giuspugl.github.io/>`_
+   | Joseph DeRose
+   | `Kara Ponder <https://kponder.github.io/>`_
+   | Max Lee
 
    **Former BCCP Grad students**
 
@@ -122,5 +125,5 @@
 
    **Administration**
 
-   Melissa Barclay
+   Laura Fantone 
 
