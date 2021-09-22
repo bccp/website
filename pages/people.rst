@@ -20,7 +20,6 @@
    | `Aaron Ewall-Wice <https://sites.google.com/view/aaron-ewall-wice/home>`_
    | Xiao Fang
    | `Jia Liu <https://liuxx479.github.io/>`_
-   
    | Daniel Kuesters
    | Paul La Plante
    | `Emmanuel Schaan <https://eschaan.lbl.gov/>`_
