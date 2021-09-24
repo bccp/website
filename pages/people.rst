@@ -24,7 +24,6 @@
    | Paul La Plante
    | `Emmanuel Schaan <https://eschaan.lbl.gov/>`_
    | George Stein
-   | Michael Wilson
    | `Marius Millea <https://cosmicmar.com/>`_
 
 .. container:: col-md-4
@@ -99,9 +98,9 @@
    | `Giuseppe Puglisi <http://giuspugl.github.io/>`_
    | Joseph DeRose
    | `Kara Ponder <https://kponder.github.io/>`_
-   | Max Lee
+   | Michael Wilson
 
-   **Former BCCP Grad students**
+   **Former BCCP Graduate and Undergraduate students**
 
    | Jonathan Blazek
    | Kyle Boone
@@ -116,7 +115,7 @@
    | Caroline Sofiatti
    | Clare Saunders
    | Casey Stark
-
+   | Max Lee
 
    **System Administrator**
 
