@@ -15,7 +15,7 @@
 
    **Current BCCP-affiliated Postdocs**
    
-   | Anton Baleato Lizancos
+   | `Anton Baleato Lizancos <https://abaleato.github.io/>`_
    | `Vanessa Boehm <https://vmboehm.github.io/>`_
    | `Aaron Ewall-Wice <https://sites.google.com/view/aaron-ewall-wice/home>`_
    | Xiao Fang
