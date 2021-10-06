@@ -5,4 +5,4 @@
 .. description: 
 .. hidetitle: true
 
-Events: To be posted.
+Link to cosmology seminars schedule: https://cosmology.lbl.gov/sem_bcg_future.html 
