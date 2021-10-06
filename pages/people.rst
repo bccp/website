@@ -37,8 +37,8 @@
    | Adrian Bayer
    | Stephen Chen
    | Biwei Dai
-   | Ellie Kitanidis
-   | Byeonghee Yu  
+   | Byeonghee Yu
+   | Noah Sailer
 
    **Other BCCP-affiliated faculty and scientists**
 
@@ -63,7 +63,12 @@
    | Rollin Thomas
    | `Martin White <http://w.astro.berkeley.edu/~mwhite/>`_
    | Ido Ben-Dayan
-
+   | Solene Chabanier
+   | Jacques Delabrouille
+   | Antonella Palmese
+   | Noah Weaverdyck
+   | Rongpu Zhou
+   
 .. container:: col-md-4
 
    **Former BCCP Postdocs**
@@ -110,12 +115,13 @@
    | Nick Hand
    | `Benjamin Horowitz <http://bhorowitz.github.io>`_
    | Eric Huff
+   | Max Lee
    | `Chirag Modi <https://bids.berkeley.edu/people/chirag-modi/>`_
    | Yookyung Noh
    | Caroline Sofiatti
    | Clare Saunders
    | Casey Stark
-   | Max Lee
+   | Ellie Kitanidis
 
    **System Administrator**
 
