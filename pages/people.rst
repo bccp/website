@@ -21,7 +21,7 @@
    | Xiao Fang
    | `Jia Liu <https://liuxx479.github.io/>`_
    | Daniel Kuesters
-   | Paul La Plante
+   | `Paul La Plante <https://plaplant.github.io/>`_
    | `Emmanuel Schaan <https://eschaan.lbl.gov/>`_
    | George Stein
    | `Marius Millea <https://cosmicmar.com/>`_
