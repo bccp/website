@@ -14,7 +14,7 @@ SITE_URL = "http://bccp.berkeley.edu/"
 # This is the URL where nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "http://getnikola.com/"
-BLOG_EMAIL = "bccpinfo@berkeley.edu"
+BLOG_EMAIL = "bccp@berkeley.edu"
 BLOG_DESCRIPTION = "Berkeley Center for Cosmological Physics"
 LOGO_URL = "/files/logo_108.png"
 SHOW_BLOG_TITLE = False
