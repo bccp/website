@@ -44,8 +44,8 @@ corporations, and foundations. Gifts to Berkeley play an essential
 role both in sustaining fundamental traditions of excellence and in
 moving the University forward decisively.
 
-For more information, contact BCCP Administrative Officer `Melissa
-Barclay <mailto:mbarclay@berkeley.edu>`_.
+For more information, contact BCCP Administrative Officer 
+`Laura Fantone <lfantone@berkeley.edu>`_.
 
 .. raw:: html
 
