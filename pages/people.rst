@@ -50,7 +50,7 @@
    | `Joanne Cohn <http://astro.berkeley.edu/~jcohn/>`_
    | `Bob Cahn <http://phyweb.lbl.gov/~rncahn/www/cahn.html>`_
    | `Yu Feng <http://rainwoodman.github.io/website>`_
-   | `Simone Ferraro <https://astro.berkeley.edu/people/simone-ferraro/>`_
+   | `Simone Ferraro <https://sferraro.lbl.gov/>`_
    | `William Holzapfel <https://physics.berkeley.edu/people/faculty/william-holzapfel>`_
    | `Alex Kim <http://panisse.lbl.gov/~akim/>`_
    | `Adrian Lee <http://physics.berkeley.edu/people/faculty/adrian-lee>`_
