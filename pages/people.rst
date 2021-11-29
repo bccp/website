@@ -39,6 +39,9 @@
    | Biwei Dai
    | Byeonghee Yu
    | Noah Sailer
+   | James Sullivan
+   | Nishant Mishra
+
 
    **Other BCCP-affiliated faculty and scientists**
 
