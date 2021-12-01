@@ -35,7 +35,7 @@
    | Winston Yin
    | Nathaniel Leslie
    | Adrian Bayer
-   | Stephen Chen
+   | `Stephen Chen <https://sfschen.github.io/>`_
    | Biwei Dai
    | Byeonghee Yu
    | Noah Sailer
