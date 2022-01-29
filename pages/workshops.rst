@@ -4,14 +4,14 @@
 .. tags: 
 .. description: 
 
-* `Šmartno <http://bccp.berkeley.edu/2022-Smartno/index.html>`_, 2022 July 17-23, Šmartno, Slovenia
+* `Smartno <http://bccp.berkeley.edu/2022-Smartno/index.html>`_, 2022 July 17-23, Smartno, Slovenia
 * `Reionization and Cosmic Dawn: Looking Forward To the Past <http://bccp.berkeley.edu/2022-reionization/index.html>`_, 2022 Mar 21-23, Berkeley, CA
 * `Spectroscopic Surveys: Are We Ready For the Future <http://bccp.berkeley.edu/2020-spectroscopic/index.html>`_, 2020 Jan 13-15, Berkeley, CA
 * Note: sadly, there will be no 2019 summer workshop in Slovenia due to conflicts with other meetings.
 * `Weak gravitational lensing 2019 <http://bccp.berkeley.edu/2019-lensing/index.html>`_, 2019 Jan 14-16, Berkeley, CA
-* `The Nonlinear Universe 2018 <http://bccp.berkeley.edu/2018-non-linear-universe/index.html>`_, 2018 July 15-21, Šmartno, Slovenia
+* `The Nonlinear Universe 2018 <http://bccp.berkeley.edu/2018-non-linear-universe/index.html>`_, 2018 July 15-21, Smartno, Slovenia
 * `Modeling the Extragalactic Sky <http://bccp.berkeley.edu/2018-extra-galactic/index.html>`_, 2018 January 10-12, Berkeley, CA
-* `The Nonlinear Universe <http://bccp.berkeley.edu/2017-non-linear-universe/index.html>`_, 2017 July 16-22, Šmartno, Slovenia
+* `The Nonlinear Universe <http://bccp.berkeley.edu/2017-non-linear-universe/index.html>`_, 2017 July 16-22, Smartno, Slovenia
 * `Cosmology with Neutral Hydrogen <http://bccp.berkeley.edu/2017-neutral-hydrogen/index.html>`_, 2017 January 11-13, Berkeley, CA
 * `Astro Hack Week <http://astrohackweek.org>`_, 2016 August 29 - September 2, Berkeley, CA
 * `Neutrinos and Light Particles in Cosmology <http://bccp.berkeley.edu/neutrinocosmology2016/index.html>`_, 2016 June 22-24, Berkeley, CA
