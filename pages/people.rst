@@ -126,11 +126,10 @@
    | Casey Stark
    | Ellie Kitanidis
 
-   **System Administrator**
+   **BCCP Administrator**
 
-   `Bryan Abshier <http:bryan-abshier>`_
+   Laura Fantone
 
-   **Administration**
+   **Web administrator**
 
-   Laura Fantone 
-
+   Bryan Abisher
