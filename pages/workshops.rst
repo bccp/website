@@ -4,7 +4,7 @@
 .. tags: 
 .. description: 
 
-* `Smartno <http://bccp.berkeley.edu/2022-Smartno/index.html>`_, 2022 July 17-23, Smartno, Slovenia
+* `Vipolze <http://bccp.berkeley.edu/2022-Smartno/index.html>`_, 2022 July 17-23, Vipolze, Slovenia
 * `Reionization and Cosmic Dawn: Looking Forward To the Past <http://bccp.berkeley.edu/2022-reionization/index.html>`_, 2022 Mar 21-23, Berkeley, CA
 * `Spectroscopic Surveys: Are We Ready For the Future <http://bccp.berkeley.edu/2020-spectroscopic/index.html>`_, 2020 Jan 13-15, Berkeley, CA
 * Note: sadly, there will be no 2019 summer workshop in Slovenia due to conflicts with other meetings.
