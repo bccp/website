@@ -16,9 +16,14 @@
    **Current BCCP-affiliated Postdocs**
    
    | `Anton Baleato Lizancos <https://abaleato.github.io/>`_
+   | Roger de Belsunce
    | `Vanessa Boehm <https://vmboehm.github.io/>`_
    | `Aaron Ewall-Wice <https://sites.google.com/view/aaron-ewall-wice/home>`_
    | Xiao Fang
+   | Shamik Ghosh
+   | Boryana Hadzhiyska
+   | Lingyuan Ji
+   | Minas Karamanis
 
 .. container:: col-md-4
 
@@ -28,10 +33,12 @@
    | Biwei Dai
    | Nathaniel Leslie
    | Henry Liu
+   | Mark Maus
    | Jakob Robnik
    | Noah Sailer
    | James Sullivan
    | Winston Yin
+   | Elisa Russier
 
 
    **Other BCCP-affiliated faculty and scientists**
