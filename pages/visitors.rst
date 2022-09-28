@@ -4,11 +4,6 @@
 .. tags: 
 .. description: 
 
-
-   
-   BCCP HAS TEMPORARILY DISBANDED THE VISITORS PROGRAM FOR THE DURATION OF THE PANDEMIC
-
-
 We maintain an active program for visiting scholars. BCCP hosts
 visitors at all levels, from senior scientists to postdocs, graduate
 students, and undergraduates. Longer term visits involving
@@ -21,10 +16,14 @@ decisions are based on the availability of space and funding.
 Current Visitors
 ================
 
-NONE
+Jamie Ruiz Zapatero (Oxford University) January 2023
 
 Previous Visitors
 =================
+
+2021-22
+-----------
+Ido Ben Dayan (Ariel University) August  22- July 30
 
 Spring 2020
 -----------
