@@ -16,7 +16,7 @@ decisions are based on the availability of space and funding.
 Current Visitors
 ================
 
-- Hee Jong Seo (2022-23)
+- Hee-Jong Seo (2022-23)
 - Tijan Prijon (December 22- January 2023)
 - Jamie Ruiz Zapatero (Oxford University) January 2023
 
