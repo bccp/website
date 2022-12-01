@@ -17,7 +17,6 @@
    
    | `Anton Baleato Lizancos <https://abaleato.github.io/>`_
    | Roger de Belsunce
-   | `Vanessa Boehm <https://vmboehm.github.io/>`_
    | `Aaron Ewall-Wice <https://sites.google.com/view/aaron-ewall-wice/home>`_
    | Xiao Fang
    | Shamik Ghosh
@@ -79,6 +78,7 @@
    | Grigor Aslanyan
    | `Kyle Barbary <http://kbarbary.github.io>`_
    | `Florian Beutler <https://commons.lbl.gov/display/physics/Florian+Beutler>`_
+   | `Vanessa Boehm <https://vmboehm.github.io/>`_
    | `Phil Bull <http://www.philbull.com/>`_
    | Emanuele Castorina
    | `Sudeep Das <http://bccp.lbl.gov/~sudeep/home.html>`_
