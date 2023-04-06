@@ -16,6 +16,10 @@ decisions are based on the availability of space and funding.
 Current Visitors
 ================
 
+Spring 2023
+-----------
+- Gerrit Farren (May 2023)
+- Marco Bonici (March- April 2023)
 - Hee-Jong Seo (Ohio University) 2022-23
 - Richard Grumitt (Oxford) Spring 2023
 - Tijan Prijon (December 22- January 2023)
