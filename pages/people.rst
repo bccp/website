@@ -3,8 +3,6 @@
 
 
 .. container:: col-md-4
-
-  For a full directory of Berkeley cosmologists, see https://cosmology.lbl.gov/directory.html
   
    **Directors**
 
