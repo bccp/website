@@ -17,12 +17,17 @@
    
    | `Anton Baleato Lizancos <https://abaleato.github.io/>`_
    | Roger de Belsunce
+   | Solene Chabanier
+   | Joseph DeRose
    | `Aaron Ewall-Wice <https://sites.google.com/view/aaron-ewall-wice/home>`_
    | Xiao Fang
    | Shamik Ghosh
    | Boryana Hadzhiyska
    | Lingyuan Ji
    | Minas Karamanis
+   | Anthony Kremin
+   | Noah Weaverdyck
+   | Rongpu Zhou
 
 .. container:: col-md-4
 
@@ -64,12 +69,6 @@
    | `David Schlegel <https://bigboss.lbl.gov/Contacts.html>`_
    | Rollin Thomas
    | `Martin White <http://w.astro.berkeley.edu/~mwhite/>`_
-   | Ido Ben-Dayan
-   | Solene Chabanier
-   | Jacques Delabrouille
-   | Antonella Palmese
-   | Noah Weaverdyck
-   | Rongpu Zhou
    
 .. container:: col-md-4
 
@@ -109,7 +108,7 @@
    | `Miguel Zumalacarregui <http://miguelzumalacarregui.es/>`_
    | `ChangHoon Hahn <http://changhoonhahn.github.io>`_
    | `Giuseppe Puglisi <http://giuspugl.github.io/>`_
-   | Joseph DeRose
+   | Antonella Palmese
    | `Kara Ponder <https://kponder.github.io/>`_
    | Michael Wilson
 
