@@ -8,7 +8,7 @@
    For business inquries, please contact BCCP Business Administrator,
    Laura Fantone <lfantone@berkeley.edu>
 
-   For extended visiting, please refer to our Visitors_ program. 
+   For extended visits, please refer to our Visitors_ program. 
 
 .. _Visitors: /visitors/
 
