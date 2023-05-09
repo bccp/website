@@ -3,7 +3,7 @@
 
 
 .. container:: col-md-4
-
+  For a full directory of Berkeley cosmologists, see https://cosmology.lbl.gov/directory.html
    **Directors**
 
    | `Uros Seljak <http://physics.berkeley.edu/people/faculty/uros-seljak>`_
@@ -23,9 +23,11 @@
    | Xiao Fang
    | Shamik Ghosh
    | Boryana Hadzhiyska
+   | `Benjamin Horowitz <http://bhorowitz.github.io>`_
    | Lingyuan Ji
    | Minas Karamanis
    | Anthony Kremin
+   | Amelie Tamone
    | Noah Weaverdyck
    | Rongpu Zhou
 
@@ -57,14 +59,15 @@
    | `Bob Cahn <http://phyweb.lbl.gov/~rncahn/www/cahn.html>`_
    | `Yu Feng <http://rainwoodman.github.io/website>`_
    | `Simone Ferraro <https://sferraro.lbl.gov/>`_
+   | Satya Gontcho A Gontcho
    | `William Holzapfel <https://physics.berkeley.edu/people/faculty/william-holzapfel>`_
    | `Alex Kim <http://panisse.lbl.gov/~akim/>`_
    | `Adrian Lee <http://physics.berkeley.edu/people/faculty/adrian-lee>`_
    | Michael Levi
    | `Eric Linder <http://supernova.lbl.gov/~evlinder/>`_
    | `Pat McDonald <http://cosmology.berkeley.edu/directory.html>`_
-   | `Marius Millea <https://cosmicmar.com/>`_
    | `Peter Nugent <http://astro.berkeley.edu/people/faculty/nugent.htm>`_
+   | Anand Raichoor
    | Natalie Roe
    | `David Schlegel <https://bigboss.lbl.gov/Contacts.html>`_
    | Rollin Thomas
@@ -90,6 +93,7 @@
    | `Jia Liu <https://liuxx479.github.io/>`_
    | `Blake Sherwin <http://bccp.berkeley.edu/sherwin/Welcome.html>`_
    | `Aaron Meisner <http://aaronmeisner.com>`_
+   | `Marius Millea <https://cosmicmar.com/>`_
    | Michael Mortonson
    | `Paul La Plante <https://plaplant.github.io/>`_
    | Claire Poppett
