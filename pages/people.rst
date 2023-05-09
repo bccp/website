@@ -3,7 +3,9 @@
 
 
 .. container:: col-md-4
+
   For a full directory of Berkeley cosmologists, see https://cosmology.lbl.gov/directory.html
+  
    **Directors**
 
    | `Uros Seljak <http://physics.berkeley.edu/people/faculty/uros-seljak>`_
