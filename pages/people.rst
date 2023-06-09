@@ -35,7 +35,6 @@
 
    **BCCP-affiliated Graduate and Undergraduate students**
 
-   | Adrian Bayer
    | Biwei Dai
    | Nathaniel Leslie
    | Henry Liu
@@ -118,6 +117,7 @@
 
    **Former BCCP Graduate and Undergraduate students**
 
+   | Adrian Bayer
    | Jonathan Blazek
    | Kyle Boone
    | `Stephen Chen <https://sfschen.github.io/>`_
