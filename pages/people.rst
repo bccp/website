@@ -36,14 +36,15 @@
    **BCCP-affiliated Graduate and Undergraduate students**
 
    | Biwei Dai
+   | Haruki Ebina
    | Nathaniel Leslie
    | Henry Liu
    | Mark Maus
    | Jakob Robnik
+   | Elisa Russier
    | Noah Sailer
    | James Sullivan
    | Winston Yin
-   | Elisa Russier
 
 
    **Other BCCP-affiliated faculty and scientists**
