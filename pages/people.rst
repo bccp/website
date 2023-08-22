@@ -20,13 +20,14 @@
    | Solene Chabanier
    | Joseph DeRose
    | `Aaron Ewall-Wice <https://sites.google.com/view/aaron-ewall-wice/home>`_
-   | Xiao Fang
    | Shamik Ghosh
    | Boryana Hadzhiyska
    | `Benjamin Horowitz <http://bhorowitz.github.io>`_
    | Lingyuan Ji
    | Minas Karamanis
    | Anthony Kremin
+   | Zack Li
+   | Justin Myles
    | Amelie Tamone
    | Noah Weaverdyck
    | Rongpu Zhou
@@ -85,6 +86,7 @@
    | Emanuele Castorina
    | `Sudeep Das <http://bccp.lbl.gov/~sudeep/home.html>`_
    | `Josh Dillon <http://joshdillon.net/>`_
+   | Xiao Fang
    | `Andreu Font <https://commons.lbl.gov/display/physics/Andreu+Font-Ribera>`_
    | Brian Hayden
    | Daniel Kuesters
