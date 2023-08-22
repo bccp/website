@@ -4,4 +4,4 @@
 .. tags: 
 .. description: Job opening
 
-The 2023  Berkeley Center for Cosmological Physics (BCCP) and Theoretical Astrophysics Center (TAC) application period for Postdoctoral Fellows is now closed. Please check back next fall.
+Information about the fall 2023 Berkeley Center for Cosmological Physics (BCCP) postdoctoral fellowship will be posted here shortly. Please check back in the next few weeks.
