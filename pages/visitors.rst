@@ -16,7 +16,16 @@ decisions are based on the availability of space and funding.
 Current Visitors
 ================
 
-Spring 2023
+Summer 2023
+-----------
+- Stephen Chen (August 2023)
+- Karthik Viswanathan (August 2023)
+- Jyotsna Ravi (July 2023 Pi2 research program)
+
+Previous Visitors
+=================
+
+2023
 -----------
 - Gerrit Farren (May 2023)
 - Marco Bonici (March- April 2023)
@@ -24,9 +33,6 @@ Spring 2023
 - Richard Grumitt (Oxford) Spring 2023
 - Tijan Prijon (December 22- January 2023)
 - Jamie Ruiz Zapatero (Oxford University) January 2023
-
-Previous Visitors
-=================
 
 2021-22
 -----------
@@ -36,7 +42,6 @@ Spring 2020
 -----------
 - Miguel Zumalacárregui (Nordita) – January 1-May 30
 - David Shih (Rutgers) - January 1-June 30
-
 
 Fall 2019
 -----------
