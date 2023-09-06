@@ -4,4 +4,4 @@
 .. tags: 
 .. description: Job opening
 
-Information about the fall 2023 Berkeley Center for Cosmological Physics (BCCP) postdoctoral fellowship will be posted here shortly. Please check back in the next few weeks.
+The fall 2023 Berkeley Center for Cosmological Physics (BCCP) postdoctoral fellowship search is now open! Please apply at `this link <https://academicjobsonline.org/ajo/jobs/25565>`_ by the November 10 deadline. 
