@@ -19,7 +19,6 @@
    | Roger de Belsunce
    | Solene Chabanier
    | Joseph DeRose
-   | `Aaron Ewall-Wice <https://sites.google.com/view/aaron-ewall-wice/home>`_
    | Shamik Ghosh
    | Boryana Hadzhiyska
    | `Benjamin Horowitz <http://bhorowitz.github.io>`_
@@ -27,7 +26,6 @@
    | Minas Karamanis
    | Anthony Kremin
    | Zack Li
-   | Justin Myles
    | Amelie Tamone
    | Noah Weaverdyck
    | Rongpu Zhou
@@ -86,6 +84,7 @@
    | Emanuele Castorina
    | `Sudeep Das <http://bccp.lbl.gov/~sudeep/home.html>`_
    | `Josh Dillon <http://joshdillon.net/>`_
+   | `Aaron Ewall-Wice <https://sites.google.com/view/aaron-ewall-wice/home>`_
    | Xiao Fang
    | `Andreu Font <https://commons.lbl.gov/display/physics/Andreu+Font-Ribera>`_
    | Brian Hayden
@@ -95,6 +94,7 @@
    | `Jia Liu <https://liuxx479.github.io/>`_
    | `Blake Sherwin <http://bccp.berkeley.edu/sherwin/Welcome.html>`_
    | `Aaron Meisner <http://aaronmeisner.com>`_
+   | Justin Myles
    | `Marius Millea <https://cosmicmar.com/>`_
    | Michael Mortonson
    | `Paul La Plante <https://plaplant.github.io/>`_
@@ -140,9 +140,10 @@
    | Ellie Kitanidis
    | Byeonghee Yu
 
-   **BCCP Administrator**
+   **BCCP Administrators**
 
    Laura Fantone
+   Maria Feng
 
    **Web administrator**
 
