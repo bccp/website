@@ -16,6 +16,15 @@ decisions are based on the availability of space and funding.
 Current Visitors
 ================
 
+Spring 2024
+-----------
+- Mathew Robertson
+- Kangning Diao
+
+Fall 2023
+-----------
+- Jose Maria Palencia
+
 Summer 2023
 -----------
 - Stephen Chen (August 2023)
