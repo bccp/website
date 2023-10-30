@@ -23,7 +23,7 @@
    | Boryana Hadzhiyska
    | `Benjamin Horowitz <http://bhorowitz.github.io>`_
    | Lingyuan Ji
-   | Minas Karamanis
+   | `Minas Karamanis <https://www.minaskaramanis.com>`_
    | Anthony Kremin
    | Zack Li
    | Amelie Tamone
