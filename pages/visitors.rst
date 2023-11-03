@@ -24,6 +24,8 @@ Spring 2024
 Fall 2023
 -----------
 - Jose Maria Palencia
+- Alejandro Avilés Cervantes
+- David Nabergoj
 
 Summer 2023
 -----------
