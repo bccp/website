@@ -120,7 +120,7 @@
 
    **Former BCCP Graduate and Undergraduate students**
 
-   | Adrian Bayer
+   | `Adrian Bayer <https://adrianbayer.github.io/>`_
    | Jonathan Blazek
    | Kyle Boone
    | `Stephen Chen <https://sfschen.github.io/>`_
