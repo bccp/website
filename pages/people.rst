@@ -17,12 +17,10 @@
    
    | `Anton Baleato Lizancos <https://abaleato.github.io/>`_
    | Roger de Belsunce
-   | Solene Chabanier
    | Joseph DeRose
+   | `Gerrit Farren <https://gerrfarr.github.io/>'_
    | Shamik Ghosh
    | Boryana Hadzhiyska
-   | `Benjamin Horowitz <http://bhorowitz.github.io>`_
-   | Lingyuan Ji
    | `Minas Karamanis <https://www.minaskaramanis.com>`_
    | Anthony Kremin
    | Zack Li
@@ -82,12 +80,14 @@
    | `Vanessa Boehm <https://vmboehm.github.io/>`_
    | `Phil Bull <http://www.philbull.com/>`_
    | Emanuele Castorina
+   | Solene Chabanier
    | `Sudeep Das <http://bccp.lbl.gov/~sudeep/home.html>`_
    | `Josh Dillon <http://joshdillon.net/>`_
    | `Aaron Ewall-Wice <https://sites.google.com/view/aaron-ewall-wice/home>`_
    | Xiao Fang
    | `Andreu Font <https://commons.lbl.gov/display/physics/Andreu+Font-Ribera>`_
    | Brian Hayden
+   | Lingyuan Ji
    | Daniel Kuesters
    | `Francois Lanusse <https://flanusse.net/>`_
    | `Yin Li <https://www.simonsfoundation.org/people/yin-li/>`_
