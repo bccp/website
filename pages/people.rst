@@ -18,7 +18,7 @@
    | `Anton Baleato Lizancos <https://abaleato.github.io/>`_
    | Roger de Belsunce
    | Joseph DeRose
-   | `Gerrit Farren <https://gerrfarr.github.io/>'_
+   | `Gerrit Farren <https://gerrfarr.github.io/>`_
    | Shamik Ghosh
    | Boryana Hadzhiyska
    | `Minas Karamanis <https://www.minaskaramanis.com>`_
