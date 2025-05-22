@@ -26,7 +26,7 @@
    | Zack Li
    | Amelie Tamone
    | Noah Weaverdyck
-   | Rongpu Zhou
+   | Rongpu Zhou <https://rongpu.github.io/>`_
 
 .. container:: col-md-4
 
